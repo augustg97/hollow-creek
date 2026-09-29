@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/sign_cafe.jpg",
+ "prompt": "A hand-painted wooden shop sign seen straight on, the board filling the whole frame edge to edge: a long dark green painted board with a thin cream border and slightly weathered paint, the words \"MARA'S CAF\u00c9 & STORE\" in elegant cream serif capital letters centred, a small painted wheat sprig at each end. Flat, evenly lit, no background, no perspective.",
+ "negative_prompt": "",
+ "seed": 22,
+ "width": 1536,
+ "height": 512,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/sign_cafe_22.png",
+ "used_for": "caf\u00e9 sign on the porch roof",
+ "processing": "trimmed margin, resized to 1200x400, JPEG q88"
+}

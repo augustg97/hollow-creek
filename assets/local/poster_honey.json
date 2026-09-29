@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/poster_honey.jpg",
+ "prompt": "A small printed poster on cream paper seen straight on, the paper filling the whole frame edge to edge: a simple two-colour letterpress print with the words \"RAW HONEY\" large at the top, an illustration of a bee and honeycomb in the middle, and \"from the Osei garden hives - ask at Mara's\" in small type at the bottom. Slightly creased paper, flat, evenly lit.",
+ "negative_prompt": "",
+ "seed": 51,
+ "width": 768,
+ "height": 1024,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/poster_honey_51.png",
+ "used_for": "notice board: Nadia's honey",
+ "processing": "resized to 480x640, JPEG q88"
+}

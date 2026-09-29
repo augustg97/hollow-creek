@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/art_river.jpg",
+ "prompt": "An oil painting of a quiet river at dawn in late summer, a small wooden dock running out into the water, dark fir forest on the far bank, mist over the water, soft warm light, loose impressionistic brushwork, visible canvas texture. The painting fills the whole frame: no picture frame, no wall.",
+ "negative_prompt": "",
+ "seed": 72,
+ "width": 1024,
+ "height": 768,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/art_river_72.png",
+ "used_for": "caf\u00e9 wall: oil painting of the river at dawn",
+ "processing": "resized to 800x600, JPEG q88"
+}

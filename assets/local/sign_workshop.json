@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/sign_workshop.jpg",
+ "prompt": "A hand-painted wooden sign seen straight on, the board filling the whole frame edge to edge: a weathered barn-red board with white hand-lettered capitals \"T. ALVAREZ\" and below them smaller \"CARPENTRY & BOATS\", a small painted outline of a rowing boat, flaking paint with wood grain showing through. Flat, evenly lit, no background, no perspective.",
+ "negative_prompt": "",
+ "seed": 40,
+ "width": 1536,
+ "height": 512,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/sign_workshop_40.png",
+ "used_for": "sign on the workshop's front wall",
+ "processing": "trimmed margin, resized to 1200x400, JPEG q88"
+}

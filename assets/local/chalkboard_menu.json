@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/chalkboard_menu.jpg",
+ "prompt": "A caf\u00e9 chalkboard menu seen straight on, the black chalkboard surface filling the whole frame edge to edge with no frame visible: hand-written white chalk lettering \"TODAY\" at the top, then \"rye loaf\", \"cinnamon buns\", \"plum cake\", \"coffee \u00b7 tea\", with small chalk drawings of a cup and a leaf, soft chalk smudges.",
+ "negative_prompt": "",
+ "seed": 103,
+ "width": 832,
+ "height": 1216,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.8,
+ "cached": false,
+ "source": ".cache/phase5/chalk_menu_103.png",
+ "used_for": "the caf\u00e9's standing chalkboard (both faces)",
+ "processing": "composited into the chalkboard model's board texture (Poly Haven, CC0), both faces"
+}

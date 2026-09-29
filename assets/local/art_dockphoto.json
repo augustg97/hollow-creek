@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/art_dockphoto.jpg",
+ "prompt": "A faded 1990s colour photograph of a man in his thirties building a wooden dock on a calm river, kneeling on new planks with a hammer, fir forest behind, summer light, slightly washed-out colours and film grain. The photo fills the whole frame: no border, no frame.",
+ "negative_prompt": "",
+ "seed": 91,
+ "width": 1024,
+ "height": 768,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/art_dockphoto_91.png",
+ "used_for": "caf\u00e9 wall: photo of Anders building the dock",
+ "processing": "resized to 800x600, JPEG q88"
+}

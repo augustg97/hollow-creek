@@ -1,0 +1,125 @@
+{
+ "id": "nadia",
+ "name": "Nadia Osei",
+ "seed": 3319,
+ "body": {
+  "sex": 0.0,
+  "age_years": 45,
+  "height_cm": 170
+ },
+ "movement": {
+  "walk_speed": 1.18,
+  "stride": 1.05,
+  "lean": 0.02,
+  "arm_swing": 1.0,
+  "idle_sway": 0.25,
+  "idle_clip": "idle_d"
+ },
+ "gltf": "nadia.gltf",
+ "lod": "nadia.lod.glb",
+ "portrait": "nadia.portrait.jpg",
+ "build": {
+  "hash": "7650d194fde51af9",
+  "spec": "people/nadia.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-09-27",
+  "seconds": 8.6
+ },
+ "stats": {
+  "height_m": 1.698,
+  "tris": 42300,
+  "lod_tris": 14717,
+  "geometry_bytes": 888056,
+  "lod_bytes": 239228,
+  "texture_bytes": 3869152,
+  "texture_mb_gpu": 66.5,
+  "textures": [
+   "b4751a4d930f0ef8e2d7.jpg",
+   "7579bf376d2dd818fae2.jpg",
+   "17150733fc1a498d3716.jpg",
+   "ac442ba22d1e6a4d68ee.png",
+   "8fbb4e489743d0bbbf57.png",
+   "8832d0bec37ebf4e44ee.png",
+   "786fc56cdb4d5fd8520f.png",
+   "665421075c57039a05a4.png",
+   "4bdb6f684ea9c98858a0.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "middleage_african_female",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow010",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "short01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "joepal_crude_t-shirt_female",
+   "license": "CC0",
+   "author": "Joel Palmius",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_ankle_boots_female",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset"
+}

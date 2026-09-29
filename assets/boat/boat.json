@@ -1,0 +1,10 @@
+{
+ "file": "public/assets/boat/boat.glb",
+ "source": "assets-src/boat/boat_clean.glb",
+ "faces": {
+  "before": 199998,
+  "after": 59576
+ },
+ "bytes": 559836,
+ "processing": "meshopt simplify, normals turned per face, JPEG textures ≤1024, double-sided, meshopt compression"
+}

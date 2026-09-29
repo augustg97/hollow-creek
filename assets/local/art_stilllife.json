@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/art_stilllife.jpg",
+ "prompt": "A small oil painting still life: a round rye loaf, a bread knife, three red apples and a copper coffee pot on a rough wooden table, warm window light from the left, dark background, visible brushstrokes. The painting fills the whole frame: no picture frame, no wall.",
+ "negative_prompt": "",
+ "seed": 82,
+ "width": 768,
+ "height": 1024,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/art_stilllife_82.png",
+ "used_for": "caf\u00e9 wall: still life of rye bread and apples",
+ "processing": "resized to 600x800, JPEG q88"
+}

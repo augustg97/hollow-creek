@@ -1,0 +1,125 @@
+{
+ "id": "sam",
+ "name": "Sam Whitaker",
+ "seed": 4421,
+ "body": {
+  "sex": 1.0,
+  "age_years": 27,
+  "height_cm": 181
+ },
+ "movement": {
+  "walk_speed": 1.25,
+  "stride": 1.02,
+  "lean": 0.07,
+  "arm_swing": 0.85,
+  "idle_sway": 0.9,
+  "idle_clip": "idle_c"
+ },
+ "gltf": "sam.gltf",
+ "lod": "sam.lod.glb",
+ "portrait": "sam.portrait.jpg",
+ "build": {
+  "hash": "db0c9da8f098dd45",
+  "spec": "people/sam.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-09-27",
+  "seconds": 9.2
+ },
+ "stats": {
+  "height_m": 1.808,
+  "tris": 48056,
+  "lod_tris": 16442,
+  "geometry_bytes": 968168,
+  "lod_bytes": 253928,
+  "texture_bytes": 4724764,
+  "texture_mb_gpu": 66.5,
+  "textures": [
+   "af1a0124f2eb3ce806d8.jpg",
+   "3f6b29ddc0c3cd8aee40.png",
+   "240f9512b4aa23e591c5.jpg",
+   "3f127016394067bf4edc.jpg",
+   "381462f00833bd02879c.png",
+   "8832d0bec37ebf4e44ee.png",
+   "1c34de4ca09d6a3c5141.png",
+   "f9b8f50503ffc4c74fdf.png",
+   "c42f9cee15dcd7181fca.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "toigo_light_skin_male_freckles",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "skins02"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow004",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "short02",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "namuhekam_male_polo_shirt",
+   "license": "CC0",
+   "author": "namuhekam",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_male_classic_jeans",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "pants02"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_comfortable_sneakers",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "shoes02"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset"
+}

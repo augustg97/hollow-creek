@@ -1,0 +1,45 @@
+{
+ "cc_by": [
+  {
+   "asset": "dressupdoc_balletflat1",
+   "kind": "clothes",
+   "author": "DressUpDoc",
+   "license": "CC-BY",
+   "people": [
+    "Mara"
+   ]
+  },
+  {
+   "asset": "elvs_ladies_apron",
+   "kind": "clothes",
+   "author": "Elvaerwyn",
+   "license": "CC-BY",
+   "people": [
+    "Mara"
+   ]
+  },
+  {
+   "asset": "punkduck_comfortable_sneakers",
+   "kind": "clothes",
+   "author": "punkduck",
+   "license": "CC-BY",
+   "people": [
+    "Sam"
+   ]
+  },
+  {
+   "asset": "punkduck_male_classic_jeans",
+   "kind": "clothes",
+   "author": "punkduck",
+   "license": "CC-BY",
+   "people": [
+    "Sam"
+   ]
+  }
+ ],
+ "notes": [
+  "Characters: MPFB 2 / MakeHuman (CC0); CC0 asset packs by the MakeHuman community.",
+  "Motion capture: CMU Graphics Lab Motion Capture Database (cgspeed BVH conversion).",
+  "Environment: Poly Haven and ambientCG (CC0)."
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/sign_garden.jpg",
+ "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: off-white painted board with dark green hand lettering \"OSEI MARKET GARDEN\" and below it smaller \"vegetables \u00b7 honey\", a small painted bee and a carrot. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+ "negative_prompt": "",
+ "seed": 43,
+ "width": 1536,
+ "height": 512,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/sign_garden_43.png",
+ "used_for": "sign on the garden fence by the gate",
+ "processing": "trimmed margin, resized to 900x300, JPEG q88"
+}

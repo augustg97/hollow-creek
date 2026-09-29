@@ -1,0 +1,132 @@
+{
+ "id": "mara",
+ "name": "Mara Lindqvist",
+ "seed": 1061,
+ "body": {
+  "sex": 0.0,
+  "age_years": 61,
+  "height_cm": 164
+ },
+ "movement": {
+  "walk_speed": 1.05,
+  "stride": 0.9,
+  "lean": 0.06,
+  "arm_swing": 0.8,
+  "idle_sway": 0.5,
+  "idle_clip": "idle_a"
+ },
+ "gltf": "mara.gltf",
+ "lod": "mara.lod.glb",
+ "portrait": "mara.portrait.jpg",
+ "build": {
+  "hash": "739df100e1e76fc7",
+  "spec": "people/mara.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-09-27",
+  "seconds": 11.4
+ },
+ "stats": {
+  "height_m": 1.638,
+  "tris": 99280,
+  "lod_tris": 31810,
+  "geometry_bytes": 1409808,
+  "lod_bytes": 412352,
+  "texture_bytes": 4288950,
+  "texture_mb_gpu": 66.5,
+  "textures": [
+   "5b46c1645877796197fa.png",
+   "0f3b27f9b91a2797e6e9.jpg",
+   "eafd07cdaa7ad739c374.jpg",
+   "4e28efa3cf1f39323947.png",
+   "a1e4b639f40f6f70cb67.png",
+   "8832d0bec37ebf4e44ee.png",
+   "76e0236405ae4ad1846d.png",
+   "72a386536348f2bb109d.png",
+   "203d2d3e302938f7d958.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "old_caucasian_female",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow006",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "rehmanpolanski_hair_bun_brown",
+   "license": "CC0",
+   "author": "RehmanPolanski",
+   "pack": "hair01"
+  },
+  {
+   "kind": "clothes",
+   "name": "joepal_crude_t-shirt_female",
+   "license": "CC0",
+   "author": "Joel Palmius",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "dressupdoc_balletflat1",
+   "license": "CC-BY",
+   "author": "DressUpDoc",
+   "pack": "shoes02"
+  },
+  {
+   "kind": "clothes",
+   "name": "elvs_ladies_apron",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "dress02"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset"
+}

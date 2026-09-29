@@ -1,0 +1,1930 @@
+{
+ "grass_medium_01": {
+  "kind": "models",
+  "name": "Grass Medium 01",
+  "source": "https://polyhaven.com/a/grass_medium_01",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "grass clumps",
+  "res": "1k",
+  "files": [
+   "models/grass_medium_01.glb"
+  ],
+  "dimensions_mm": [
+   7266.327619552612,
+   1259.2098712921143,
+   1177.0583391189575
+  ],
+  "polycount": 1606633
+ },
+ "modular_wooden_pier": {
+  "kind": "models",
+  "name": "Modular Wooden Pier",
+  "source": "https://polyhaven.com/a/modular_wooden_pier",
+  "licence": "CC0",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "use": "the dock",
+  "res": "2k",
+  "files": [
+   "models/modular_wooden_pier.glb"
+  ],
+  "dimensions_mm": [
+   3101.5628576278687,
+   19026.371479034424,
+   7515.67667722702
+  ],
+  "polycount": 84780
+ },
+ "street_lamp_01": {
+  "kind": "models",
+  "name": "Street Lamp 01",
+  "source": "https://polyhaven.com/a/street_lamp_01",
+  "licence": "CC0",
+  "authors": [
+   "Josh Dean"
+  ],
+  "use": "lamp posts",
+  "res": "1k",
+  "files": [
+   "models/street_lamp_01.glb"
+  ],
+  "dimensions_mm": [
+   704.3362259864807,
+   386.49316132068634,
+   3870.5554008483887
+  ],
+  "polycount": 30610
+ },
+ "jacaranda_tree": {
+  "kind": "models",
+  "name": "Jacaranda Tree",
+  "source": "https://polyhaven.com/a/jacaranda_tree",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "the big tree in the square",
+  "res": "2k",
+  "files": [
+   "models/jacaranda_tree_hero.glb"
+  ],
+  "dimensions_mm": [
+   24169.849395751953,
+   18028.766632080078,
+   19829.095542430878
+  ],
+  "polycount": 312356
+ },
+ "spruit_sunrise": {
+  "kind": "hdris",
+  "name": "Spruit Sunrise",
+  "source": "https://polyhaven.com/a/spruit_sunrise",
+  "licence": "CC0",
+  "authors": [
+   "Greg Zaal"
+  ],
+  "use": "IBL, dawn/morning",
+  "res": "2k",
+  "files": [
+   "hdri/spruit_sunrise_2k.hdr"
+  ]
+ },
+ "moonlit_golf": {
+  "kind": "hdris",
+  "name": "Moonlit Golf",
+  "source": "https://polyhaven.com/a/moonlit_golf",
+  "licence": "CC0",
+  "authors": [
+   "Greg Zaal"
+  ],
+  "use": "IBL, night",
+  "res": "2k",
+  "files": [
+   "hdri/moonlit_golf_2k.hdr"
+  ]
+ },
+ "meadow_2": {
+  "kind": "hdris",
+  "name": "Meadow 2",
+  "source": "https://polyhaven.com/a/meadow_2",
+  "licence": "CC0",
+  "authors": [
+   "Sergej Majboroda"
+  ],
+  "use": "IBL, day",
+  "res": "2k",
+  "files": [
+   "hdri/meadow_2_2k.hdr"
+  ]
+ },
+ "lilienstein": {
+  "kind": "hdris",
+  "name": "Lilienstein",
+  "source": "https://polyhaven.com/a/lilienstein",
+  "licence": "CC0",
+  "authors": [
+   "Andreas Mischok"
+  ],
+  "use": "IBL, evening/sunset",
+  "res": "2k",
+  "files": [
+   "hdri/lilienstein_2k.hdr"
+  ]
+ },
+ "fir_tree_01": {
+  "kind": "models",
+  "name": "Fir Tree 01",
+  "source": "https://polyhaven.com/a/fir_tree_01",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "forest",
+  "res": "1k",
+  "files": [
+   "models/fir_a.glb",
+   "models/fir_b.glb",
+   "models/fir_c.glb"
+  ],
+  "dimensions_mm": [
+   26732.96093940735,
+   6541.954040527344,
+   19267.957717180252
+  ],
+  "polycount": 7853731
+ },
+ "fern_02": {
+  "kind": "models",
+  "name": "Fern 02",
+  "source": "https://polyhaven.com/a/fern_02",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "ferns at the forest edge",
+  "res": "1k",
+  "files": [
+   "models/fern_02.glb"
+  ],
+  "dimensions_mm": [
+   1972.5302457809448,
+   1724.0281701087952,
+   427.6947118341923
+  ],
+  "polycount": 6232
+ },
+ "nettle_plant": {
+  "kind": "models",
+  "name": "Nettle Plant",
+  "source": "https://polyhaven.com/a/nettle_plant",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "weeds along fences",
+  "res": "1k",
+  "files": [
+   "models/nettle_plant.glb"
+  ],
+  "dimensions_mm": [
+   1084.1034203767776,
+   94.6834422647953,
+   218.78226287662983
+  ],
+  "polycount": 46195
+ },
+ "weed_plant_02": {
+  "kind": "models",
+  "name": "Weed Plant 02",
+  "source": "https://polyhaven.com/a/weed_plant_02",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "weeds",
+  "res": "1k",
+  "files": [
+   "models/weed_plant_02.glb"
+  ],
+  "dimensions_mm": [
+   2125.253051519394,
+   290.9194082021713,
+   75.0729264691472
+  ],
+  "polycount": 17062
+ },
+ "shrub_sorrel_01": {
+  "kind": "models",
+  "name": "Shrub Sorrel 01",
+  "source": "https://polyhaven.com/a/shrub_sorrel_01",
+  "licence": "CC0",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "use": "ground plants",
+  "res": "1k",
+  "files": [
+   "models/shrub_sorrel_01.glb"
+  ],
+  "dimensions_mm": [
+   352.09934413433075,
+   146.4103851467371,
+   58.00368043128401
+  ],
+  "polycount": 3319
+ },
+ "rock_moss_set_02": {
+  "kind": "models",
+  "name": "Rock Moss Set 02",
+  "source": "https://polyhaven.com/a/rock_moss_set_02",
+  "licence": "CC0",
+  "authors": [
+   "Kless Gyzen"
+  ],
+  "use": "mossy rocks",
+  "res": "2k",
+  "files": [
+   "models/rock_moss_set_02.glb"
+  ],
+  "dimensions_mm": [
+   8278.153419494629,
+   3410.416603088379,
+   1368.368238210678
+  ],
+  "polycount": 57647
+ },
+ "boulder_01": {
+  "kind": "models",
+  "name": "Boulder 01",
+  "source": "https://polyhaven.com/a/boulder_01",
+  "licence": "CC0",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "use": "river boulders",
+  "res": "2k",
+  "files": [
+   "models/boulder_01.glb"
+  ],
+  "dimensions_mm": [
+   1272.6830840110779,
+   1830.7338953018188,
+   1003.8918256759644
+  ],
+  "polycount": 123976
+ },
+ "rock_07": {
+  "kind": "models",
+  "name": "Rock 07",
+  "source": "https://polyhaven.com/a/rock_07",
+  "licence": "CC0",
+  "authors": [
+   "Jenelle van Heerden"
+  ],
+  "use": "small rocks",
+  "res": "1k",
+  "files": [
+   "models/rock_07.glb"
+  ],
+  "dimensions_mm": [
+   169.10234838724136,
+   320.554181933403,
+   143.77418451476842
+  ],
+  "polycount": 27830
+ },
+ "tree_stump_01": {
+  "kind": "models",
+  "name": "Tree Stump 01",
+  "source": "https://polyhaven.com/a/tree_stump_01",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "stumps",
+  "res": "1k",
+  "files": [
+   "models/tree_stump_01.glb"
+  ],
+  "dimensions_mm": [
+   1425.5504608154297,
+   1590.3143286705017,
+   572.6675391197205
+  ],
+  "polycount": 41046
+ },
+ "painted_wooden_bench": {
+  "kind": "models",
+  "name": "Painted Wooden Bench",
+  "source": "https://polyhaven.com/a/painted_wooden_bench",
+  "licence": "CC0",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "use": "bench under the tree, café porch",
+  "res": "1k",
+  "files": [
+   "models/painted_wooden_bench.glb"
+  ],
+  "dimensions_mm": [
+   1164.9435758590698,
+   496.5430945158005,
+   889.2914750613272
+  ],
+  "polycount": 630
+ },
+ "wooden_picnic_table": {
+  "kind": "models",
+  "name": "Wooden Picnic Table",
+  "source": "https://polyhaven.com/a/wooden_picnic_table",
+  "licence": "CC0",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "use": "table by the café",
+  "res": "1k",
+  "files": [
+   "models/wooden_picnic_table.glb"
+  ],
+  "dimensions_mm": [
+   2240.9759759902954,
+   3022.329568862915,
+   745.9869086742401
+  ],
+  "polycount": 10210
+ },
+ "pine_tree_01": {
+  "kind": "models",
+  "name": "Pine Tree 01",
+  "source": "https://polyhaven.com/a/pine_tree_01",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "forest",
+  "res": "1k",
+  "files": [
+   "models/pine_a.glb",
+   "models/pine_b.glb",
+   "models/pine_c.glb"
+  ],
+  "dimensions_mm": [
+   26719.930171966553,
+   1300.55171251297,
+   17577.758572995663
+  ],
+  "polycount": 17427094
+ },
+ "standing_chalkboard_01": {
+  "kind": "models",
+  "name": "Standing Chalkboard 01",
+  "source": "https://polyhaven.com/a/standing_chalkboard_01",
+  "licence": "CC0",
+  "authors": [
+   "ParzivalCG"
+  ],
+  "use": "café menu board",
+  "res": "1k",
+  "files": [
+   "models/standing_chalkboard_01.glb"
+  ],
+  "dimensions_mm": [
+   919.5267558097839,
+   758.704662322998,
+   1509.0324000189241
+  ],
+  "polycount": 2372
+ },
+ "planter_box_01": {
+  "kind": "models",
+  "name": "Planter Box 01",
+  "source": "https://polyhaven.com/a/planter_box_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "planters",
+  "res": "1k",
+  "files": [
+   "models/planter_box_01.glb"
+  ],
+  "dimensions_mm": [
+   912.6113951206207,
+   413.6679768562317,
+   424.96823612600565
+  ],
+  "polycount": 8094
+ },
+ "wooden_barrels_01": {
+  "kind": "models",
+  "name": "Wooden Barrels 01",
+  "source": "https://polyhaven.com/a/wooden_barrels_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "barrels by the store",
+  "res": "1k",
+  "files": [
+   "models/wooden_barrels_01.glb"
+  ],
+  "dimensions_mm": [
+   4440.432071685791,
+   3344.5359468460083,
+   956.7059241235256
+  ],
+  "polycount": 33142
+ },
+ "round_wooden_table_02": {
+  "kind": "models",
+  "name": "Round Wooden Table 02",
+  "source": "https://polyhaven.com/a/round_wooden_table_02",
+  "licence": "CC0",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "use": "unused (its boxed pedestal met seated legs; kept for reference)",
+  "res": "1k",
+  "files": [
+   "models/round_wooden_table_02.glb"
+  ],
+  "dimensions_mm": [
+   796.1780428886414,
+   796.1780428886414,
+   746.0266395536621
+  ],
+  "polycount": 4254
+ },
+ "wooden_lantern_01": {
+  "kind": "models",
+  "name": "Wooden Lantern 01",
+  "source": "https://polyhaven.com/a/wooden_lantern_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "lantern on the dock",
+  "res": "1k",
+  "files": [
+   "models/wooden_lantern_01.glb"
+  ],
+  "dimensions_mm": [
+   221.04809433221817,
+   234.72441732883453,
+   530.1365610212088
+  ],
+  "polycount": 8321
+ },
+ "wooden_display_shelves_01": {
+  "kind": "models",
+  "name": "Wooden Display Shelves 01",
+  "source": "https://polyhaven.com/a/wooden_display_shelves_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "café store shelves",
+  "res": "1k",
+  "files": [
+   "models/wooden_display_shelves_01.glb"
+  ],
+  "dimensions_mm": [
+   1077.760934829712,
+   371.50970101356506,
+   1556.1838150024414
+  ],
+  "polycount": 3174
+ },
+ "painted_wooden_chair_01": {
+  "kind": "models",
+  "name": "Painted Wooden Chair 01",
+  "source": "https://polyhaven.com/a/painted_wooden_chair_01",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "café chairs",
+  "res": "1k",
+  "files": [
+   "models/painted_wooden_chair_01.glb"
+  ],
+  "dimensions_mm": [
+   431.75144493579865,
+   539.8241728544235,
+   956.4821355743334
+  ],
+  "polycount": 724
+ },
+ "Shelf_01": {
+  "kind": "models",
+  "name": "Shelf 01",
+  "source": "https://polyhaven.com/a/Shelf_01",
+  "licence": "CC0",
+  "authors": [
+   "Gabriel Radić"
+  ],
+  "use": "café shelves",
+  "res": "1k",
+  "files": [
+   "models/Shelf_01.glb"
+  ],
+  "dimensions_mm": [
+   1003.443717956543,
+   256.9795063869833,
+   2080.310344696045
+  ],
+  "polycount": 182
+ },
+ "CashRegister_01": {
+  "kind": "models",
+  "name": "Cash Register 01",
+  "source": "https://polyhaven.com/a/CashRegister_01",
+  "licence": "CC0",
+  "authors": [
+   "Joe Seabuhr"
+  ],
+  "use": "café counter",
+  "res": "1k",
+  "files": [
+   "models/CashRegister_01.glb"
+  ],
+  "dimensions_mm": [
+   600.4907041788101,
+   624.2051124572754,
+   621.3557496666908
+  ],
+  "polycount": 9927
+ },
+ "scandinavian_masonry_heater": {
+  "kind": "models",
+  "name": "Scandinavian Masonry Heater",
+  "source": "https://polyhaven.com/a/scandinavian_masonry_heater",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "bakery oven",
+  "res": "1k",
+  "files": [
+   "models/scandinavian_masonry_heater.glb"
+  ],
+  "dimensions_mm": [
+   1167.6969528198242,
+   1335.2788388729095,
+   2360.4823132336605
+  ],
+  "polycount": 9350
+ },
+ "caged_hanging_light": {
+  "kind": "models",
+  "name": "Caged Hanging Light",
+  "source": "https://polyhaven.com/a/caged_hanging_light",
+  "licence": "CC0",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "use": "café lights",
+  "res": "1k",
+  "files": [
+   "models/caged_hanging_light.glb"
+  ],
+  "dimensions_mm": [
+   1161.8340015411377,
+   314.8960471153259,
+   750.0966191291809
+  ],
+  "polycount": 22893
+ },
+ "wall_clock": {
+  "kind": "models",
+  "name": "Wall Clock",
+  "source": "https://polyhaven.com/a/wall_clock",
+  "licence": "CC0",
+  "authors": [
+   "PierreB3D"
+  ],
+  "use": "café wall",
+  "res": "1k",
+  "files": [
+   "models/wall_clock.glb"
+  ],
+  "dimensions_mm": [
+   320.4909861087799,
+   47.2230945505423,
+   320.4909861087799
+  ],
+  "polycount": 3658
+ },
+ "croissant": {
+  "kind": "models",
+  "name": "Croissant",
+  "source": "https://polyhaven.com/a/croissant",
+  "licence": "CC0",
+  "authors": [
+   "Greg Zaal",
+   "Dario Barresi"
+  ],
+  "use": "bakery goods",
+  "res": "1k",
+  "files": [
+   "models/croissant.glb"
+  ],
+  "dimensions_mm": [
+   200.00000298023224,
+   75.51151886582375,
+   61.99566961731762
+  ],
+  "polycount": 1990
+ },
+ "hamburger_buns": {
+  "kind": "models",
+  "name": "Hamburger Buns",
+  "source": "https://polyhaven.com/a/hamburger_buns",
+  "licence": "CC0",
+  "authors": [
+   "Alexander Shulha"
+  ],
+  "use": "bread rolls",
+  "res": "1k",
+  "files": [
+   "models/hamburger_buns.glb"
+  ],
+  "dimensions_mm": [
+   397.2240388393402,
+   113.79648745059967,
+   63.38873411732493
+  ],
+  "polycount": 11588
+ },
+ "wooden_cutting_board": {
+  "kind": "models",
+  "name": "Wooden Cutting Board",
+  "source": "https://polyhaven.com/a/wooden_cutting_board",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "counter",
+  "res": "1k",
+  "files": [
+   "models/wooden_cutting_board.glb"
+  ],
+  "dimensions_mm": [
+   449.8896151781082,
+   246.6525286436081,
+   41.25304119224893
+  ],
+  "polycount": 3520
+ },
+ "jug_01": {
+  "kind": "models",
+  "name": "Jug 01",
+  "source": "https://polyhaven.com/a/jug_01",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "counter, tables",
+  "res": "1k",
+  "files": [
+   "models/jug_01.glb"
+  ],
+  "dimensions_mm": [
+   275.3216624259949,
+   167.5262302160263,
+   211.31345149478875
+  ],
+  "polycount": 5770
+ },
+ "carrot_cake": {
+  "kind": "models",
+  "name": "Carrot Cake",
+  "source": "https://polyhaven.com/a/carrot_cake",
+  "licence": "CC0",
+  "authors": [
+   "Greg Zaal",
+   "James Ray Cock"
+  ],
+  "use": "cake on the counter",
+  "res": "1k",
+  "files": [
+   "models/carrot_cake.glb"
+  ],
+  "dimensions_mm": [
+   225.42137652635574,
+   225.38353502750397,
+   97.57296415045857
+  ],
+  "polycount": 13790
+ },
+ "wicker_basket_01": {
+  "kind": "models",
+  "name": "Wicker Basket 01",
+  "source": "https://polyhaven.com/a/wicker_basket_01",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "bread baskets",
+  "res": "1k",
+  "files": [
+   "models/wicker_basket_01.glb"
+  ],
+  "dimensions_mm": [
+   383.2242637872696,
+   295.01520097255707,
+   117.42293369024992
+  ],
+  "polycount": 22276
+ },
+ "wooden_bowl_01": {
+  "kind": "models",
+  "name": "Wooden Bowl 01",
+  "source": "https://polyhaven.com/a/wooden_bowl_01",
+  "licence": "CC0",
+  "authors": [
+   "Oliver Harries"
+  ],
+  "use": "mixing bowl",
+  "res": "1k",
+  "files": [
+   "models/wooden_bowl_01.glb"
+  ],
+  "dimensions_mm": [
+   313.08163702487946,
+   309.1423809528351,
+   93.69255532510579
+  ],
+  "polycount": 14122
+ },
+ "wooden_stool_01": {
+  "kind": "models",
+  "name": "Wooden Stool 01",
+  "source": "https://polyhaven.com/a/wooden_stool_01",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "workshop, café",
+  "res": "1k",
+  "files": [
+   "models/wooden_stool_01.glb"
+  ],
+  "dimensions_mm": [
+   425.3551661968231,
+   442.36281514167786,
+   437.35266576914
+  ],
+  "polycount": 10946
+ },
+ "vintage_electric_kettle": {
+  "kind": "models",
+  "name": "Vintage Electric Kettle",
+  "source": "https://polyhaven.com/a/vintage_electric_kettle",
+  "licence": "CC0",
+  "authors": [
+   "SV Garip"
+  ],
+  "use": "café counter",
+  "res": "1k",
+  "files": [
+   "models/vintage_electric_kettle.glb"
+  ],
+  "dimensions_mm": [
+   320.89072465896606,
+   248.55303764343262,
+   304.7400116920471
+  ],
+  "polycount": 14838
+ },
+ "WoodenTable_03": {
+  "kind": "models",
+  "name": "Wooden Table 03",
+  "source": "https://polyhaven.com/a/WoodenTable_03",
+  "licence": "CC0",
+  "authors": [
+   "Gabriel Radić"
+  ],
+  "use": "workshop side table",
+  "res": "1k",
+  "files": [
+   "models/WoodenTable_03.glb"
+  ],
+  "dimensions_mm": [
+   1326.8529176712036,
+   561.7093443870544,
+   830.0816416740417
+  ],
+  "polycount": 2298
+ },
+ "bench_vice_01": {
+  "kind": "models",
+  "name": "Bench Vice 01",
+  "source": "https://polyhaven.com/a/bench_vice_01",
+  "licence": "CC0",
+  "authors": [
+   "Yann Kervran",
+   "Antanas Kep"
+  ],
+  "use": "workbench vice",
+  "res": "1k",
+  "files": [
+   "models/bench_vice_01.glb"
+  ],
+  "dimensions_mm": [
+   200.48236846923828,
+   395.7868218421936,
+   271.6780751943588
+  ],
+  "polycount": 2864
+ },
+ "hand_plane_no4": {
+  "kind": "models",
+  "name": "Hand Plane No4",
+  "source": "https://polyhaven.com/a/hand_plane_no4",
+  "licence": "CC0",
+  "authors": [
+   "Satyaki Mandal"
+  ],
+  "use": "tools",
+  "res": "1k",
+  "files": [
+   "models/hand_plane_no4.glb"
+  ],
+  "dimensions_mm": [
+   330.7979106903076,
+   84.31769162416458,
+   197.80341954901814
+  ],
+  "polycount": 8220
+ },
+ "wooden_hammer_01": {
+  "kind": "models",
+  "name": "Wooden Hammer 01",
+  "source": "https://polyhaven.com/a/wooden_hammer_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "tools",
+  "res": "1k",
+  "files": [
+   "models/wooden_hammer_01.glb"
+  ],
+  "dimensions_mm": [
+   111.81152239441872,
+   23.39816838502884,
+   279.15042638778687
+  ],
+  "polycount": 3617
+ },
+ "handsaw_wood": {
+  "kind": "models",
+  "name": "Handsaw Wood",
+  "source": "https://polyhaven.com/a/handsaw_wood",
+  "licence": "CC0",
+  "authors": [
+   "Konrad Szałankiewicz"
+  ],
+  "use": "tools",
+  "res": "1k",
+  "files": [
+   "models/handsaw_wood.glb"
+  ],
+  "dimensions_mm": [
+   40.833745151758194,
+   632.9791843891144,
+   166.52002930641174
+  ],
+  "polycount": 2548
+ },
+ "measuring_tape_01": {
+  "kind": "models",
+  "name": "Measuring Tape 01",
+  "source": "https://polyhaven.com/a/measuring_tape_01",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "tools",
+  "res": "1k",
+  "files": [
+   "models/measuring_tape_01.glb"
+  ],
+  "dimensions_mm": [
+   40.56626558303833,
+   169.41863298416138,
+   73.41387253836729
+  ],
+  "polycount": 2868
+ },
+ "wooden_ladder": {
+  "kind": "models",
+  "name": "Wooden Ladder",
+  "source": "https://polyhaven.com/a/wooden_ladder",
+  "licence": "CC0",
+  "authors": [
+   "Miroslav Turura"
+  ],
+  "use": "workshop loft ladder",
+  "res": "1k",
+  "files": [
+   "models/wooden_ladder.glb"
+  ],
+  "dimensions_mm": [
+   959.1718018054962,
+   500.0000149011612,
+   1334.923267364502
+  ],
+  "polycount": 8492
+ },
+ "metal_tool_chest": {
+  "kind": "models",
+  "name": "Metal Tool Chest",
+  "source": "https://polyhaven.com/a/metal_tool_chest",
+  "licence": "CC0",
+  "authors": [
+   "Yann Kervran",
+   "John Hutcheson"
+  ],
+  "use": "workshop",
+  "res": "1k",
+  "files": [
+   "models/metal_tool_chest.glb"
+  ],
+  "dimensions_mm": [
+   685.3884160518646,
+   407.15324878692627,
+   651.8355906009674
+  ],
+  "polycount": 14576
+ },
+ "Barrel_01": {
+  "kind": "models",
+  "name": "Barrel_01",
+  "source": "https://polyhaven.com/a/Barrel_01",
+  "licence": "CC0",
+  "authors": [
+   "Jorge Camacho"
+  ],
+  "use": "barrels",
+  "res": "1k",
+  "files": [
+   "models/Barrel_01.glb"
+  ],
+  "dimensions_mm": [
+   563.0351305007935,
+   563.0352199077606,
+   880.0000050105155
+  ],
+  "polycount": 2682
+ },
+ "wooden_crate_01": {
+  "kind": "models",
+  "name": "Wooden Crate 01",
+  "source": "https://polyhaven.com/a/wooden_crate_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "crates",
+  "res": "1k",
+  "files": [
+   "models/wooden_crate_01.glb"
+  ],
+  "dimensions_mm": [
+   825.2729177474976,
+   408.9537411928177,
+   349.6182831004262
+  ],
+  "polycount": 6576
+ },
+ "Barrel_02": {
+  "kind": "models",
+  "name": "Barrel 02",
+  "source": "https://polyhaven.com/a/Barrel_02",
+  "licence": "CC0",
+  "authors": [
+   "Jorge Camacho"
+  ],
+  "use": "garden water barrel; barrels by the store",
+  "res": "1k",
+  "files": [
+   "models/Barrel_02.glb"
+  ],
+  "dimensions_mm": [
+   488.17557096481323,
+   484.6164435148239,
+   879.9999924376607
+  ],
+  "polycount": 2688
+ },
+ "wooden_axe": {
+  "kind": "models",
+  "name": "Wooden Axe",
+  "source": "https://polyhaven.com/a/wooden_axe",
+  "licence": "CC0",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "use": "chopping block",
+  "res": "1k",
+  "files": [
+   "models/wooden_axe.glb"
+  ],
+  "dimensions_mm": [
+   47.16496914625168,
+   214.3455445766449,
+   630.3347498178482
+  ],
+  "polycount": 3348
+ },
+ "hanging_industrial_lamp": {
+  "kind": "models",
+  "name": "Hanging Industrial Lamp",
+  "source": "https://polyhaven.com/a/hanging_industrial_lamp",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "workshop light",
+  "res": "1k",
+  "files": [
+   "models/hanging_industrial_lamp.glb"
+  ],
+  "dimensions_mm": [
+   549.6065020561218,
+   549.606442451477,
+   1355.3501134738326
+  ],
+  "polycount": 9530
+ },
+ "seeding_tray_01": {
+  "kind": "models",
+  "name": "Seedling Tray 01",
+  "source": "https://polyhaven.com/a/seeding_tray_01",
+  "licence": "CC0",
+  "authors": [
+   "Satyaki Mandal"
+  ],
+  "use": "garden",
+  "res": "1k",
+  "files": [
+   "models/seeding_tray_01.glb"
+  ],
+  "dimensions_mm": [
+   220.20762413740158,
+   220.20763158798218,
+   60.76497957110405
+  ],
+  "polycount": 8334
+ },
+ "vintage_hand_drill": {
+  "kind": "models",
+  "name": "Vintage Hand Drill",
+  "source": "https://polyhaven.com/a/vintage_hand_drill",
+  "licence": "CC0",
+  "authors": [
+   "Yann Kervran",
+   "Benjamin McDonnell"
+  ],
+  "use": "tools",
+  "res": "1k",
+  "files": [
+   "models/vintage_hand_drill.glb"
+  ],
+  "dimensions_mm": [
+   123.88670444488525,
+   138.80568742752075,
+   485.6843203306198
+  ],
+  "polycount": 8338
+ },
+ "watering_can_metal_01": {
+  "kind": "models",
+  "name": "Watering Can Metal 01",
+  "source": "https://polyhaven.com/a/watering_can_metal_01",
+  "licence": "CC0",
+  "authors": [
+   "Charles Nderitu"
+  ],
+  "use": "garden",
+  "res": "1k",
+  "files": [
+   "models/watering_can_metal_01.glb"
+  ],
+  "dimensions_mm": [
+   191.01857393980026,
+   452.33607292175293,
+   196.81852799840271
+  ],
+  "polycount": 11837
+ },
+ "wooden_bucket_01": {
+  "kind": "models",
+  "name": "Wooden Bucket 01",
+  "source": "https://polyhaven.com/a/wooden_bucket_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "garden, dock",
+  "res": "1k",
+  "files": [
+   "models/wooden_bucket_01.glb"
+  ],
+  "dimensions_mm": [
+   366.97085201740265,
+   342.2211855649948,
+   549.862340092659
+  ],
+  "polycount": 5116
+ },
+ "rusted_spade_01": {
+  "kind": "models",
+  "name": "Rusted Spade 01",
+  "source": "https://polyhaven.com/a/rusted_spade_01",
+  "licence": "CC0",
+  "authors": [
+   "Blemonade"
+  ],
+  "use": "garden",
+  "res": "1k",
+  "files": [
+   "models/rusted_spade_01.glb"
+  ],
+  "dimensions_mm": [
+   168.1148111820221,
+   45.56426405906677,
+   1100.9047627449036
+  ],
+  "polycount": 11436
+ },
+ "trowel_01": {
+  "kind": "models",
+  "name": "Trowel 01",
+  "source": "https://polyhaven.com/a/trowel_01",
+  "licence": "CC0",
+  "authors": [
+   "Satyaki Mandal"
+  ],
+  "use": "garden",
+  "res": "1k",
+  "files": [
+   "models/trowel_01.glb"
+  ],
+  "dimensions_mm": [
+   99.12503510713577,
+   346.8870371580124,
+   102.62799635529518
+  ],
+  "polycount": 5242
+ },
+ "wicker_basket_02": {
+  "kind": "models",
+  "name": "Wicker Basket 02",
+  "source": "https://polyhaven.com/a/wicker_basket_02",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "produce basket",
+  "res": "1k",
+  "files": [
+   "models/wicker_basket_02.glb"
+  ],
+  "dimensions_mm": [
+   374.6650815010071,
+   270.6727311015129,
+   218.15226320177317
+  ],
+  "polycount": 17850
+ },
+ "garden_gloves_01": {
+  "kind": "models",
+  "name": "Garden Gloves 01",
+  "source": "https://polyhaven.com/a/garden_gloves_01",
+  "licence": "CC0",
+  "authors": [
+   "Satyaki Mandal"
+  ],
+  "use": "garden",
+  "res": "1k",
+  "files": [
+   "models/garden_gloves_01.glb"
+  ],
+  "dimensions_mm": [
+   226.55709087848663,
+   299.04240369796753,
+   76.02626085281372
+  ],
+  "polycount": 6822
+ },
+ "planter_pot_clay": {
+  "kind": "models",
+  "name": "Planter Pot Clay",
+  "source": "https://polyhaven.com/a/planter_pot_clay",
+  "licence": "CC0",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "use": "garden",
+  "res": "1k",
+  "files": [
+   "models/planter_pot_clay.glb"
+  ],
+  "dimensions_mm": [
+   265.9967243671417,
+   263.4630501270294,
+   221.87034250237048
+  ],
+  "polycount": 3080
+ },
+ "compost_bag_02": {
+  "kind": "models",
+  "name": "Compost Bag 02",
+  "source": "https://polyhaven.com/a/compost_bag_02",
+  "licence": "CC0",
+  "authors": [
+   "Satyaki Mandal"
+  ],
+  "use": "garden shed",
+  "res": "1k",
+  "files": [
+   "models/compost_bag_02.glb"
+  ],
+  "dimensions_mm": [
+   539.3457114696503,
+   470.53681313991547,
+   433.6617160588503
+  ],
+  "polycount": 12096
+ },
+ "food_apple_01": {
+  "kind": "models",
+  "name": "Food Apple 01",
+  "source": "https://polyhaven.com/a/food_apple_01",
+  "licence": "CC0",
+  "authors": [
+   "Oliver Harries"
+  ],
+  "use": "produce",
+  "res": "1k",
+  "files": [
+   "models/food_apple_01.glb"
+  ],
+  "dimensions_mm": [
+   97.56118059158325,
+   95.90170904994011,
+   85.38994403897959
+  ],
+  "polycount": 7012
+ },
+ "wooden_crate_02": {
+  "kind": "models",
+  "name": "Wooden Crate 02",
+  "source": "https://polyhaven.com/a/wooden_crate_02",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock",
+   "Jurita Burger"
+  ],
+  "use": "produce crates",
+  "res": "1k",
+  "files": [
+   "models/wooden_crate_02.glb"
+  ],
+  "dimensions_mm": [
+   1166.325867176056,
+   529.1010439395905,
+   463.95453810691833
+  ],
+  "polycount": 5176
+ },
+ "tree_small_02": {
+  "kind": "models",
+  "name": "Tree Small 02",
+  "source": "https://polyhaven.com/a/tree_small_02",
+  "licence": "CC0",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "use": "broadleaf trees by the houses",
+  "res": "2k",
+  "files": [
+   "models/tree_small_02_near.glb"
+  ],
+  "dimensions_mm": [
+   2921.434998512268,
+   4292.873501777649,
+   4649.933725595474
+  ],
+  "polycount": 4652585
+ },
+ "sweet_potato": {
+  "kind": "models",
+  "name": "Sweet Potato",
+  "source": "https://polyhaven.com/a/sweet_potato",
+  "licence": "CC0",
+  "authors": [
+   "Jan Martens"
+  ],
+  "use": "produce",
+  "res": "1k",
+  "files": [
+   "models/sweet_potato.glb"
+  ],
+  "dimensions_mm": [
+   58.12427029013634,
+   60.989297926425934,
+   100.46296194195747
+  ],
+  "polycount": 2042
+ },
+ "wooden_broom": {
+  "kind": "models",
+  "name": "Wooden Broom",
+  "source": "https://polyhaven.com/a/wooden_broom",
+  "licence": "CC0",
+  "authors": [
+   "Balen"
+  ],
+  "use": "porch",
+  "res": "1k",
+  "files": [
+   "models/wooden_broom.glb"
+  ],
+  "dimensions_mm": [
+   490.23744463920593,
+   112.51410469412804,
+   1453.56784760952
+  ],
+  "polycount": 14258
+ },
+ "yellow_onion": {
+  "kind": "models",
+  "name": "Yellow Onion",
+  "source": "https://polyhaven.com/a/yellow_onion",
+  "licence": "CC0",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "use": "produce",
+  "res": "1k",
+  "files": [
+   "models/yellow_onion.glb"
+  ],
+  "dimensions_mm": [
+   72.4824033677578,
+   68.636579439044,
+   86.37567976256832
+  ],
+  "polycount": 5444
+ },
+ "forest_leaves_04": {
+  "kind": "textures",
+  "name": "Forest Leaves 04",
+  "source": "https://polyhaven.com/a/forest_leaves_04",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "terrain: forest floor",
+  "res": "2k",
+  "files": [
+   "textures/forest_leaves_04/forest_leaves_04_diff_2k.jpg",
+   "textures/forest_leaves_04/forest_leaves_04_nor_gl_2k.jpg",
+   "textures/forest_leaves_04/forest_leaves_04_arm_2k.jpg"
+  ]
+ },
+ "forrest_ground_01": {
+  "kind": "textures",
+  "name": "Forest Ground 01",
+  "source": "https://polyhaven.com/a/forrest_ground_01",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "terrain: grassy ground",
+  "res": "2k",
+  "files": [
+   "textures/forrest_ground_01/forrest_ground_01_diff_2k.jpg",
+   "textures/forrest_ground_01/forrest_ground_01_nor_gl_2k.jpg",
+   "textures/forrest_ground_01/forrest_ground_01_arm_2k.jpg"
+  ]
+ },
+ "grass_path_2": {
+  "kind": "textures",
+  "name": "Grass Path 2",
+  "source": "https://polyhaven.com/a/grass_path_2",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "terrain: footpaths, square",
+  "res": "2k",
+  "files": [
+   "textures/grass_path_2/grass_path_2_diff_2k.jpg",
+   "textures/grass_path_2/grass_path_2_nor_gl_2k.jpg",
+   "textures/grass_path_2/grass_path_2_arm_2k.jpg"
+  ]
+ },
+ "rocky_trail": {
+  "kind": "textures",
+  "name": "Rocky Trail",
+  "source": "https://polyhaven.com/a/rocky_trail",
+  "licence": "CC0",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "use": "terrain: dirt road",
+  "res": "2k",
+  "files": [
+   "textures/rocky_trail/rocky_trail_diff_2k.jpg",
+   "textures/rocky_trail/rocky_trail_nor_gl_2k.jpg",
+   "textures/rocky_trail/rocky_trail_arm_2k.jpg"
+  ]
+ },
+ "leafy_grass": {
+  "kind": "textures",
+  "name": "Leafy Grass",
+  "source": "https://polyhaven.com/a/leafy_grass",
+  "licence": "CC0",
+  "authors": [
+   "Charlotte Baglioni"
+  ],
+  "use": "terrain: meadow",
+  "res": "2k",
+  "files": [
+   "textures/leafy_grass/leafy_grass_diff_2k.jpg",
+   "textures/leafy_grass/leafy_grass_nor_gl_2k.jpg",
+   "textures/leafy_grass/leafy_grass_arm_2k.jpg"
+  ]
+ },
+ "brown_mud_02": {
+  "kind": "textures",
+  "name": "Brown Mud 02",
+  "source": "https://polyhaven.com/a/brown_mud_02",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "terrain: wet mud at the waterline",
+  "res": "2k",
+  "files": [
+   "textures/brown_mud_02/brown_mud_02_diff_2k.jpg",
+   "textures/brown_mud_02/brown_mud_02_nor_gl_2k.jpg",
+   "textures/brown_mud_02/brown_mud_02_arm_2k.jpg"
+  ]
+ },
+ "river_small_rocks": {
+  "kind": "textures",
+  "name": "River Small Rocks",
+  "source": "https://polyhaven.com/a/river_small_rocks",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "terrain: river bank",
+  "res": "2k",
+  "files": [
+   "textures/river_small_rocks/river_small_rocks_diff_2k.jpg",
+   "textures/river_small_rocks/river_small_rocks_nor_gl_2k.jpg",
+   "textures/river_small_rocks/river_small_rocks_arm_2k.jpg"
+  ]
+ },
+ "ganges_river_pebbles": {
+  "kind": "textures",
+  "name": "Ganges River Pebbles",
+  "source": "https://polyhaven.com/a/ganges_river_pebbles",
+  "licence": "CC0",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "use": "terrain: riverbed",
+  "res": "2k",
+  "files": [
+   "textures/ganges_river_pebbles/ganges_river_pebbles_diff_2k.jpg",
+   "textures/ganges_river_pebbles/ganges_river_pebbles_nor_gl_2k.jpg",
+   "textures/ganges_river_pebbles/ganges_river_pebbles_arm_2k.jpg"
+  ]
+ },
+ "mossy_rock": {
+  "kind": "textures",
+  "name": "Mossy Rock",
+  "source": "https://polyhaven.com/a/mossy_rock",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "rocks, distant cliffs",
+  "res": "2k",
+  "files": [
+   "textures/mossy_rock/mossy_rock_diff_2k.jpg",
+   "textures/mossy_rock/mossy_rock_nor_gl_2k.jpg",
+   "textures/mossy_rock/mossy_rock_arm_2k.jpg"
+  ]
+ },
+ "white_planks_clean": {
+  "kind": "textures",
+  "name": "White Planks Clean",
+  "source": "https://polyhaven.com/a/white_planks_clean",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "painted clapboard siding (café, cottages)",
+  "res": "2k",
+  "files": [
+   "textures/white_planks_clean/white_planks_clean_diff_2k.jpg",
+   "textures/white_planks_clean/white_planks_clean_nor_gl_2k.jpg",
+   "textures/white_planks_clean/white_planks_clean_arm_2k.jpg"
+  ]
+ },
+ "farm_soil": {
+  "kind": "textures",
+  "name": "Farm Soil",
+  "source": "https://polyhaven.com/a/farm_soil",
+  "licence": "CC0",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "use": "garden beds",
+  "res": "2k",
+  "files": [
+   "textures/farm_soil/farm_soil_diff_2k.jpg",
+   "textures/farm_soil/farm_soil_nor_gl_2k.jpg",
+   "textures/farm_soil/farm_soil_arm_2k.jpg"
+  ]
+ },
+ "distressed_painted_planks": {
+  "kind": "textures",
+  "name": "Distressed Painted Planks",
+  "source": "https://polyhaven.com/a/distressed_painted_planks",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "painted board siding (barn, cottage)",
+  "res": "2k",
+  "files": [
+   "textures/distressed_painted_planks/distressed_painted_planks_diff_2k.jpg",
+   "textures/distressed_painted_planks/distressed_painted_planks_nor_gl_2k.jpg",
+   "textures/distressed_painted_planks/distressed_painted_planks_arm_2k.jpg"
+  ]
+ },
+ "weathered_brown_planks": {
+  "kind": "textures",
+  "name": "Weathered Brown Planks",
+  "source": "https://polyhaven.com/a/weathered_brown_planks",
+  "licence": "CC0",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "use": "barn doors, raised beds",
+  "res": "2k",
+  "files": [
+   "textures/weathered_brown_planks/weathered_brown_planks_diff_2k.jpg",
+   "textures/weathered_brown_planks/weathered_brown_planks_nor_gl_2k.jpg",
+   "textures/weathered_brown_planks/weathered_brown_planks_arm_2k.jpg"
+  ]
+ },
+ "roof_slates_02": {
+  "kind": "textures",
+  "name": "Roof Slates 02",
+  "source": "https://polyhaven.com/a/roof_slates_02",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "café roof",
+  "res": "2k",
+  "files": [
+   "textures/roof_slates_02/roof_slates_02_diff_2k.jpg",
+   "textures/roof_slates_02/roof_slates_02_nor_gl_2k.jpg",
+   "textures/roof_slates_02/roof_slates_02_arm_2k.jpg"
+  ]
+ },
+ "grey_roof_01": {
+  "kind": "textures",
+  "name": "Grey Roof 01",
+  "source": "https://polyhaven.com/a/grey_roof_01",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "cottage roofs",
+  "res": "2k",
+  "files": [
+   "textures/grey_roof_01/grey_roof_01_diff_2k.jpg",
+   "textures/grey_roof_01/grey_roof_01_nor_gl_2k.jpg",
+   "textures/grey_roof_01/grey_roof_01_arm_2k.jpg"
+  ]
+ },
+ "weathered_planks": {
+  "kind": "textures",
+  "name": "Weathered Planks",
+  "source": "https://polyhaven.com/a/weathered_planks",
+  "licence": "CC0",
+  "authors": [
+   "Dario Barresi",
+   "Dimitrios Savva"
+  ],
+  "use": "weathered boards (shed, fences, trestles)",
+  "res": "2k",
+  "files": [
+   "textures/weathered_planks/weathered_planks_diff_2k.jpg",
+   "textures/weathered_planks/weathered_planks_nor_gl_2k.jpg",
+   "textures/weathered_planks/weathered_planks_arm_2k.jpg"
+  ]
+ },
+ "stone_brick_wall_001": {
+  "kind": "textures",
+  "name": "Stone Brick Wall 001",
+  "source": "https://polyhaven.com/a/stone_brick_wall_001",
+  "licence": "CC0",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "use": "café foundation, steps",
+  "res": "2k",
+  "files": [
+   "textures/stone_brick_wall_001/stone_brick_wall_001_diff_2k.jpg",
+   "textures/stone_brick_wall_001/stone_brick_wall_001_nor_gl_2k.jpg",
+   "textures/stone_brick_wall_001/stone_brick_wall_001_arm_2k.jpg"
+  ]
+ },
+ "rough_block_wall": {
+  "kind": "textures",
+  "name": "Rough Block Wall",
+  "source": "https://polyhaven.com/a/rough_block_wall",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "fieldstone foundations",
+  "res": "2k",
+  "files": [
+   "textures/rough_block_wall/rough_block_wall_diff_2k.jpg",
+   "textures/rough_block_wall/rough_block_wall_nor_gl_2k.jpg",
+   "textures/rough_block_wall/rough_block_wall_arm_2k.jpg"
+  ]
+ },
+ "corrugated_iron": {
+  "kind": "textures",
+  "name": "Corrugated Iron",
+  "source": "https://polyhaven.com/a/corrugated_iron",
+  "licence": "CC0",
+  "authors": [
+   "Jenelle van Heerden",
+   "Dimitrios Savva"
+  ],
+  "use": "barn and shed roofs",
+  "res": "2k",
+  "files": [
+   "textures/corrugated_iron/corrugated_iron_diff_2k.jpg",
+   "textures/corrugated_iron/corrugated_iron_nor_gl_2k.jpg",
+   "textures/corrugated_iron/corrugated_iron_arm_2k.jpg"
+  ]
+ },
+ "plastered_wall_02": {
+  "kind": "textures",
+  "name": "Plastered Wall 02",
+  "source": "https://polyhaven.com/a/plastered_wall_02",
+  "licence": "CC0",
+  "authors": [
+   "Charlotte Baglioni"
+  ],
+  "use": "interior walls",
+  "res": "2k",
+  "files": [
+   "textures/plastered_wall_02/plastered_wall_02_diff_2k.jpg",
+   "textures/plastered_wall_02/plastered_wall_02_nor_gl_2k.jpg",
+   "textures/plastered_wall_02/plastered_wall_02_arm_2k.jpg"
+  ]
+ },
+ "mixed_brick_wall": {
+  "kind": "textures",
+  "name": "Mixed Brick Wall",
+  "source": "https://polyhaven.com/a/mixed_brick_wall",
+  "licence": "CC0",
+  "authors": [
+   "Dimitrios Savva"
+  ],
+  "use": "chimneys, oven",
+  "res": "2k",
+  "files": [
+   "textures/mixed_brick_wall/mixed_brick_wall_diff_2k.jpg",
+   "textures/mixed_brick_wall/mixed_brick_wall_nor_gl_2k.jpg",
+   "textures/mixed_brick_wall/mixed_brick_wall_arm_2k.jpg"
+  ]
+ },
+ "old_wood_floor": {
+  "kind": "textures",
+  "name": "Old Wood Floor",
+  "source": "https://polyhaven.com/a/old_wood_floor",
+  "licence": "CC0",
+  "authors": [
+   "Guillaume Monsergent"
+  ],
+  "use": "workshop floor, porch decks",
+  "res": "2k",
+  "files": [
+   "textures/old_wood_floor/old_wood_floor_diff_2k.jpg",
+   "textures/old_wood_floor/old_wood_floor_nor_gl_2k.jpg",
+   "textures/old_wood_floor/old_wood_floor_arm_2k.jpg"
+  ]
+ },
+ "wood_floor_worn": {
+  "kind": "textures",
+  "name": "Wood Floor Worn",
+  "source": "https://polyhaven.com/a/wood_floor_worn",
+  "licence": "CC0",
+  "authors": [
+   "Dimitrios Savva"
+  ],
+  "use": "café floor",
+  "res": "2k",
+  "files": [
+   "textures/wood_floor_worn/wood_floor_worn_diff_2k.jpg",
+   "textures/wood_floor_worn/wood_floor_worn_nor_gl_2k.jpg",
+   "textures/wood_floor_worn/wood_floor_worn_arm_2k.jpg"
+  ]
+ },
+ "rough_wood": {
+  "kind": "textures",
+  "name": "Rough Wood",
+  "source": "https://polyhaven.com/a/rough_wood",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "use": "beams, posts, trim",
+  "res": "2k",
+  "files": [
+   "textures/rough_wood/rough_wood_diff_2k.jpg",
+   "textures/rough_wood/rough_wood_nor_gl_2k.jpg",
+   "textures/rough_wood/rough_wood_arm_2k.jpg"
+  ]
+ },
+ "wood_table_worn": {
+  "kind": "textures",
+  "name": "Wood Table Worn",
+  "source": "https://polyhaven.com/a/wood_table_worn",
+  "licence": "CC0",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "use": "counter tops, notice board, sills",
+  "res": "2k",
+  "files": [
+   "textures/wood_table_worn/wood_table_worn_diff_2k.jpg",
+   "textures/wood_table_worn/wood_table_worn_nor_gl_2k.jpg",
+   "textures/wood_table_worn/wood_table_worn_arm_2k.jpg"
+  ]
+ },
+ "wood_shutter": {
+  "kind": "textures",
+  "name": "Wood Shutter",
+  "source": "https://polyhaven.com/a/wood_shutter",
+  "licence": "CC0",
+  "authors": [
+   "Dimitrios Savva"
+  ],
+  "use": "doors, shutters",
+  "res": "2k",
+  "files": [
+   "textures/wood_shutter/wood_shutter_diff_2k.jpg",
+   "textures/wood_shutter/wood_shutter_nor_gl_2k.jpg",
+   "textures/wood_shutter/wood_shutter_arm_2k.jpg"
+  ]
+ },
+ "fir_sapling_medium": {
+  "kind": "models",
+  "name": "Fir Sapling Medium",
+  "source": "https://polyhaven.com/a/fir_sapling_medium",
+  "licence": "CC0",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "use": "young firs at the forest edge",
+  "res": "1k",
+  "files": [
+   "models/sapling_a.glb",
+   "models/sapling_b.glb",
+   "models/sapling_c.glb"
+  ],
+  "dimensions_mm": [
+   26091.576099395752,
+   5434.919834136963,
+   9163.89086842537
+  ],
+  "polycount": 2308249
+ },
+ "WoodenTable_02": {
+  "kind": "models",
+  "name": "Wooden Table 02",
+  "source": "https://polyhaven.com/a/WoodenTable_02",
+  "licence": "CC0",
+  "authors": [
+   "Fran Calvente"
+  ],
+  "use": "café tables (four legs, room for seated knees)",
+  "res": "1k",
+  "files": [
+   "models/WoodenTable_02.glb"
+  ],
+  "dimensions_mm": [
+   300.67646503448486,
+   300.67646503448486,
+   417.6570537537643
+  ],
+  "polycount": 1514
+ },
+ "dining_table": {
+  "kind": "models",
+  "name": "Dining Table",
+  "source": "https://polyhaven.com/a/dining_table",
+  "licence": "CC0",
+  "authors": [
+   "Aron Łyczek"
+  ],
+  "use": "café tables (tapered legs, room for seated knees)",
+  "res": "1k",
+  "files": [
+   "models/dining_table.glb"
+  ],
+  "dimensions_mm": [
+   2255.895972251892,
+   1390.2360200881958,
+   876.989221200347
+  ],
+  "polycount": 1048
+ },
+ "dirty_carpet": {
+  "kind": "textures",
+  "name": "Dirty Carpet",
+  "source": "https://polyhaven.com/a/dirty_carpet",
+  "licence": "CC0",
+  "authors": [
+   "Rohit Seervi"
+  ],
+  "use": "rugs (cottage interiors)",
+  "res": "1k",
+  "files": [
+   "textures/dirty_carpet/dirty_carpet_diff_1k.jpg",
+   "textures/dirty_carpet/dirty_carpet_nor_gl_1k.jpg",
+   "textures/dirty_carpet/dirty_carpet_arm_1k.jpg"
+  ]
+ },
+ "poly_wool_herringbone": {
+  "kind": "textures",
+  "name": "Poly Wool Herringbone",
+  "source": "https://polyhaven.com/a/poly_wool_herringbone",
+  "licence": "CC0",
+  "authors": [
+   "colormass",
+   "Rico Cilliers"
+  ],
+  "use": "blankets, upholstery (cottage interiors)",
+  "res": "1k",
+  "files": [
+   "textures/poly_wool_herringbone/poly_wool_herringbone_diff_1k.jpg",
+   "textures/poly_wool_herringbone/poly_wool_herringbone_nor_gl_1k.jpg",
+   "textures/poly_wool_herringbone/poly_wool_herringbone_arm_1k.jpg"
+  ]
+ },
+ "rough_linen": {
+  "kind": "textures",
+  "name": "Rough Linen",
+  "source": "https://polyhaven.com/a/rough_linen",
+  "licence": "CC0",
+  "authors": [
+   "colormass",
+   "Rico Cilliers"
+  ],
+  "use": "bed linen, curtains (cottage interiors)",
+  "res": "1k",
+  "files": [
+   "textures/rough_linen/rough_linen_diff_1k.jpg",
+   "textures/rough_linen/rough_linen_nor_gl_1k.jpg",
+   "textures/rough_linen/rough_linen_arm_1k.jpg"
+  ]
+ }
+}

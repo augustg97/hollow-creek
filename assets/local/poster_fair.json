@@ -1,0 +1,18 @@
+{
+ "file": "public/assets/local/poster_fair.jpg",
+ "prompt": "A vintage two-colour screen-printed poster seen straight on, the paper filling the whole frame edge to edge: \"HOLLOW CREEK LATE SUMMER FAIR\" in bold letters, \"on the square - saturday\" smaller below, an illustration of bunting, a big tree and a little rowing boat on a river. Muted red and navy ink on off-white paper, slightly worn. Flat, evenly lit.",
+ "negative_prompt": "",
+ "seed": 62,
+ "width": 768,
+ "height": 1024,
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "seconds": 3.1,
+ "cached": false,
+ "source": ".cache/phase5/poster_fair_62.png",
+ "used_for": "notice board: the late-summer fair",
+ "processing": "resized to 480x640, JPEG q88"
+}
