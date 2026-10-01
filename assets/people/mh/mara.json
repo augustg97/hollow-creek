@@ -1,0 +1,253 @@
+{
+ "id": "mara",
+ "name": "Mara Lindqvist",
+ "seed": 1061,
+ "body": {
+  "sex": 0.0,
+  "age_years": 61,
+  "height_cm": 164
+ },
+ "movement": {
+  "walk_speed": 1.05,
+  "stride": 0.9,
+  "lean": 0.06,
+  "arm_swing": 0.8,
+  "idle_sway": 0.5,
+  "idle_clip": "idle_a"
+ },
+ "gltf": "mara.gltf",
+ "lod": "mara.lod.glb",
+ "rig": "metahuman",
+ "build": {
+  "head": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/mara/mh/dna/mara_Head.dna",
+  "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/mara/mh/dna/mara_Body.dna",
+  "head_lod": 1,
+  "body_lod": 0,
+  "date": "2026-09-30",
+  "seconds": 41.0,
+  "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/mara/maps",
+  "maps": {
+   "made": "2026-09-30 04:33:27",
+   "exported": "2026-09-30 04:33:09",
+   "freshness": "fresh"
+  },
+  "grooms": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/mara/mh",
+  "outfit": "mara",
+  "posed": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/mara/target/mara_posed.dna"
+ },
+ "stats": {
+  "head_joint_m": 1.482,
+  "tris": 150922,
+  "lod_tris": 29224,
+  "gltf": "mara.gltf",
+  "textures": {
+   "materials": [
+    "mh_eye",
+    "mh_lashes",
+    "mh_skin_body",
+    "mh_skin_head",
+    "mh_teeth"
+   ],
+   "skin_tone": "character (MetaHuman skin model)",
+   "face_albedo": "synthesized"
+  },
+  "textureBytes": 9826235,
+  "textureMemoryMB": 138.7,
+  "lod": "mara.lod.glb",
+  "lodBytes": 402940,
+  "geometryBytes": 4554536,
+  "refit_cm": {
+   "hand_l": 9.03,
+   "foot_l": 5.7,
+   "ball_l": 3.22,
+   "index_01_l": 9.07,
+   "index_02_l": 10.13,
+   "index_03_l": 10.59,
+   "middle_01_l": 9.35,
+   "middle_02_l": 9.73,
+   "middle_03_l": 10.24,
+   "pinky_01_l": 9.99,
+   "pinky_02_l": 10.54,
+   "pinky_03_l": 10.71,
+   "ring_01_l": 9.72,
+   "ring_02_l": 10.38,
+   "ring_03_l": 10.86,
+   "thumb_01_l": 8.48,
+   "thumb_02_l": 8.62,
+   "thumb_03_l": 8.91,
+   "hand_r": 9.07,
+   "foot_r": 5.7,
+   "ball_r": 3.22,
+   "index_01_r": 9.08,
+   "index_02_r": 10.14,
+   "index_03_r": 10.6,
+   "middle_01_r": 9.36,
+   "middle_02_r": 9.74,
+   "middle_03_r": 10.24,
+   "pinky_01_r": 9.99,
+   "pinky_02_r": 10.54,
+   "pinky_03_r": 10.7,
+   "ring_01_r": 9.73,
+   "ring_02_r": 10.38,
+   "ring_03_r": 10.86,
+   "thumb_01_r": 8.5,
+   "thumb_02_r": 8.62,
+   "thumb_03_r": 8.91
+  },
+  "reframe_deg_max": 40.6,
+  "grooms": {
+   "Hair_S_UpdoBuns": {
+    "full": {
+     "lod": 1,
+     "head": "SKM_Groom_Head_Legacy01",
+     "tris": 19874,
+     "bound_cm": [
+      0.91,
+      6.05,
+      10.33
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.021,
+       0.678,
+       5.425
+      ],
+      "rendered": [
+       -0.012,
+       0.681,
+       5.446
+      ]
+     },
+     "offset_change_mm": [
+      -0.2,
+      0.04,
+      0.38
+     ],
+     "pushed": 29
+    },
+    "distant": {
+     "lod": 4,
+     "head": "SKM_Groom_Head_Legacy01",
+     "tris": 2098,
+     "bound_cm": [
+      0.78,
+      5.92,
+      9.51
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.03,
+       0.191,
+       1.469
+      ],
+      "rendered": [
+       -0.033,
+       0.193,
+       1.476
+      ]
+     },
+     "offset_change_mm": [
+      -0.24,
+      0.03,
+      0.33
+     ],
+     "pushed": 24
+    }
+   },
+   "Eyebrows_S_FlatThin": {
+    "full": {
+     "lod": 1,
+     "head": "SKM_Groom_Head_Legacy02",
+     "tris": 2414,
+     "bound_cm": [
+      0.11,
+      0.35,
+      0.57
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.047,
+       0.029,
+       0.343
+      ],
+      "rendered": [
+       -0.039,
+       0.034,
+       0.349
+      ]
+     },
+     "offset_change_mm": [
+      -0.0,
+      0.06,
+      0.19
+     ],
+     "pushed": 1
+    }
+   }
+  },
+  "grooms_replace": [
+   "hair:",
+   "eyebrows:"
+  ],
+  "grooms_painted": [],
+  "outfit": {
+   "seam_gap": {
+    "mean_cm": 0.0,
+    "max_cm": 0.0,
+    "offset_cm": [
+     -0.0,
+     -0.0,
+     -0.0
+    ]
+   },
+   "clothes_bind": "all",
+   "shod_mpfb_mask": 0,
+   "hidden_full": {
+    "faces": 12937,
+    "of": 30408
+   },
+   "hidden_lod": {
+    "faces": 1553,
+    "of": 3364
+   },
+   "hidden_lod_head": {
+    "faces": 63,
+    "of": 2572
+   },
+   "tucked": {
+    "full": {
+     "verts": 246,
+     "max_mm": 13.5,
+     "median_mm": 1.9
+    },
+    "lod": {
+     "verts": 14,
+     "max_mm": 10.0,
+     "median_mm": 2.4
+    }
+   },
+   "garments": {
+    "clothes:dressupdoc_balletflat1": {
+     "tris": 1384,
+     "pushed": 0,
+     "moved_cm": 7.0
+    },
+    "clothes:elvs_ladies_apron": {
+     "tris": 54594,
+     "pushed": 0,
+     "moved_cm": 4.0
+    },
+    "clothes:joepal_crude_t-shirt_female": {
+     "tris": 2068,
+     "pushed": 0,
+     "moved_cm": 6.0
+    },
+    "clothes:toigo_wool_pants": {
+     "tris": 2674,
+     "pushed": 1,
+     "moved_cm": 7.0
+    }
+   }
+  }
+ }
+}

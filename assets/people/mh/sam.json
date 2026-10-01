@@ -1,0 +1,243 @@
+{
+ "id": "sam",
+ "name": "Sam Whitaker",
+ "seed": 4421,
+ "body": {
+  "sex": 1.0,
+  "age_years": 27,
+  "height_cm": 181
+ },
+ "movement": {
+  "walk_speed": 1.25,
+  "stride": 1.02,
+  "lean": 0.07,
+  "arm_swing": 0.85,
+  "idle_sway": 0.9,
+  "idle_clip": "idle_c"
+ },
+ "gltf": "sam.gltf",
+ "lod": "sam.lod.glb",
+ "rig": "metahuman",
+ "build": {
+  "head": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/mh/dna/sam_Head.dna",
+  "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/mh/dna/sam_Body.dna",
+  "head_lod": 1,
+  "body_lod": 0,
+  "date": "2026-09-30",
+  "seconds": 30.8,
+  "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/maps",
+  "maps": {
+   "made": "2026-09-30 04:28:14",
+   "exported": "2026-09-30 04:27:22",
+   "freshness": "fresh"
+  },
+  "grooms": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/mh",
+  "outfit": "sam",
+  "posed": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/target/sam_posed.dna"
+ },
+ "stats": {
+  "head_joint_m": 1.64,
+  "tris": 92902,
+  "lod_tris": 14614,
+  "gltf": "sam.gltf",
+  "textures": {
+   "materials": [
+    "mh_eye",
+    "mh_lashes",
+    "mh_skin_body",
+    "mh_skin_head",
+    "mh_teeth"
+   ],
+   "skin_tone": "character (MetaHuman skin model)",
+   "face_albedo": "synthesized"
+  },
+  "textureBytes": 10303895,
+  "textureMemoryMB": 133.3,
+  "lod": "sam.lod.glb",
+  "lodBytes": 296036,
+  "geometryBytes": 4060668,
+  "refit_cm": {
+   "hand_l": 10.23,
+   "foot_l": 7.21,
+   "ball_l": 3.76,
+   "index_01_l": 10.72,
+   "index_02_l": 12.15,
+   "index_03_l": 12.91,
+   "middle_01_l": 10.97,
+   "middle_02_l": 11.67,
+   "middle_03_l": 12.38,
+   "pinky_01_l": 11.79,
+   "pinky_02_l": 12.69,
+   "pinky_03_l": 12.92,
+   "ring_01_l": 11.46,
+   "ring_02_l": 12.43,
+   "ring_03_l": 13.09,
+   "thumb_01_l": 9.81,
+   "thumb_02_l": 10.37,
+   "thumb_03_l": 11.06,
+   "hand_r": 10.26,
+   "foot_r": 7.21,
+   "ball_r": 3.77,
+   "index_01_r": 10.74,
+   "index_02_r": 12.17,
+   "index_03_r": 12.94,
+   "middle_01_r": 10.98,
+   "middle_02_r": 11.69,
+   "middle_03_r": 12.39,
+   "pinky_01_r": 11.8,
+   "pinky_02_r": 12.69,
+   "pinky_03_r": 12.9,
+   "ring_01_r": 11.47,
+   "ring_02_r": 12.43,
+   "ring_03_r": 13.09,
+   "thumb_01_r": 9.84,
+   "thumb_02_r": 10.4,
+   "thumb_03_r": 11.08
+  },
+  "reframe_deg_max": 40.1,
+  "grooms": {
+   "Hair_S_Messy": {
+    "full": {
+     "lod": 1,
+     "head": "SKM_Groom_Head_Legacy02",
+     "tris": 18708,
+     "bound_cm": [
+      0.39,
+      2.66,
+      4.82
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.022,
+       0.242,
+       0.52
+      ],
+      "rendered": [
+       -0.019,
+       0.248,
+       0.531
+      ]
+     },
+     "offset_change_mm": [
+      -0.17,
+      0.06,
+      0.47
+     ],
+     "pushed": 114
+    },
+    "distant": {
+     "lod": 4,
+     "head": "SKM_Groom_Head_Legacy02",
+     "tris": 3432,
+     "bound_cm": [
+      0.25,
+      2.59,
+      4.23
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.071,
+       0.0,
+       0.367
+      ],
+      "rendered": [
+       -0.065,
+       0.02,
+       0.37
+      ]
+     },
+     "offset_change_mm": [
+      -0.16,
+      0.03,
+      0.44
+     ],
+     "pushed": 37
+    }
+   },
+   "Eyebrows_M_Fine": {
+    "full": {
+     "lod": 1,
+     "head": "SKM_Groom_Head_Legacy01",
+     "tris": 2018,
+     "bound_cm": [
+      0.16,
+      0.43,
+      0.66
+     ],
+     "root_offset_cm": {
+      "groom_head": null,
+      "rendered": null
+     },
+     "offset_change_mm": [
+      -0.01,
+      0.03,
+      0.16
+     ],
+     "pushed": 6
+    }
+   }
+  },
+  "grooms_replace": [
+   "hair:",
+   "eyebrows:"
+  ],
+  "grooms_painted": [
+   "Beard_S_Stubble",
+   "Mustache_S_Stubble"
+  ],
+  "outfit": {
+   "seam_gap": {
+    "mean_cm": 0.0,
+    "max_cm": 0.0,
+    "offset_cm": [
+     -0.0,
+     -0.0,
+     -0.0
+    ]
+   },
+   "clothes_bind": "all",
+   "shod_mpfb_mask": 0,
+   "hidden_full": {
+    "faces": 15932,
+    "of": 30408
+   },
+   "hidden_lod": {
+    "faces": 1926,
+    "of": 3364
+   },
+   "hidden_lod_head": {
+    "faces": 98,
+    "of": 2572
+   },
+   "tucked": {
+    "full": {
+     "verts": 62,
+     "max_mm": 15.0,
+     "median_mm": 6.5
+    },
+    "lod": {
+     "verts": 0,
+     "max_mm": 0.0,
+     "median_mm": 0.0
+    }
+   },
+   "garments": {
+    "clothes:namuhekam_male_polo_shirt": {
+     "tris": 4106,
+     "pushed": 0,
+     "moved_cm": 7.3
+    },
+    "clothes:punkduck_comfortable_sneakers": {
+     "tris": 1556,
+     "pushed": 0,
+     "moved_cm": 7.8
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "tris": 4590,
+     "pushed": 0,
+     "moved_cm": 8.2
+    }
+   }
+  }
+ }
+}

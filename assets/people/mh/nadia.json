@@ -1,0 +1,248 @@
+{
+ "id": "nadia",
+ "name": "Nadia Osei",
+ "seed": 3319,
+ "body": {
+  "sex": 0.0,
+  "age_years": 45,
+  "height_cm": 170
+ },
+ "movement": {
+  "walk_speed": 1.18,
+  "stride": 1.05,
+  "lean": 0.02,
+  "arm_swing": 1.0,
+  "idle_sway": 0.25,
+  "idle_clip": "idle_d"
+ },
+ "gltf": "nadia.gltf",
+ "lod": "nadia.lod.glb",
+ "rig": "metahuman",
+ "build": {
+  "head": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/nadia/mh/dna/nadia_Head.dna",
+  "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/nadia/mh/dna/nadia_Body.dna",
+  "head_lod": 1,
+  "body_lod": 0,
+  "date": "2026-09-30",
+  "seconds": 28.5,
+  "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/nadia/maps",
+  "maps": {
+   "made": "2026-09-30 04:28:04",
+   "exported": "2026-09-30 04:26:20",
+   "freshness": "fresh"
+  },
+  "grooms": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/nadia/mh",
+  "outfit": "nadia",
+  "posed": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/nadia/target/nadia_posed.dna"
+ },
+ "stats": {
+  "head_joint_m": 1.537,
+  "tris": 89333,
+  "lod_tris": 14653,
+  "gltf": "nadia.gltf",
+  "textures": {
+   "materials": [
+    "mh_eye",
+    "mh_lashes",
+    "mh_skin_body",
+    "mh_skin_head",
+    "mh_teeth"
+   ],
+   "skin_tone": "character (MetaHuman skin model)",
+   "face_albedo": "synthesized"
+  },
+  "textureBytes": 9307711,
+  "textureMemoryMB": 125.4,
+  "lod": "nadia.lod.glb",
+  "lodBytes": 289052,
+  "geometryBytes": 3901724,
+  "refit_cm": {
+   "hand_l": 7.33,
+   "foot_l": 5.67,
+   "ball_l": 3.22,
+   "index_01_l": 7.29,
+   "index_02_l": 8.3,
+   "index_03_l": 8.72,
+   "middle_01_l": 7.57,
+   "middle_02_l": 7.9,
+   "middle_03_l": 8.34,
+   "pinky_01_l": 8.21,
+   "pinky_02_l": 8.73,
+   "pinky_03_l": 8.88,
+   "ring_01_l": 7.94,
+   "ring_02_l": 8.55,
+   "ring_03_l": 8.98,
+   "thumb_01_l": 6.73,
+   "thumb_02_l": 6.81,
+   "thumb_03_l": 7.13,
+   "hand_r": 7.36,
+   "foot_r": 5.66,
+   "ball_r": 3.21,
+   "index_01_r": 7.31,
+   "index_02_r": 8.32,
+   "index_03_r": 8.74,
+   "middle_01_r": 7.59,
+   "middle_02_r": 7.91,
+   "middle_03_r": 8.35,
+   "pinky_01_r": 8.21,
+   "pinky_02_r": 8.73,
+   "pinky_03_r": 8.87,
+   "ring_01_r": 7.95,
+   "ring_02_r": 8.55,
+   "ring_03_r": 8.98,
+   "thumb_01_r": 6.75,
+   "thumb_02_r": 6.82,
+   "thumb_03_r": 7.14
+  },
+  "reframe_deg_max": 40.5,
+  "grooms": {
+   "Hair_S_AfroFade": {
+    "full": {
+     "lod": 1,
+     "head": "SKM_Groom_Head_Legacy02",
+     "tris": 15531,
+     "bound_cm": [
+      0.54,
+      2.65,
+      4.0
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.251,
+       0.546,
+       2.846
+      ],
+      "rendered": [
+       -0.241,
+       0.554,
+       2.863
+      ]
+     },
+     "offset_change_mm": [
+      -0.13,
+      0.07,
+      0.42
+     ],
+     "pushed": 124
+    },
+    "distant": {
+     "lod": 4,
+     "head": "SKM_Groom_Head_Legacy02",
+     "tris": 3529,
+     "bound_cm": [
+      0.41,
+      2.61,
+      3.32
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       0.055,
+       1.606,
+       2.95
+      ],
+      "rendered": [
+       0.061,
+       1.618,
+       2.956
+      ]
+     },
+     "offset_change_mm": [
+      -0.16,
+      0.06,
+      0.39
+     ],
+     "pushed": 29
+    }
+   },
+   "Eyebrows_M_Thin": {
+    "full": {
+     "lod": 1,
+     "head": "SKM_Groom_Head_Legacy01",
+     "tris": 1522,
+     "bound_cm": [
+      0.07,
+      0.2,
+      0.39
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       0.005,
+       0.059,
+       0.157
+      ],
+      "rendered": [
+       0.015,
+       0.065,
+       0.167
+      ]
+     },
+     "offset_change_mm": [
+      -0.01,
+      0.06,
+      0.22
+     ],
+     "pushed": 18
+    }
+   }
+  },
+  "grooms_replace": [
+   "hair:",
+   "eyebrows:"
+  ],
+  "grooms_painted": [],
+  "outfit": {
+   "seam_gap": {
+    "mean_cm": 0.0,
+    "max_cm": 0.0,
+    "offset_cm": [
+     0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "clothes_bind": "all",
+   "shod_mpfb_mask": 3216,
+   "hidden_full": {
+    "faces": 15185,
+    "of": 30408
+   },
+   "hidden_lod": {
+    "faces": 1784,
+    "of": 3364
+   },
+   "hidden_lod_head": {
+    "faces": 60,
+    "of": 2572
+   },
+   "tucked": {
+    "full": {
+     "verts": 199,
+     "max_mm": 7.1,
+     "median_mm": 1.1
+    },
+    "lod": {
+     "verts": 20,
+     "max_mm": 2.5,
+     "median_mm": 0.8
+    }
+   },
+   "garments": {
+    "clothes:joepal_crude_t-shirt_female": {
+     "tris": 2068,
+     "pushed": 0,
+     "moved_cm": 5.0
+    },
+    "clothes:toigo_ankle_boots_female": {
+     "tris": 4120,
+     "pushed": 0,
+     "moved_cm": 7.0
+    },
+    "clothes:toigo_wool_pants": {
+     "tris": 2674,
+     "pushed": 1,
+     "moved_cm": 7.0
+    }
+   }
+  }
+ }
+}

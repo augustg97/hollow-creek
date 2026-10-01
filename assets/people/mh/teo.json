@@ -1,0 +1,246 @@
+{
+ "id": "teo",
+ "name": "Teo Alvarez",
+ "seed": 2207,
+ "body": {
+  "sex": 1.0,
+  "age_years": 38,
+  "height_cm": 178
+ },
+ "movement": {
+  "walk_speed": 1.12,
+  "stride": 1.0,
+  "lean": 0.03,
+  "arm_swing": 0.85,
+  "idle_sway": 0.3,
+  "idle_clip": "idle_b"
+ },
+ "gltf": "teo.gltf",
+ "lod": "teo.lod.glb",
+ "rig": "metahuman",
+ "build": {
+  "head": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/teo/mh/dna/teo_Head.dna",
+  "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/teo/mh/dna/teo_Body.dna",
+  "head_lod": 1,
+  "body_lod": 0,
+  "date": "2026-09-30",
+  "seconds": 36.1,
+  "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/teo/maps",
+  "maps": {
+   "made": "2026-09-30 04:42:07",
+   "exported": "2026-09-30 04:41:48",
+   "freshness": "fresh"
+  },
+  "grooms": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/teo/mh",
+  "outfit": "teo",
+  "posed": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/teo/target/teo_posed.dna"
+ },
+ "stats": {
+  "head_joint_m": 1.612,
+  "tris": 89722,
+  "lod_tris": 19172,
+  "gltf": "teo.gltf",
+  "textures": {
+   "materials": [
+    "mh_eye",
+    "mh_lashes",
+    "mh_skin_body",
+    "mh_skin_head",
+    "mh_teeth"
+   ],
+   "skin_tone": "character (MetaHuman skin model)",
+   "face_albedo": "synthesized"
+  },
+  "textureBytes": 9567333,
+  "textureMemoryMB": 128,
+  "lod": "teo.lod.glb",
+  "lodBytes": 630588,
+  "geometryBytes": 4522664,
+  "refit_cm": {
+   "hand_l": 9.67,
+   "foot_l": 6.82,
+   "ball_l": 3.44,
+   "index_01_l": 10.15,
+   "index_02_l": 11.54,
+   "index_03_l": 12.27,
+   "middle_01_l": 10.39,
+   "middle_02_l": 11.06,
+   "middle_03_l": 11.74,
+   "pinky_01_l": 11.17,
+   "pinky_02_l": 12.02,
+   "pinky_03_l": 12.23,
+   "ring_01_l": 10.85,
+   "ring_02_l": 11.78,
+   "ring_03_l": 12.4,
+   "thumb_01_l": 9.24,
+   "thumb_02_l": 9.79,
+   "thumb_03_l": 10.47,
+   "hand_r": 9.71,
+   "foot_r": 6.83,
+   "ball_r": 3.44,
+   "index_01_r": 10.17,
+   "index_02_r": 11.56,
+   "index_03_r": 12.29,
+   "middle_01_r": 10.4,
+   "middle_02_r": 11.09,
+   "middle_03_r": 11.76,
+   "pinky_01_r": 11.18,
+   "pinky_02_r": 12.02,
+   "pinky_03_r": 12.22,
+   "ring_01_r": 10.86,
+   "ring_02_r": 11.79,
+   "ring_03_r": 12.4,
+   "thumb_01_r": 9.27,
+   "thumb_02_r": 9.82,
+   "thumb_03_r": 10.49
+  },
+  "reframe_deg_max": 40.2,
+  "grooms": {
+   "Hair_S_SweptUp": {
+    "full": {
+     "lod": 2,
+     "head": "SKM_Groom_Head_Legacy02",
+     "tris": 13198,
+     "bound_cm": [
+      0.5,
+      2.18,
+      3.98
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.142,
+       0.12,
+       1.002
+      ],
+      "rendered": [
+       -0.132,
+       0.13,
+       1.01
+      ]
+     },
+     "offset_change_mm": [
+      -0.12,
+      0.06,
+      0.48
+     ],
+     "pushed": 125
+    },
+    "distant": {
+     "lod": 4,
+     "head": "SKM_Groom_Head_Legacy02",
+     "tris": 7493,
+     "bound_cm": [
+      0.5,
+      2.3,
+      3.89
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.155,
+       0.14,
+       1.0
+      ],
+      "rendered": [
+       -0.145,
+       0.15,
+       1.01
+      ]
+     },
+     "offset_change_mm": [
+      -0.1,
+      0.06,
+      0.48
+     ],
+     "pushed": 68
+    }
+   },
+   "Eyebrows_M_Thick": {
+    "full": {
+     "lod": 0,
+     "head": "SKM_Groom_Head_Legacy01",
+     "tris": 2448,
+     "bound_cm": [
+      0.05,
+      0.18,
+      0.32
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       0.022,
+       0.05,
+       0.184
+      ],
+      "rendered": [
+       0.026,
+       0.056,
+       0.19
+      ]
+     },
+     "offset_change_mm": [
+      -0.01,
+      0.05,
+      0.16
+     ],
+     "pushed": 54
+    }
+   }
+  },
+  "grooms_replace": [
+   "hair:",
+   "eyebrows:"
+  ],
+  "grooms_painted": [
+   "Beard_S_Stubble",
+   "Mustache_S_Stubble"
+  ],
+  "outfit": {
+   "seam_gap": {
+    "mean_cm": 0.0,
+    "max_cm": 0.0,
+    "offset_cm": [
+     -0.0,
+     -0.0,
+     -0.0
+    ]
+   },
+   "clothes_bind": "all",
+   "shod_mpfb_mask": 283,
+   "hidden_full": {
+    "faces": 15409,
+    "of": 30408
+   },
+   "hidden_lod": {
+    "faces": 1799,
+    "of": 3364
+   },
+   "hidden_lod_head": {
+    "faces": 104,
+    "of": 2572
+   },
+   "tucked": {
+    "full": {
+     "verts": 3,
+     "max_mm": 0.5,
+     "median_mm": 0.5
+    },
+    "lod": {
+     "verts": 0,
+     "max_mm": 0.0,
+     "median_mm": 0.0
+    }
+   },
+   "garments": {
+    "clothes:male_worksuit01": {
+     "tris": 6986,
+     "pushed": 1,
+     "moved_cm": 8.7
+    },
+    "clothes:toigo_ankle_boots_male": {
+     "tris": 4120,
+     "pushed": 0,
+     "moved_cm": 7.8
+    }
+   }
+  }
+ }
+}
