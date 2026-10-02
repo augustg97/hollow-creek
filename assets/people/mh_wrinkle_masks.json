@@ -1,0 +1,116 @@
+{
+ "files": [
+  "mh_wrinkle_masks.png"
+ ],
+ "channels": [
+  [
+   "wm1_blink",
+   "wm1_browsRaiseInner",
+   "wm1_browsRaiseOuter",
+   "wm1_chinRaise"
+  ],
+  [
+   "wm1_jawOpen",
+   "wm1_purse_D",
+   "wm1_purse_U",
+   "wm1_squintInner"
+  ],
+  [
+   "wm2_browsDown",
+   "wm2_browsLateral",
+   "wm2_mouthStretch",
+   "wm2_neckStretch"
+  ],
+  [
+   "wm2_noseWrinkler",
+   "wm3_cheekRaiseInner",
+   "wm3_cheekRaiseOuter",
+   "wm3_cheekRaiseUpper"
+  ],
+  [
+   "wm3_smile",
+   "wm13_lips_U",
+   "wm13_lips_D",
+   "micro_off"
+  ]
+ ],
+ "size": 512,
+ "layout": "5 squares stacked top to bottom (v = (v_head + square) / 5)",
+ "folding": "each region's left (u > 0.5) and right masks summed into one channel",
+ "source": {
+  "wm1_msk_01": [
+   "wm1_blink_L",
+   "wm1_blink_R",
+   "wm1_browsRaiseInner_L",
+   "wm1_browsRaiseInner_R"
+  ],
+  "wm1_msk_02": [
+   "wm1_browsRaiseOuter_L",
+   "wm1_browsRaiseOuter_R",
+   "wm1_chinRaise_L",
+   "wm1_chinRaise_R"
+  ],
+  "wm1_msk_03": [
+   "wm1_jawOpen",
+   "wm1_purse_DL",
+   "wm1_purse_DR",
+   "wm1_purse_UL"
+  ],
+  "wm1_msk_04": [
+   "wm1_purse_UR",
+   "wm1_squintInner_L",
+   "wm1_squintInner_R",
+   null
+  ],
+  "wm2_msk_01": [
+   "wm2_browsDown_L",
+   "wm2_browsDown_R",
+   "wm2_browsLateral_L",
+   "wm2_browsLateral_R"
+  ],
+  "wm2_msk_02": [
+   "wm2_mouthStretch_L",
+   "wm2_mouthStretch_R",
+   "wm2_neckStretch_L",
+   "wm2_neckStretch_R"
+  ],
+  "wm2_msk_03": [
+   "wm2_noseWrinkler_L",
+   "wm2_noseWrinkler_R",
+   null,
+   null
+  ],
+  "wm3_msk_01": [
+   "wm3_cheekRaiseInner_L",
+   "wm3_cheekRaiseInner_R",
+   "wm3_cheekRaiseOuter_L",
+   "wm3_cheekRaiseOuter_R"
+  ],
+  "wm3_msk_02": [
+   "wm3_cheekRaiseUpper_L",
+   "wm3_cheekRaiseUpper_R",
+   "wm3_smile_L",
+   "wm3_smile_R"
+  ],
+  "wm13_msk_01": [
+   "wm13_lips_DL",
+   "wm13_lips_DR",
+   "wm13_lips_UL",
+   "wm13_lips_UR"
+  ]
+ },
+ "inputs_sha1": {
+  "T_head_wm1_msk_01.png": "70da412359a6f8e8cb8e985ba0523b76eb6c9293",
+  "T_head_wm1_msk_02.png": "85c2b525bcf534aa0d1e7f0c500260a6d6efb5c1",
+  "T_head_wm1_msk_03.png": "e98932107dd184cc2b84c49a72bbdf1dd4e89ccb",
+  "T_head_wm1_msk_04.png": "844dc48b4e9228c318e41c0f82f5dbaee5a3fb03",
+  "T_head_wm2_msk_01.png": "ee8f956256f4799de4347288e090f4d2c1dba7fb",
+  "T_head_wm2_msk_02.png": "f947abd9a2fdd5442805022a921139a10929ef80",
+  "T_head_wm2_msk_03.png": "8b53d0f99e07f617e032207a159c67dc3b18e2a1",
+  "T_head_wm3_msk_01.png": "73343d9f13c4f8c04adeed531dff6745c1b4a5de",
+  "T_head_wm3_msk_02.png": "ae9c12b938437bdd4aaaab0adf6136b9496d80cb",
+  "T_head_wm13_msk_01.png": "87eb860163f2bc7d2da207876d57174d1983c6cd",
+  "T_Skin_Microtiling_M.png": "9e6a40941e3dba3f1c0fded85365b5ff37ca6555"
+ },
+ "made": "2026-10-01 04:32:17"
+}

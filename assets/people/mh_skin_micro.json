@@ -1,0 +1,24 @@
+{
+ "file": "mh_skin_micro.png",
+ "size": 256,
+ "channels": "RGB tangent-space normal (glTF, green up), A 1 \u2212 cavity (0 in the furrows)",
+ "converted_from": "directx",
+ "tests": {
+  "curl": {
+   "curl_if_opengl": 0.0632,
+   "curl_if_directx": 0.0186,
+   "convention": "directx"
+  },
+  "cavity": {
+   "red": 0.682,
+   "green": -0.678,
+   "convention": "directx"
+  }
+ },
+ "material": "MI_Face_Skin_LOD0: Micro Skin Tiling 44 (head UV), body 70; Normal Strength 0.7; Cavity Specular Multiply 0.6; Micro Skin Roughness 1.05; off where T_Skin_Microtiling_M's A (head) is set",
+ "inputs_sha1": {
+  "T_SkinMicro3_N.png": "051bbc4fc7a7ea524c943a61aac6fa0a6ca57122",
+  "T_skinMicro3_CAV.png": "7749b27ffbd459b33f34575384b8257e54018ee7"
+ },
+ "made": "2026-10-01 04:58:16"
+}

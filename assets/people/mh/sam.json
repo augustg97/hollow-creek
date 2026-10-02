@@ -23,11 +23,11 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/mh/dna/sam_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-09-30",
-  "seconds": 30.8,
+  "date": "2026-10-01",
+  "seconds": 189.5,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/maps",
   "maps": {
-   "made": "2026-09-30 04:28:14",
+   "made": "2026-10-01 09:31:22",
    "exported": "2026-09-30 04:27:22",
    "freshness": "fresh"
   },
@@ -37,8 +37,8 @@
  },
  "stats": {
   "head_joint_m": 1.64,
-  "tris": 92902,
-  "lod_tris": 14614,
+  "tris": 142276,
+  "lod_tris": 14734,
   "gltf": "sam.gltf",
   "textures": {
    "materials": [
@@ -51,11 +51,11 @@
    "skin_tone": "character (MetaHuman skin model)",
    "face_albedo": "synthesized"
   },
-  "textureBytes": 10303895,
-  "textureMemoryMB": 133.3,
+  "textureBytes": 9725526,
+  "textureMemoryMB": 128.7,
   "lod": "sam.lod.glb",
-  "lodBytes": 296036,
-  "geometryBytes": 4060668,
+  "lodBytes": 315628,
+  "geometryBytes": 5197772,
   "refit_cm": {
    "hand_l": 10.23,
    "foot_l": 7.21,
@@ -98,32 +98,32 @@
   "grooms": {
    "Hair_S_Messy": {
     "full": {
-     "lod": 1,
+     "lod": 0,
      "head": "SKM_Groom_Head_Legacy02",
-     "tris": 18708,
+     "tris": 34386,
      "bound_cm": [
-      0.39,
-      2.66,
-      4.82
+      0.43,
+      2.57,
+      4.64
      ],
      "root_offset_cm": {
       "groom_head": [
-       -0.022,
-       0.242,
-       0.52
+       -0.124,
+       -0.031,
+       0.398
       ],
       "rendered": [
-       -0.019,
-       0.248,
-       0.531
+       -0.11,
+       -0.018,
+       0.404
       ]
      },
      "offset_change_mm": [
-      -0.17,
+      -0.15,
       0.06,
-      0.47
+      0.46
      ],
-     "pushed": 114
+     "pushed": 214
     },
     "distant": {
      "lod": 4,
@@ -156,12 +156,12 @@
    },
    "Eyebrows_M_Fine": {
     "full": {
-     "lod": 1,
+     "lod": 0,
      "head": "SKM_Groom_Head_Legacy01",
-     "tris": 2018,
+     "tris": 3996,
      "bound_cm": [
       0.16,
-      0.43,
+      0.4,
       0.66
      ],
      "root_offset_cm": {
@@ -171,9 +171,9 @@
      "offset_change_mm": [
       -0.01,
       0.03,
-      0.16
+      0.17
      ],
-     "pushed": 6
+     "pushed": 9
     }
    }
   },
@@ -196,29 +196,124 @@
     ]
    },
    "clothes_bind": "all",
+   "smoothed": {
+    "clothes:namuhekam_male_polo_shirt": {
+     "tris": [
+      4106,
+      16424
+     ],
+     "median_edge_cm": 2.39,
+     "hard": 0,
+     "capped": 260,
+     "hem_edges": 268,
+     "max_mm": 4.5,
+     "hem_points_relaxed": 268
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "tris": [
+      4590,
+      18360
+     ],
+     "median_edge_cm": 2.45,
+     "hard": 0,
+     "capped": 253,
+     "hem_edges": 608,
+     "max_mm": 4.5,
+     "hem_points_relaxed": 0
+    }
+   },
+   "bridged": {
+    "clothes:namuhekam_male_polo_shirt": {
+     "moved_share": 0.681,
+     "p95_mm": 13.1,
+     "max_mm": 29.9,
+     "capped": 1641
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "moved_share": 0.345,
+     "p95_mm": 4.2,
+     "max_mm": 16.7,
+     "capped": 1005
+    }
+   },
+   "drape_sim": {
+    "clothes:namuhekam_male_polo_shirt": {
+     "parts": [
+      {
+       "verts": 27210,
+       "held": 2253,
+       "beneath": 2,
+       "seconds": 40.9
+      }
+     ],
+     "relief_p5_p95_mm": [
+      -5.9,
+      6.2
+     ],
+     "outline_p5_p95_mm": [
+      -3.0,
+      3.6
+     ],
+     "capped": 10
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "parts": [
+      {
+       "verts": 27581,
+       "held": 5625,
+       "beneath": 12,
+       "seconds": 40.5
+      }
+     ],
+     "relief_p5_p95_mm": [
+      -2.3,
+      2.3
+     ],
+     "outline_p5_p95_mm": null,
+     "capped": 0
+    }
+   },
+   "draped": {
+    "clothes:punkduck_male_classic_jeans": {
+     "moved_share": 0.338,
+     "p95_mm": 4.63,
+     "max_mm": 9.65,
+     "capped": 25
+    }
+   },
    "shod_mpfb_mask": 0,
    "hidden_full": {
-    "faces": 15932,
+    "faces": 15885,
     "of": 30408
    },
+   "lod_reshaped": {
+    "clothes:namuhekam_male_polo_shirt": {
+     "p95_mm": 13.1,
+     "max_mm": 35.6
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "p95_mm": 5.9,
+     "max_mm": 21.4
+    }
+   },
    "hidden_lod": {
-    "faces": 1926,
+    "faces": 1874,
     "of": 3364
    },
    "hidden_lod_head": {
-    "faces": 98,
+    "faces": 89,
     "of": 2572
    },
    "tucked": {
     "full": {
-     "verts": 62,
-     "max_mm": 15.0,
-     "median_mm": 6.5
+     "verts": 61,
+     "max_mm": 14.6,
+     "median_mm": 5.7
     },
     "lod": {
-     "verts": 0,
-     "max_mm": 0.0,
-     "median_mm": 0.0
+     "verts": 8,
+     "max_mm": 9.2,
+     "median_mm": 7.0
     }
    },
    "garments": {
@@ -237,6 +332,448 @@
      "pushed": 0,
      "moved_cm": 8.2
     }
+   }
+  },
+  "skin_light": {
+   "sky_p5_p50_p95": [
+    0.0,
+    0.717,
+    0.975
+   ],
+   "bent_tilt_deg_p50_p95": [
+    5.1,
+    59.1
+   ],
+   "cone_deg_p5_p50": [
+    0.0,
+    75.4
+   ],
+   "thin_under_6mm": 0.0578,
+   "occluder_points": 8875806
+  },
+  "detail": {
+   "hair_light": {
+    "visibility_p5_p25_p50_p75_p95": {
+     "mh_hair:Hair_S_Messy": [
+      0.003,
+      0.125,
+      0.525,
+      0.851,
+      0.985
+     ]
+    },
+    "seconds": 5.0
+   },
+   "cloth_light": {
+    "garments": {
+     "clothes:namuhekam_male_polo_shirt": {
+      "visibility_p5_p25_p50_p75": [
+       0.235,
+       0.602,
+       0.842,
+       0.917
+      ],
+      "contact_p5_p25_p50": [
+       0.708,
+       0.872,
+       0.912
+      ],
+      "px": 512,
+      "fabric": "jersey",
+      "own_normal": false,
+      "hems": {
+       "neck": 230,
+       "sleeve": 64,
+       "bottom": 242
+      },
+      "seam_edges": 276,
+      "slope_p50_p95": [
+       0.104,
+       0.646
+      ],
+      "seconds": 2.7,
+      "gather_edges": 0,
+      "base_px": 512,
+      "wear": {
+       "px": 512,
+       "plain": false,
+       "use": 0.3,
+       "lum_mean_change": 0.003,
+       "variation_rms": 0.018,
+       "edge_p99": 0.11,
+       "dirt_p50_p99": [
+        0.0,
+        0.0
+       ],
+       "seconds": 0.9
+      },
+      "rims": {
+       "edges": 237,
+       "tris": 1422,
+       "thickness_mm": 2.4
+      }
+     },
+     "clothes:punkduck_comfortable_sneakers": {
+      "visibility_p5_p25_p50_p75": [
+       0.345,
+       0.718,
+       0.851,
+       0.924
+      ],
+      "contact_p5_p25_p50": [
+       0.676,
+       0.875,
+       0.923
+      ],
+      "px": 512,
+      "fabric": "leather",
+      "own_normal": false,
+      "hems": {
+       "ankle": 288
+      },
+      "seam_edges": 84,
+      "slope_p50_p95": [
+       0.0,
+       0.0
+      ],
+      "seconds": 1.4,
+      "base_px": 512
+     },
+     "clothes:punkduck_male_classic_jeans": {
+      "visibility_p5_p25_p50_p75": [
+       0.016,
+       0.138,
+       0.537,
+       0.894
+      ],
+      "contact_p5_p25_p50": [
+       0.132,
+       0.47,
+       0.87
+      ],
+      "px": 768,
+      "fabric": "denim",
+      "own_normal": true,
+      "hems": {
+       "waist": 900,
+       "ankle": 332
+      },
+      "seam_edges": 238,
+      "slope_p50_p95": [
+       0.091,
+       0.336
+      ],
+      "seconds": 2.5,
+      "gather_edges": 0,
+      "base_px": 768,
+      "wear": {
+       "px": 768,
+       "plain": false,
+       "use": 0.55,
+       "lum_mean_change": 0.029,
+       "variation_rms": 0.057,
+       "edge_p99": 0.24,
+       "dirt_p50_p99": [
+        0.0,
+        0.141
+       ],
+       "seconds": 2.1
+      },
+      "rims": {
+       "edges": 528,
+       "tris": 3168,
+       "thickness_mm": 3.4
+      }
+     }
+    },
+    "seconds": 25.1
+   },
+   "weave": {
+    "clothes:namuhekam_male_polo_shirt": {
+     "kind": "jersey:namuhekam_male_polo_shirt:r:in",
+     "scale": 1.0,
+     "metres_per_uv": 1.1576
+    },
+    "clothes:punkduck_comfortable_sneakers": {
+     "kind": "leather:punkduck_comfortable_sneakers",
+     "scale": 1.0,
+     "metres_per_uv": 0.5781
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "kind": "denim:punkduck_male_classic_jeans:in",
+     "scale": 1.0,
+     "metres_per_uv": 1.4015
+    }
+   }
+  }
+ },
+ "wrinkles": {
+  "map": "sam.wrinkles.png",
+  "gain": 2.5,
+  "units": {
+   "browDownLeft": {
+    "wm2.browsDown_L": 1.0
+   },
+   "browDownRight": {
+    "wm2.browsDown_R": 1.0
+   },
+   "browInnerUp": {
+    "wm2.browsLateral_L": 1.0,
+    "wm2.browsLateral_R": 1.0,
+    "wm1.browsRaiseInner_L": 1.0,
+    "wm1.browsRaiseInner_R": 1.0
+   },
+   "browOuterUpLeft": {
+    "wm1.browsRaiseInner_L": 1.0,
+    "wm1.browsRaiseOuter_L": 1.0,
+    "wm1.blink_L": 1.0
+   },
+   "browOuterUpRight": {
+    "wm1.browsRaiseInner_R": 1.0,
+    "wm1.browsRaiseOuter_R": 1.0,
+    "wm1.blink_R": 1.0
+   },
+   "cheekSquintLeft": {
+    "wm3.cheekRaiseInner_L": 0.8,
+    "wm3.cheekRaiseOuter_L": 0.8,
+    "wm3.cheekRaiseUpper_L": 0.8
+   },
+   "cheekSquintRight": {
+    "wm3.cheekRaiseInner_R": 0.8,
+    "wm3.cheekRaiseOuter_R": 0.8,
+    "wm3.cheekRaiseUpper_R": 0.8
+   },
+   "eyeBlinkLeft": {
+    "wm1.blink_L": 1.0,
+    "wm1.squintInner_L": 0.3
+   },
+   "eyeBlinkRight": {
+    "wm1.blink_R": 1.0,
+    "wm1.squintInner_R": 0.3
+   },
+   "eyeLookDownLeft": {
+    "wm1.blink_L": 0.632
+   },
+   "eyeLookDownRight": {
+    "wm1.blink_R": 0.632
+   },
+   "eyeSquintLeft": {
+    "wm1.squintInner_L": 0.8
+   },
+   "eyeSquintRight": {
+    "wm1.squintInner_R": 0.8
+   },
+   "jawOpen": {
+    "wm1.jawOpen": 1.0
+   },
+   "mouthClose": {
+    "wm1.chinRaise_R": 0.5,
+    "wm1.chinRaise_L": 0.5
+   },
+   "mouthDimpleLeft": {
+    "wm3.smile_L": 0.4,
+    "wm3.lips_UL": 0.5,
+    "wm3.lips_DL": 0.5
+   },
+   "mouthDimpleRight": {
+    "wm3.smile_R": 0.4,
+    "wm3.lips_UR": 0.5,
+    "wm3.lips_DR": 0.5
+   },
+   "mouthLeft": {
+    "wm3.cheekRaiseInner_L": 0.5,
+    "wm3.cheekRaiseOuter_L": 0.5,
+    "wm3.smile_L": 1.0,
+    "wm1.lips_UL": 0.5,
+    "wm1.lips_UR": 0.5,
+    "wm1.lips_DL": 0.5,
+    "wm1.lips_DR": 0.5
+   },
+   "mouthPucker": {
+    "wm1.lips_UL": 0.624,
+    "wm1.lips_UR": 0.624,
+    "wm1.lips_DL": 0.624,
+    "wm1.lips_DR": 0.624,
+    "wm1.purse_UL": 0.53,
+    "wm1.purse_UR": 0.53,
+    "wm1.purse_DL": 0.53,
+    "wm1.purse_DR": 0.53
+   },
+   "mouthRight": {
+    "wm3.cheekRaiseInner_R": 0.5,
+    "wm3.cheekRaiseOuter_R": 0.5,
+    "wm1.lips_UL": 0.5,
+    "wm1.lips_UR": 0.5,
+    "wm1.lips_DL": 0.5,
+    "wm1.lips_DR": 0.5,
+    "wm3.smile_R": 1.0
+   },
+   "mouthShrugLower": {
+    "wm1.chinRaise_L": 1.0,
+    "wm1.chinRaise_R": 1.0
+   },
+   "mouthSmileLeft": {
+    "wm3.cheekRaiseInner_L": 0.8,
+    "wm3.cheekRaiseOuter_L": 0.8,
+    "wm3.smile_L": 1.0,
+    "wm3.lips_UL": 1.0,
+    "wm3.lips_DL": 1.0
+   },
+   "mouthSmileRight": {
+    "wm3.cheekRaiseInner_R": 0.8,
+    "wm3.cheekRaiseOuter_R": 0.8,
+    "wm3.smile_R": 1.0,
+    "wm3.lips_UR": 1.0,
+    "wm3.lips_DR": 1.0
+   },
+   "mouthStretchLeft": {
+    "wm3.lips_UL": 1.0,
+    "wm3.lips_DL": 1.0,
+    "wm2.mouthStretch_L": 1.0
+   },
+   "mouthStretchRight": {
+    "wm3.lips_UR": 1.0,
+    "wm3.lips_DR": 1.0,
+    "wm2.mouthStretch_R": 1.0
+   },
+   "noseSneerLeft": {
+    "wm2.noseWrinkler_L": 1.0
+   },
+   "noseSneerRight": {
+    "wm2.noseWrinkler_R": 1.0
+   },
+   "aa_ah_ax_01": {
+    "wm3.lips_UL": 0.1,
+    "wm3.lips_DL": 0.1,
+    "wm3.lips_UR": 0.1,
+    "wm3.lips_DR": 0.1
+   },
+   "aa_02": {
+    "wm1.jawOpen": 0.167
+   },
+   "ao_03": {
+    "wm1.lips_UL": 0.083,
+    "wm1.lips_UR": 0.083,
+    "wm1.lips_DL": 0.083,
+    "wm1.lips_DR": 0.083,
+    "wm1.purse_UL": 0.02,
+    "wm1.purse_UR": 0.02,
+    "wm1.purse_DL": 0.02,
+    "wm1.purse_DR": 0.02,
+    "wm1.chinRaise_L": 0.02,
+    "wm1.chinRaise_R": 0.02
+   },
+   "ey_eh_uh_04": {
+    "wm3.lips_UL": 0.37,
+    "wm3.lips_DL": 0.37,
+    "wm3.lips_UR": 0.37,
+    "wm3.lips_DR": 0.37
+   },
+   "er_05": {
+    "wm1.lips_UL": 0.213,
+    "wm1.lips_UR": 0.213,
+    "wm1.lips_DL": 0.213,
+    "wm1.lips_DR": 0.213,
+    "wm1.purse_UL": 0.05,
+    "wm1.purse_UR": 0.05,
+    "wm1.purse_DL": 0.05,
+    "wm1.purse_DR": 0.05,
+    "wm1.chinRaise_L": 0.023,
+    "wm1.chinRaise_R": 0.023
+   },
+   "y_iy_ih_ix_06": {
+    "wm3.smile_L": 0.04,
+    "wm3.smile_R": 0.04,
+    "wm3.lips_UL": 0.63,
+    "wm3.lips_DL": 0.63,
+    "wm3.lips_UR": 0.63,
+    "wm3.lips_DR": 0.63,
+    "wm2.mouthStretch_L": 0.133,
+    "wm2.mouthStretch_R": 0.133
+   },
+   "w_uw_07": {
+    "wm1.lips_UL": 0.765,
+    "wm1.lips_UR": 0.765,
+    "wm1.lips_DL": 0.765,
+    "wm1.lips_DR": 0.765,
+    "wm1.purse_UL": 0.56,
+    "wm1.purse_UR": 0.56,
+    "wm1.purse_DL": 0.56,
+    "wm1.purse_DR": 0.56,
+    "wm1.chinRaise_L": 0.045,
+    "wm1.chinRaise_R": 0.045
+   },
+   "ow_08": {
+    "wm1.lips_UL": 0.35,
+    "wm1.lips_UR": 0.35,
+    "wm1.lips_DL": 0.35,
+    "wm1.lips_DR": 0.35,
+    "wm1.purse_UL": 0.22,
+    "wm1.purse_UR": 0.22,
+    "wm1.purse_DL": 0.22,
+    "wm1.purse_DR": 0.22,
+    "wm1.chinRaise_L": 0.062,
+    "wm1.chinRaise_R": 0.062
+   },
+   "aw_09": {
+    "wm1.jawOpen": 0.1
+   },
+   "oy_10": {
+    "wm1.lips_UL": 0.2,
+    "wm1.lips_UR": 0.2,
+    "wm1.lips_DL": 0.2,
+    "wm1.lips_DR": 0.2,
+    "wm1.purse_UL": 0.05,
+    "wm1.purse_UR": 0.05,
+    "wm1.purse_DL": 0.05,
+    "wm1.purse_DR": 0.05,
+    "wm1.chinRaise_L": 0.038,
+    "wm1.chinRaise_R": 0.038
+   },
+   "ay_11": {
+    "wm3.lips_UL": 0.15,
+    "wm3.lips_DL": 0.15,
+    "wm3.lips_UR": 0.15,
+    "wm3.lips_DR": 0.15,
+    "wm1.jawOpen": 0.033
+   },
+   "h_12": {
+    "wm3.lips_UL": 0.1,
+    "wm3.lips_DL": 0.1,
+    "wm3.lips_UR": 0.1,
+    "wm3.lips_DR": 0.1
+   },
+   "r_13": {
+    "wm1.lips_UL": 0.297,
+    "wm1.lips_UR": 0.297,
+    "wm1.lips_DL": 0.297,
+    "wm1.lips_DR": 0.297,
+    "wm1.purse_UL": 0.07,
+    "wm1.purse_UR": 0.07,
+    "wm1.purse_DL": 0.07,
+    "wm1.purse_DR": 0.07,
+    "wm1.chinRaise_L": 0.024,
+    "wm1.chinRaise_R": 0.024
+   },
+   "s_z_15": {
+    "wm3.lips_UL": 0.4,
+    "wm3.lips_DL": 0.4,
+    "wm3.lips_UR": 0.4,
+    "wm3.lips_DR": 0.4,
+    "wm2.mouthStretch_L": 0.067,
+    "wm2.mouthStretch_R": 0.067
+   },
+   "sh_ch_jh_zh_16": {
+    "wm1.lips_UL": 0.12,
+    "wm1.lips_UR": 0.12,
+    "wm1.lips_DL": 0.12,
+    "wm1.lips_DR": 0.12,
+    "wm1.purse_UL": 0.191,
+    "wm1.purse_UR": 0.191,
+    "wm1.purse_DL": 0.191,
+    "wm1.purse_DR": 0.191,
+    "wm1.chinRaise_L": 0.008,
+    "wm1.chinRaise_R": 0.008
    }
   }
  }
