@@ -1,0 +1,161 @@
+{
+ "id": "kid-toddler-m-asian",
+ "name": "kid-toddler-m-asian",
+ "seed": 8791327,
+ "body": {
+  "sex": 0.85,
+  "age_years": 3,
+  "height_cm": 95
+ },
+ "movement": {
+  "walk_speed": 0.65,
+  "stride": 0.9,
+  "lean": 0.0,
+  "arm_swing": 1.0,
+  "idle_sway": 1.0,
+  "idle_clip": "idle_a"
+ },
+ "gltf": "kid-toddler-m-asian.gltf",
+ "lod": "kid-toddler-m-asian.lod.glb",
+ "portrait": "kid-toddler-m-asian.portrait.jpg",
+ "build": {
+  "hash": "e1a69babd2cedce4",
+  "spec": "people/kid-toddler-m-asian.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-02",
+  "seconds": 14.6
+ },
+ "stats": {
+  "height_m": 0.946,
+  "tris": 52386,
+  "lod_tris": 17742,
+  "geometry_bytes": 1007080,
+  "lod_bytes": 268220,
+  "texture_bytes": 6529108,
+  "texture_mb_gpu": 71.8,
+  "textures": [
+   "61809b2eeb0b8a7efa30.png",
+   "c376d76b355c58037123.png",
+   "6c416ae1bc7fcfdc42d3.jpg",
+   "ed0b2f49869bb2feb118.jpg",
+   "ff253fa7fd5e23d30d18.png",
+   "ea456a4682e80acf1bbd.png",
+   "8832d0bec37ebf4e44ee.png",
+   "786fc56cdb4d5fd8520f.png",
+   "150acd30cc32a6e85611.png",
+   "b0fdf0b1085ce34ff7a2.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_asian_male",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow002",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "short01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_knitted_sweater_01",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "shirts02"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_male_trousers_2",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "pants02"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_comfortable_sneakers",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "shoes02"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "toddler",
+ "pool": {
+  "stage": "toddler",
+  "sex": "m",
+  "family": "asian"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [],
+  "clothes": [
+   "clothes:mindfront_knitted_sweater_01",
+   "clothes:mindfront_male_trousers_2"
+  ]
+ },
+ "tint_base": {
+  "skin": "#D6A88B",
+  "hair": "#1A1512",
+  "clothes": {
+   "clothes:mindfront_knitted_sweater_01": "#DCDCDC",
+   "clothes:mindfront_male_trousers_2": "#DCDCDC"
+  },
+  "skin_L": 72.3
+ },
+ "tint_default": {
+  "skin": null,
+  "hair": null,
+  "clothes": {
+   "clothes:mindfront_knitted_sweater_01": "#A34A3A",
+   "clothes:mindfront_male_trousers_2": "#5B5446"
+  }
+ },
+ "hip_m": 0.456,
+ "head_m": 0.822
+}

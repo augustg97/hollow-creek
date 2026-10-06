@@ -1,0 +1,319 @@
+{
+ "kids": [
+  {
+   "id": "kid-child-f-asian",
+   "stage": "child",
+   "sex": "f",
+   "family": "asian",
+   "height_cm": 128,
+   "hip_m": 0.675,
+   "walk_speed": 1.1,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-child-f-dark",
+   "stage": "child",
+   "sex": "f",
+   "family": "dark",
+   "height_cm": 129,
+   "hip_m": 0.682,
+   "walk_speed": 1.1,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-child-f-light",
+   "stage": "child",
+   "sex": "f",
+   "family": "light",
+   "height_cm": 130,
+   "hip_m": 0.688,
+   "walk_speed": 1.1,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-child-m-asian",
+   "stage": "child",
+   "sex": "m",
+   "family": "asian",
+   "height_cm": 128,
+   "hip_m": 0.659,
+   "walk_speed": 1.1,
+   "tint": {
+    "skin": true,
+    "hair": false,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-child-m-dark",
+   "stage": "child",
+   "sex": "m",
+   "family": "dark",
+   "height_cm": 128,
+   "hip_m": 0.661,
+   "walk_speed": 1.1,
+   "tint": {
+    "skin": true,
+    "hair": false,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-child-m-light",
+   "stage": "child",
+   "sex": "m",
+   "family": "light",
+   "height_cm": 130,
+   "hip_m": 0.671,
+   "walk_speed": 1.1,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-lena",
+   "stage": "child",
+   "sex": "f",
+   "family": "light",
+   "of": "lena",
+   "height_cm": 128,
+   "hip_m": 0.677,
+   "walk_speed": 1.15,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-toddler-f-asian",
+   "stage": "toddler",
+   "sex": "f",
+   "family": "asian",
+   "height_cm": 93,
+   "hip_m": 0.451,
+   "walk_speed": 0.65,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-toddler-f-dark",
+   "stage": "toddler",
+   "sex": "f",
+   "family": "dark",
+   "height_cm": 95,
+   "hip_m": 0.463,
+   "walk_speed": 0.65,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-toddler-f-light",
+   "stage": "toddler",
+   "sex": "f",
+   "family": "light",
+   "height_cm": 96,
+   "hip_m": 0.467,
+   "walk_speed": 0.65,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-toddler-m-asian",
+   "stage": "toddler",
+   "sex": "m",
+   "family": "asian",
+   "height_cm": 95,
+   "hip_m": 0.456,
+   "walk_speed": 0.65,
+   "tint": {
+    "skin": true,
+    "hair": false,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-toddler-m-dark",
+   "stage": "toddler",
+   "sex": "m",
+   "family": "dark",
+   "height_cm": 94,
+   "hip_m": 0.453,
+   "walk_speed": 0.65,
+   "tint": {
+    "skin": true,
+    "hair": false,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-toddler-m-light",
+   "stage": "toddler",
+   "sex": "m",
+   "family": "light",
+   "height_cm": 96,
+   "hip_m": 0.462,
+   "walk_speed": 0.65,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  }
+ ],
+ "looks": {
+  "ines": {
+   "skin": "#C2825D",
+   "skin_L": 60.1,
+   "hair": "#2A2019",
+   "ancestry": {
+    "african": 0.25,
+    "asian": 0.1,
+    "caucasian": 0.65
+   }
+  },
+  "joost": {
+   "skin": "#ECB593",
+   "skin_L": 77.9,
+   "hair": "#6B3A22",
+   "ancestry": {
+    "african": 0.0,
+    "asian": 0.0,
+    "caucasian": 1.0
+   }
+  },
+  "yonas": {
+   "skin": "#745A4B",
+   "skin_L": 40.5,
+   "hair": "#1A1512",
+   "ancestry": {
+    "african": 0.7,
+    "asian": 0.0,
+    "caucasian": 0.3
+   }
+  },
+  "defne": {
+   "skin": "#CA9775",
+   "skin_L": 66.5,
+   "hair": "#3B2A1E",
+   "ancestry": {
+    "african": 0.05,
+    "asian": 0.15,
+    "caucasian": 0.8
+   }
+  },
+  "anjali": {
+   "skin": "#8E6C5D",
+   "skin_L": 48.6,
+   "hair": "#1A1512",
+   "ancestry": {
+    "african": 0.15,
+    "asian": 0.25,
+    "caucasian": 0.6
+   }
+  },
+  "romy": {
+   "skin": "#B36C42",
+   "skin_L": 52.6,
+   "hair": "#3B2A1E",
+   "ancestry": {
+    "african": 0.45,
+    "asian": 0.0,
+    "caucasian": 0.55
+   }
+  },
+  "kojo": {
+   "skin": "#624535",
+   "skin_L": 32.1,
+   "hair": "#1A1512",
+   "ancestry": {
+    "african": 1.0,
+    "asian": 0.0,
+    "caucasian": 0.0
+   }
+  },
+  "haruka": {
+   "skin": "#CA8E68",
+   "skin_L": 64.1,
+   "hair": "#1A1512",
+   "ancestry": {
+    "african": 0.0,
+    "asian": 1.0,
+    "caucasian": 0.0
+   }
+  },
+  "paolo": {
+   "skin": "#B57A56",
+   "skin_L": 56.5,
+   "hair": "#1A1512",
+   "ancestry": {
+    "african": 0.05,
+    "asian": 0.8,
+    "caucasian": 0.15
+   }
+  },
+  "mara": {
+   "skin": "#C99677",
+   "skin_L": 66.2,
+   "hair": "#8E877C",
+   "ancestry": {
+    "african": 0.0,
+    "asian": 0.0,
+    "caucasian": 1.0
+   }
+  },
+  "nadia": {
+   "skin": "#744736",
+   "skin_L": 35.0,
+   "hair": "#171210",
+   "ancestry": {
+    "african": 1.0,
+    "asian": 0.0,
+    "caucasian": 0.0
+   }
+  },
+  "sam": {
+   "skin": "#EBB599",
+   "skin_L": 77.9,
+   "hair": "#9C8155",
+   "ancestry": {
+    "african": 0.0,
+    "asian": 0.0,
+    "caucasian": 1.0
+   }
+  },
+  "teo": {
+   "skin": "#B17149",
+   "skin_L": 53.6,
+   "hair": "#2A2019",
+   "ancestry": {
+    "african": 0.1,
+    "asian": 0.2,
+    "caucasian": 0.7
+   }
+  }
+ }
+}

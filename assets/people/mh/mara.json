@@ -23,8 +23,8 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/mara/mh/dna/mara_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-01",
-  "seconds": 185.3,
+  "date": "2026-10-02",
+  "seconds": 280.1,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/mara/maps",
   "maps": {
    "made": "2026-10-01 09:30:49",
@@ -61,7 +61,7 @@
   },
   "lod": "mara.lod.glb",
   "lodBytes": 414628,
-  "geometryBytes": 5370040,
+  "geometryBytes": 5092656,
   "refit_cm": {
    "hand_l": 9.03,
    "foot_l": 5.7,
@@ -254,7 +254,7 @@
        "verts": 16794,
        "held": 7626,
        "beneath": 0,
-       "seconds": 23.1
+       "seconds": 33.3
       }
      ],
      "relief_p5_p95_mm": [
@@ -273,7 +273,7 @@
        "verts": 21509,
        "held": 4974,
        "beneath": 0,
-       "seconds": 29.7
+       "seconds": 43.7
       }
      ],
      "relief_p5_p95_mm": [
@@ -373,7 +373,7 @@
       0.984
      ]
     },
-    "seconds": 4.7
+    "seconds": 5.9
    },
    "cloth_light": {
     "garments": {
@@ -400,7 +400,7 @@
        0.0,
        0.0
       ],
-      "seconds": 1.4,
+      "seconds": 2.6,
       "base_px": 512
      },
      "clothes:elvs_ladies_apron": {
@@ -428,7 +428,7 @@
        0.078,
        0.315
       ],
-      "seconds": 6.6,
+      "seconds": 16.9,
       "gather_edges": 38,
       "base_px": 768,
       "wear": {
@@ -442,7 +442,7 @@
         0.0,
         0.162
        ],
-       "seconds": 1.8
+       "seconds": 3.0
       }
      },
      "clothes:joepal_crude_t-shirt_female": {
@@ -470,7 +470,7 @@
        0.096,
        0.798
       ],
-      "seconds": 1.7,
+      "seconds": 6.4,
       "gather_edges": 0,
       "base_px": 512,
       "wear": {
@@ -484,7 +484,7 @@
         0.0,
         0.0
        ],
-       "seconds": 0.5
+       "seconds": 1.0
       },
       "rims": {
        "edges": 230,
@@ -516,7 +516,7 @@
        0.149,
        0.562
       ],
-      "seconds": 1.7,
+      "seconds": 2.5,
       "gather_edges": 154,
       "base_px": 512,
       "wear": {
@@ -530,7 +530,7 @@
         0.0,
         0.073
        ],
-       "seconds": 0.5
+       "seconds": 0.8
       },
       "rims": {
        "edges": 4,
@@ -539,7 +539,7 @@
       }
      }
     },
-    "seconds": 39.2
+    "seconds": 64.8
    },
    "weave": {
     "clothes:dressupdoc_balletflat1": {

@@ -1,0 +1,126 @@
+{
+ "id": "kojo",
+ "name": "Kojo Osei",
+ "seed": 14466,
+ "body": {
+  "sex": 1.0,
+  "age_years": 24,
+  "height_cm": 176
+ },
+ "movement": {
+  "walk_speed": 1.15,
+  "stride": 1.05,
+  "lean": 0.02,
+  "arm_swing": 1.0,
+  "idle_sway": 0.45,
+  "idle_clip": "idle_b"
+ },
+ "gltf": "kojo.gltf",
+ "lod": "kojo.lod.glb",
+ "portrait": "kojo.portrait.jpg",
+ "build": {
+  "hash": "4ea070b6460965a7",
+  "spec": "people/kojo.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-02",
+  "seconds": 11.9
+ },
+ "stats": {
+  "height_m": 1.758,
+  "tris": 39924,
+  "lod_tris": 14007,
+  "geometry_bytes": 867848,
+  "lod_bytes": 229068,
+  "texture_bytes": 6396958,
+  "texture_mb_gpu": 71.8,
+  "textures": [
+   "61809b2eeb0b8a7efa30.png",
+   "2461f96d38c5fbeab744.png",
+   "a8520823b1bb39b1278b.png",
+   "240f9512b4aa23e591c5.jpg",
+   "271f789e0c8c6dad2893.jpg",
+   "28cb2ddbec1fb56eebfe.png",
+   "8832d0bec37ebf4e44ee.png",
+   "786fc56cdb4d5fd8520f.png",
+   "dfffefad22d0619c47ec.png",
+   "8e4f7a1e30759b2e160c.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_african_male",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow012",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "short04",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_knitted_sweater_01",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "shirts02"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_male_classic_jeans",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "pants02"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_comfortable_sneakers",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "shoes02"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset"
+}

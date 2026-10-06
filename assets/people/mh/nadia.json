@@ -23,8 +23,8 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/nadia/mh/dna/nadia_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-01",
-  "seconds": 149.8,
+  "date": "2026-10-02",
+  "seconds": 199.9,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/nadia/maps",
   "maps": {
    "made": "2026-10-01 09:31:11",
@@ -55,7 +55,7 @@
   "textureMemoryMB": 117.4,
   "lod": "nadia.lod.glb",
   "lodBytes": 311488,
-  "geometryBytes": 4725400,
+  "geometryBytes": 4701744,
   "refit_cm": {
    "hand_l": 7.33,
    "foot_l": 5.67,
@@ -248,7 +248,7 @@
        "verts": 16794,
        "held": 2953,
        "beneath": 0,
-       "seconds": 25.0
+       "seconds": 34.3
       }
      ],
      "relief_p5_p95_mm": [
@@ -267,7 +267,7 @@
        "verts": 21499,
        "held": 3548,
        "beneath": 0,
-       "seconds": 31.9
+       "seconds": 41.2
       }
      ],
      "relief_p5_p95_mm": [
@@ -362,7 +362,7 @@
       0.99
      ]
     },
-    "seconds": 3.6
+    "seconds": 5.0
    },
    "cloth_light": {
     "garments": {
@@ -391,7 +391,7 @@
        0.129,
        0.852
       ],
-      "seconds": 1.9,
+      "seconds": 4.6,
       "gather_edges": 0,
       "base_px": 512,
       "wear": {
@@ -405,7 +405,7 @@
         0.0,
         0.0
        ],
-       "seconds": 0.6
+       "seconds": 0.8
       },
       "rims": {
        "edges": 230,
@@ -436,7 +436,7 @@
        0.091,
        0.235
       ],
-      "seconds": 2.2,
+      "seconds": 5.8,
       "base_px": 512
      },
      "clothes:toigo_wool_pants": {
@@ -463,7 +463,7 @@
        0.131,
        0.551
       ],
-      "seconds": 1.7,
+      "seconds": 2.4,
       "gather_edges": 150,
       "base_px": 512,
       "wear": {
@@ -477,7 +477,7 @@
         0.0,
         0.076
        ],
-       "seconds": 0.6
+       "seconds": 0.8
       },
       "rims": {
        "edges": 2,
@@ -486,7 +486,7 @@
       }
      }
     },
-    "seconds": 26.8
+    "seconds": 40.6
    },
    "weave": {
     "clothes:joepal_crude_t-shirt_female": {

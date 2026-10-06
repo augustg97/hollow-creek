@@ -23,8 +23,8 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/teo/mh/dna/teo_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-01",
-  "seconds": 182.1,
+  "date": "2026-10-02",
+  "seconds": 246.0,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/teo/maps",
   "maps": {
    "made": "2026-10-01 09:30:59",
@@ -61,7 +61,7 @@
   },
   "lod": "teo.lod.glb",
   "lodBytes": 486328,
-  "geometryBytes": 4934876,
+  "geometryBytes": 4784784,
   "refit_cm": {
    "hand_l": 9.67,
    "foot_l": 6.82,
@@ -239,13 +239,13 @@
        "verts": 37759,
        "held": 18279,
        "beneath": 4,
-       "seconds": 56.3
+       "seconds": 75.0
       },
       {
        "verts": 17042,
        "held": 6512,
        "beneath": 0,
-       "seconds": 25.1
+       "seconds": 31.7
       }
      ],
      "relief_p5_p95_mm": [
@@ -336,7 +336,7 @@
       0.984
      ]
     },
-    "seconds": 4.3
+    "seconds": 5.5
    },
    "cloth_light": {
     "garments": {
@@ -367,7 +367,7 @@
        0.131,
        0.451
       ],
-      "seconds": 2.0,
+      "seconds": 3.1,
       "gather_edges": 0,
       "base_px": 768,
       "wear": {
@@ -381,7 +381,7 @@
         0.0,
         0.181
        ],
-       "seconds": 1.5
+       "seconds": 2.0
       },
       "rims": {
        "edges": 524,
@@ -412,11 +412,11 @@
        0.091,
        0.235
       ],
-      "seconds": 2.2,
+      "seconds": 2.7,
       "base_px": 512
      }
     },
-    "seconds": 17.8
+    "seconds": 22.4
    },
    "weave": {
     "clothes:male_worksuit01": {
@@ -492,8 +492,8 @@
     "wm1.jawOpen": 1.0
    },
    "mouthClose": {
-    "wm1.chinRaise_R": 0.5,
-    "wm1.chinRaise_L": 0.5
+    "wm1.chinRaise_L": 0.5,
+    "wm1.chinRaise_R": 0.5
    },
    "mouthDimpleLeft": {
     "wm3.smile_L": 0.4,

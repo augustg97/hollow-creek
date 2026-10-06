@@ -1,0 +1,519 @@
+{
+ "id": "kojo",
+ "name": "Kojo Osei",
+ "seed": 14466,
+ "body": {
+  "sex": 1.0,
+  "age_years": 24,
+  "height_cm": 176
+ },
+ "movement": {
+  "walk_speed": 1.15,
+  "stride": 1.05,
+  "lean": 0.02,
+  "arm_swing": 1.0,
+  "idle_sway": 0.45,
+  "idle_clip": "idle_b"
+ },
+ "gltf": "kojo.gltf",
+ "lod": "kojo.lod.glb",
+ "rig": "metahuman",
+ "build": {
+  "head": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/kojo/mh/dna/kojo_Head.dna",
+  "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/kojo/mh/dna/kojo_Body.dna",
+  "head_lod": 1,
+  "body_lod": 0,
+  "date": "2026-10-02",
+  "seconds": 211.5,
+  "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/kojo/maps",
+  "maps": {
+   "made": "2026-10-02 09:15:29",
+   "exported": "2026-10-02 09:15:09",
+   "freshness": "fresh"
+  },
+  "grooms": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/kojo/mh",
+  "outfit": "kojo",
+  "posed": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/kojo/target/kojo_posed.dna",
+  "wrinkles": "none: under 35 (the spec's mh.wrinkles overrides)"
+ },
+ "stats": {
+  "head_joint_m": 1.588,
+  "tris": 126996,
+  "lod_tris": 11291,
+  "gltf": "kojo.gltf",
+  "textures": {
+   "materials": [
+    "mh_eye",
+    "mh_lashes",
+    "mh_skin_body",
+    "mh_skin_head",
+    "mh_teeth"
+   ],
+   "skin_tone": "character (MetaHuman skin model)",
+   "face_albedo": "synthesized"
+  },
+  "textureBytes": 10791831,
+  "textureMemoryMB": 132,
+  "lod": "kojo.lod.glb",
+  "lodBytes": 218584,
+  "geometryBytes": 4612596,
+  "refit_cm": {
+   "hand_l": 10.07,
+   "foot_l": 8.88,
+   "ball_l": 5.64,
+   "index_01_l": 10.64,
+   "index_02_l": 12.07,
+   "index_03_l": 12.82,
+   "middle_01_l": 10.88,
+   "middle_02_l": 11.62,
+   "middle_03_l": 12.29,
+   "pinky_01_l": 11.66,
+   "pinky_02_l": 12.53,
+   "pinky_03_l": 12.75,
+   "ring_01_l": 11.34,
+   "ring_02_l": 12.3,
+   "ring_03_l": 12.91,
+   "thumb_01_l": 9.62,
+   "thumb_02_l": 10.25,
+   "thumb_03_l": 11.02,
+   "hand_r": 10.1,
+   "foot_r": 8.88,
+   "ball_r": 5.64,
+   "index_01_r": 10.65,
+   "index_02_r": 12.08,
+   "index_03_r": 12.83,
+   "middle_01_r": 10.89,
+   "middle_02_r": 11.63,
+   "middle_03_r": 12.29,
+   "pinky_01_r": 11.66,
+   "pinky_02_r": 12.52,
+   "pinky_03_r": 12.73,
+   "ring_01_r": 11.34,
+   "ring_02_r": 12.3,
+   "ring_03_r": 12.9,
+   "thumb_01_r": 9.64,
+   "thumb_02_r": 10.27,
+   "thumb_03_r": 11.04
+  },
+  "reframe_deg_max": 40.1,
+  "grooms": {
+   "Hair_S_Coil": {
+    "full": {
+     "lod": 0,
+     "head": "MH_Groom_Head",
+     "tris": 31908,
+     "bound_cm": [
+      0.96,
+      2.73,
+      4.68
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.149,
+       0.15,
+       2.126
+      ],
+      "rendered": [
+       -0.14,
+       0.161,
+       2.137
+      ]
+     },
+     "offset_change_mm": [
+      -0.25,
+      0.06,
+      0.5
+     ],
+     "pushed": 69
+    },
+    "distant": {
+     "lod": 4,
+     "head": "MH_Groom_Head",
+     "tris": 998,
+     "bound_cm": [
+      0.82,
+      3.54,
+      5.61
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       -0.057,
+       1.978,
+       3.725
+      ],
+      "rendered": [
+       -0.043,
+       1.98,
+       3.713
+      ]
+     },
+     "offset_change_mm": [
+      -0.26,
+      0.06,
+      0.53
+     ],
+     "pushed": 10
+    }
+   },
+   "Eyebrows_M_Thick": {
+    "full": {
+     "lod": 0,
+     "head": "SKM_Groom_Head_Legacy01",
+     "tris": 2448,
+     "bound_cm": [
+      0.05,
+      0.18,
+      0.32
+     ],
+     "root_offset_cm": {
+      "groom_head": [
+       0.022,
+       0.05,
+       0.184
+      ],
+      "rendered": [
+       0.027,
+       0.056,
+       0.189
+      ]
+     },
+     "offset_change_mm": [
+      -0.01,
+      0.06,
+      0.17
+     ],
+     "pushed": 71
+    }
+   }
+  },
+  "grooms_replace": [
+   "hair:",
+   "eyebrows:"
+  ],
+  "grooms_painted": [],
+  "outfit": {
+   "seam_gap": {
+    "mean_cm": 0.0,
+    "max_cm": 0.0,
+    "offset_cm": [
+     -0.0,
+     -0.0,
+     -0.0
+    ]
+   },
+   "clothes_bind": "all",
+   "smoothed": {
+    "clothes:mindfront_knitted_sweater_01": {
+     "tris": [
+      2628,
+      10512
+     ],
+     "median_edge_cm": 3.01,
+     "hard": 0,
+     "capped": 45,
+     "hem_edges": 86,
+     "max_mm": 4.5,
+     "hem_points_relaxed": 50
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "tris": [
+      4590,
+      18360
+     ],
+     "median_edge_cm": 2.42,
+     "hard": 0,
+     "capped": 219,
+     "hem_edges": 608,
+     "max_mm": 4.5,
+     "hem_points_relaxed": 0
+    }
+   },
+   "bridged": {
+    "clothes:mindfront_knitted_sweater_01": {
+     "moved_share": 0.487,
+     "p95_mm": 9.5,
+     "max_mm": 17.4,
+     "capped": 78
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "moved_share": 0.357,
+     "p95_mm": 5.0,
+     "max_mm": 16.1,
+     "capped": 851
+    }
+   },
+   "drape_sim": {
+    "clothes:mindfront_knitted_sweater_01": {
+     "parts": [
+      {
+       "verts": 21194,
+       "held": 1285,
+       "beneath": 0,
+       "seconds": 37.9
+      }
+     ],
+     "relief_p5_p95_mm": [
+      -2.1,
+      2.1
+     ],
+     "outline_p5_p95_mm": null,
+     "capped": 0
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "parts": [
+      {
+       "verts": 27581,
+       "held": 5021,
+       "beneath": 12,
+       "seconds": 46.5
+      }
+     ],
+     "relief_p5_p95_mm": [
+      -2.4,
+      2.3
+     ],
+     "outline_p5_p95_mm": null,
+     "capped": 0
+    }
+   },
+   "draped": {
+    "clothes:mindfront_knitted_sweater_01": {
+     "moved_share": 0.392,
+     "p95_mm": 3.81,
+     "max_mm": 8.75,
+     "capped": 0
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "moved_share": 0.354,
+     "p95_mm": 4.81,
+     "max_mm": 10.75,
+     "capped": 23
+    }
+   },
+   "shod_mpfb_mask": 0,
+   "hidden_full": {
+    "faces": 18250,
+    "of": 30408
+   },
+   "lod_reshaped": {
+    "clothes:mindfront_knitted_sweater_01": {
+     "p95_mm": 10.5,
+     "max_mm": 18.8
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "p95_mm": 6.6,
+     "max_mm": 19.8
+    }
+   },
+   "hidden_lod": {
+    "faces": 2094,
+    "of": 3364
+   },
+   "hidden_lod_head": {
+    "faces": 153,
+    "of": 2572
+   },
+   "tucked": {
+    "full": {
+     "verts": 81,
+     "max_mm": 12.7,
+     "median_mm": 1.1
+    },
+    "lod": {
+     "verts": 7,
+     "max_mm": 9.7,
+     "median_mm": 1.6
+    }
+   },
+   "garments": {
+    "clothes:mindfront_knitted_sweater_01": {
+     "tris": 2628,
+     "pushed": 0,
+     "moved_cm": 10.2
+    },
+    "clothes:punkduck_comfortable_sneakers": {
+     "tris": 1556,
+     "pushed": 0,
+     "moved_cm": 9.7
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "tris": 4590,
+     "pushed": 0,
+     "moved_cm": 9.9
+    }
+   }
+  },
+  "skin_light": {
+   "sky_p5_p50_p95": [
+    0.0,
+    0.69,
+    0.981
+   ],
+   "bent_tilt_deg_p50_p95": [
+    4.2,
+    64.2
+   ],
+   "cone_deg_p5_p50": [
+    0.0,
+    75.8
+   ],
+   "thin_under_6mm": 0.0267,
+   "occluder_points": 5531584
+  },
+  "detail": {
+   "hair_light": {
+    "visibility_p5_p25_p50_p75_p95": {
+     "mh_hair:Hair_S_Coil": [
+      0.004,
+      0.041,
+      0.28,
+      0.726,
+      0.984
+     ]
+    },
+    "seconds": 3.4
+   },
+   "cloth_light": {
+    "garments": {
+     "clothes:mindfront_knitted_sweater_01": {
+      "visibility_p5_p25_p50_p75": [
+       0.511,
+       0.812,
+       0.895,
+       0.927
+      ],
+      "contact_p5_p25_p50": [
+       0.843,
+       0.897,
+       0.92
+      ],
+      "px": 768,
+      "fabric": "wool",
+      "own_normal": true,
+      "hems": {
+       "neck": 52,
+       "sleeve": 48,
+       "waist": 72
+      },
+      "seam_edges": 248,
+      "slope_p50_p95": [
+       0.252,
+       0.639
+      ],
+      "seconds": 2.0,
+      "gather_edges": 72,
+      "base_px": 768,
+      "wear": {
+       "px": 768,
+       "plain": false,
+       "use": 0.3,
+       "lum_mean_change": 0.001,
+       "variation_rms": 0.011,
+       "edge_p99": 0.04,
+       "dirt_p50_p99": [
+        0.0,
+        0.0
+       ],
+       "seconds": 1.0
+      },
+      "rims": {
+       "edges": 172,
+       "tris": 1032,
+       "thickness_mm": 3.0
+      }
+     },
+     "clothes:punkduck_comfortable_sneakers": {
+      "visibility_p5_p25_p50_p75": [
+       0.335,
+       0.699,
+       0.846,
+       0.921
+      ],
+      "contact_p5_p25_p50": [
+       0.675,
+       0.873,
+       0.92
+      ],
+      "px": 512,
+      "fabric": "leather",
+      "own_normal": false,
+      "hems": {
+       "ankle": 288
+      },
+      "seam_edges": 84,
+      "slope_p50_p95": [
+       0.0,
+       0.0
+      ],
+      "seconds": 2.3,
+      "base_px": 512
+     },
+     "clothes:punkduck_male_classic_jeans": {
+      "visibility_p5_p25_p50_p75": [
+       0.022,
+       0.191,
+       0.666,
+       0.905
+      ],
+      "contact_p5_p25_p50": [
+       0.235,
+       0.639,
+       0.89
+      ],
+      "px": 768,
+      "fabric": "denim",
+      "own_normal": true,
+      "hems": {
+       "waist": 900,
+       "ankle": 332
+      },
+      "seam_edges": 238,
+      "slope_p50_p95": [
+       0.093,
+       0.35
+      ],
+      "seconds": 3.3,
+      "gather_edges": 0,
+      "base_px": 768,
+      "wear": {
+       "px": 768,
+       "plain": false,
+       "use": 0.55,
+       "lum_mean_change": 0.03,
+       "variation_rms": 0.082,
+       "edge_p99": 0.24,
+       "dirt_p50_p99": [
+        0.0,
+        0.143
+       ],
+       "seconds": 2.7
+      },
+      "rims": {
+       "edges": 491,
+       "tris": 2946,
+       "thickness_mm": 3.4
+      }
+     }
+    },
+    "seconds": 39.6
+   },
+   "weave": {
+    "clothes:mindfront_knitted_sweater_01": {
+     "kind": "wool:mindfront_knitted_sweater_01:in",
+     "scale": 1.0,
+     "metres_per_uv": 1.4504
+    },
+    "clothes:punkduck_comfortable_sneakers": {
+     "kind": "leather:punkduck_comfortable_sneakers",
+     "scale": 1.0,
+     "metres_per_uv": 0.5728
+    },
+    "clothes:punkduck_male_classic_jeans": {
+     "kind": "denim:punkduck_male_classic_jeans:in",
+     "scale": 1.0,
+     "metres_per_uv": 1.3753
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "id": "ines",
+ "name": "Ines Carvalho",
+ "seed": 473,
+ "body": {
+  "sex": 0.0,
+  "age_years": 38,
+  "height_cm": 168
+ },
+ "movement": {
+  "walk_speed": 1.24,
+  "stride": 1.0,
+  "lean": 0.04,
+  "arm_swing": 1.0,
+  "idle_sway": 0.3,
+  "idle_clip": "idle_b"
+ },
+ "gltf": "ines.gltf",
+ "lod": "ines.lod.glb",
+ "portrait": "ines.portrait.jpg",
+ "build": {
+  "hash": "f3f5843ba9e78b53",
+  "spec": "people/ines.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-02",
+  "seconds": 15.9
+ },
+ "stats": {
+  "height_m": 1.677,
+  "tris": 96894,
+  "lod_tris": 31095,
+  "geometry_bytes": 1384920,
+  "lod_bytes": 414888,
+  "texture_bytes": 4035398,
+  "texture_mb_gpu": 71.8,
+  "textures": [
+   "da0e79b26b67768b4de3.jpg",
+   "f8af7b208a74ca9e4f37.jpg",
+   "7579bf376d2dd818fae2.jpg",
+   "9e6da5a840eb96a80e2c.jpg",
+   "c784901933b9f8b677e7.png",
+   "cf0ed15ff8dc70f48639.png",
+   "8832d0bec37ebf4e44ee.png",
+   "1732a45dbc439924ec3f.png",
+   "0963bb6a04b7ff2a99b9.png",
+   "e4ccfc2d07b49c50f6cf.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_caucasian_female2",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow008",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "short01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "joepal_crude_t-shirt_female",
+   "license": "CC0",
+   "author": "Joel Palmius",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_ankle_boots_female",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
+  },
+  {
+   "kind": "clothes",
+   "name": "elvs_ladies_apron",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "dress02"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset"
+}

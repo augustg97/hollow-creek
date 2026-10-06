@@ -1,0 +1,126 @@
+{
+ "id": "joost",
+ "name": "Joost Vos",
+ "seed": 12911,
+ "body": {
+  "sex": 1.0,
+  "age_years": 37,
+  "height_cm": 173
+ },
+ "movement": {
+  "walk_speed": 1.0,
+  "stride": 0.95,
+  "lean": 0.05,
+  "arm_swing": 0.7,
+  "idle_sway": 0.7,
+  "idle_clip": "idle_a"
+ },
+ "gltf": "joost.gltf",
+ "lod": "joost.lod.glb",
+ "portrait": "joost.portrait.jpg",
+ "build": {
+  "hash": "49fdc6425dd72b6a",
+  "spec": "people/joost.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-02",
+  "seconds": 13.3
+ },
+ "stats": {
+  "height_m": 1.732,
+  "tris": 42610,
+  "lod_tris": 14811,
+  "geometry_bytes": 888736,
+  "lod_bytes": 234276,
+  "texture_bytes": 3980349,
+  "texture_mb_gpu": 71.8,
+  "textures": [
+   "cf18189c3f04a019d0de.png",
+   "240f9512b4aa23e591c5.jpg",
+   "52f78302c564822470af.jpg",
+   "7579bf376d2dd818fae2.jpg",
+   "455d3de06f8de2daaa93.jpg",
+   "2eb8fa0e8062635b9ece.png",
+   "8832d0bec37ebf4e44ee.png",
+   "20d2d9073ac338402e89.png",
+   "beaa7f15b1829afc2fa5.png",
+   "05d896c2ab7e2e66cb16.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_caucasian_male",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow002",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "short02",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "elvs_crude_t-shirt_male",
+   "license": "CC0",
+   "author": "Elvaerwyn",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_male_classic_jeans",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "pants02"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_ankle_boots_male",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset"
+}

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Hollow Creek</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-  <meta name="description" content="A hamlet on a river in late summer: four people and their lives, day and night, in real-time 3D in your browser." />
+  <meta name="description" content="A hamlet on a river in late summer that grows: four people, then ten newcomers with trades of their own who build, pair up and have children, day and night, in real-time 3D in your browser." />
   <style>:root{--bg:#14120f;--panel:#1d1a16;--ink:#efe7da;--dim:#a99f90;--accent:#e0b36a;--line:#ffffff17;--serif:Georgia, "Iowan Old Style", "Times New Roman", serif;--sans:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif}*{box-sizing:border-box}body{background:var(--bg);color:var(--ink);font:16px/1.6 var(--sans);margin:0}a{color:var(--accent)}.hero{align-items:flex-end;min-height:78vh;display:flex;position:relative;overflow:hidden}.hero img{object-fit:cover;width:100%;height:100%;position:absolute;inset:0}.hero:after{content:"";background:linear-gradient(#14120f00 40%,#14120feb 100%);position:absolute;inset:0}.hero .inner{z-index:1;width:100%;max-width:980px;margin:0 auto;padding:0 16px 48px;position:relative}h1{font:400 clamp(44px, 7vw, 76px)/1 var(--serif);letter-spacing:.01em;margin:0 0 12px}.lede{font:400 clamp(18px, 2.2vw, 22px)/1.45 var(--serif);color:var(--ink);max-width:640px;margin:0 0 24px}.enter{background:var(--accent);color:#1a150e;border-radius:10px;padding:12px 22px;font-weight:600;text-decoration:none;display:inline-block}.enter:hover{filter:brightness(1.08)}.note{color:var(--dim);margin:12px 0 0;font-size:14px}main{max-width:980px;margin:0 auto;padding:24px 16px 64px}section{border-top:1px solid var(--line);padding:28px 0}h2{font:400 26px/1.2 var(--serif);margin:0 0 12px}.grid{grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;display:grid}.card{background:var(--panel);border-radius:12px;padding:16px 18px}.card h3{margin:0 0 6px;font-size:16px}.card p{color:var(--dim);margin:0;font-size:15px}.page{background:var(--panel);border-radius:12px;margin:0 0 12px;padding:16px 20px}.page h3{font:600 14px var(--sans);color:var(--dim);text-transform:uppercase;letter-spacing:.06em;margin:0 0 6px}.page p{font:400 17px/1.6 var(--serif);margin:0}.more{border:1px solid var(--line);color:var(--ink);cursor:pointer;font:inherit;background:0 0;border-radius:8px;padding:8px 14px}kbd{background:#2a2620;border-radius:4px;padding:1px 5px;font:12px ui-monospace,Menlo,monospace}ul.keys{columns:2;color:var(--dim);padding-left:18px}@media (width<=600px){ul.keys{columns:1}}footer{color:var(--dim);font-size:14px}</style>
   <script type="module" crossorigin src="./assets/home-BAXxrovP.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-P2Xu9kJm.js">
@@ -15,8 +15,9 @@
     <img src="assets/web/hero.jpg" alt="Hollow Creek at dusk: cottages, a café, a red workshop and a garden by the river" />
     <div class="inner">
       <h1>Hollow Creek</h1>
-      <p class="lede">A hamlet on a river, late summer. Four people live their days here: baking, building, gardening,
-        talking over what matters, having good weeks and bad ones. Walk among them.</p>
+      <p class="lede">A hamlet on a river, late summer. Four people live here, and over a week ten more walk in from the
+        west road with trades the place lacked. They build what they need, grow close, have children, and have good
+        weeks and bad ones. Walk among them.</p>
       <a class="enter" href="town.html">Enter Hollow Creek</a>
       <p class="note">Desktop browser with WebGPU (Chrome or Edge 113+, Safari 26+). About 115&nbsp;MB on the first visit.</p>
     </div>
@@ -26,13 +27,16 @@
       <h2>What happens there</h2>
       <div class="grid">
         <div class="card"><h3>A day in full</h3><p>Mara bakes before dawn, Teo restores an old boat, Nadia works the market
-          garden, Sam drifts between his laptop and the river. They eat, rest, visit and sleep in homes you can walk into.</p></div>
+          garden; a smith, a potter, a builder, a nurse, a teacher, a fisher and more take up their own work. Weekdays,
+          a Saturday market, Sundays off; they eat, rest, visit and sleep in homes you can walk into.</p></div>
         <div class="card"><h3>Talk with a point</h3><p>They go looking for each other to ask, offer, complain or make up;
           promises are kept or broken, and remembered.</p></div>
-        <div class="card"><h3>A town that changes</h3><p>They build woodsheds, hen houses and benches, storms damage them,
-          they repair them, and their feet wear paths into the grass.</p></div>
-        <div class="card"><h3>Lives that change</h3><p>Good spells and bad patches, each with a cause; kindness, gossip
-          and apologies; a chronicle of the town, a page a day.</p></div>
+        <div class="card"><h3>A town that grows</h3><p>A trade without a place gets one built, stage by stage: a smithy,
+          a pottery, a net shed, a schoolhouse, a house by the river. Woodsheds and benches go up, storms damage them,
+          and feet wear paths into the grass.</p></div>
+        <div class="card"><h3>Lives that change</h3><p>Good spells and bad patches, each with a cause; people who start
+          seeing each other, move in together and have a baby; kindness, gossip and apologies; a chronicle of the town,
+          a page a day.</p></div>
       </div>
     </section>
     <section>
@@ -58,6 +62,7 @@
         <li>Walk and Fly modes on the camera pad</li>
         <li><kbd>Space</kbd> pause · <kbd>1</kbd>–<kbd>3</kbd> speed</li>
         <li><kbd>C</kbd> the chronicle · <kbd>L</kbd> the minds log</li>
+        <li><b>Start over…</b> in the <kbd>⋯</kbd> menu: the four alone, arriving over a week, or everyone here</li>
         <li><kbd>H</kbd> all the keys</li>
       </ul>
     </section>

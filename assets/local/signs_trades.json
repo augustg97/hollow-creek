@@ -1,0 +1,116 @@
+{
+ "file": "public/assets/local/signs_trades.jpg",
+ "model": "flux_2_klein_9b_q8p.ckpt",
+ "steps": 4,
+ "guidance_scale": 1.0,
+ "sampler": "DDIM Trailing",
+ "backend": "drawthings",
+ "used_for": "the trades' signs (school, smithy, pottery, net shed, builder's yard, log yard, surgery, post), one atlas",
+ "processing": "each board trimmed, resized to 128 px high, packed on a 1024x552 atlas, JPEG q90",
+ "signs": {
+  "SCHOOL": {
+   "source": ".cache/phase18/signs/sign_school_203.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: cream-white painted board with dark blue hand lettering \"SCHOOL\", a small painted red apple after the word. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 203,
+   "width": 1536,
+   "height": 448,
+   "cell": [
+    8,
+    8,
+    485,
+    128
+   ]
+  },
+  "SMITHY": {
+   "source": ".cache/phase18/signs/sign_smithy_211.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: pale grey painted board with black hand lettering \"SMITHY\", a small painted horseshoe after the word. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 211,
+   "width": 1536,
+   "height": 512,
+   "cell": [
+    501,
+    8,
+    407,
+    128
+   ]
+  },
+  "POTTERY": {
+   "source": ".cache/phase18/signs/sign_pottery_223.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: off-white painted board with terracotta red hand lettering \"POTTERY\", a small painted clay jug after the word. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 223,
+   "width": 1536,
+   "height": 512,
+   "cell": [
+    8,
+    144,
+    394,
+    128
+   ]
+  },
+  "NETS & FISH": {
+   "source": ".cache/phase18/signs/sign_netshed_233.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: pale blue-white painted board with navy blue hand lettering \"NETS & FISH\", a small painted fish after the words. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 233,
+   "width": 1536,
+   "height": 448,
+   "cell": [
+    410,
+    144,
+    483,
+    128
+   ]
+  },
+  "BUILDER'S YARD": {
+   "source": ".cache/phase18/signs/sign_buildyard_242.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: off-white painted board with dark brown hand lettering \"BUILDER'S YARD\", a small painted hammer after the words. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 242,
+   "width": 1536,
+   "height": 384,
+   "cell": [
+    8,
+    280,
+    523,
+    128
+   ]
+  },
+  "FIREWOOD": {
+   "source": ".cache/phase18/signs/sign_logyard_251.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: off-white painted board with dark green hand lettering \"FIREWOOD\", a small painted axe after the word. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 251,
+   "width": 1536,
+   "height": 512,
+   "cell": [
+    539,
+    280,
+    459,
+    128
+   ]
+  },
+  "SURGERY": {
+   "source": ".cache/phase18/signs/sign_surgery_263.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: white painted board with dark red hand lettering \"SURGERY\" and nothing else. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 263,
+   "width": 1536,
+   "height": 512,
+   "cell": [
+    8,
+    416,
+    409,
+    128
+   ]
+  },
+  "POST": {
+   "source": ".cache/phase18/signs/sign_post_271.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: off-white painted board with dark red hand lettering \"POST\", a small painted envelope after the word. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 271,
+   "width": 1536,
+   "height": 512,
+   "cell": [
+    425,
+    416,
+    434,
+    128
+   ]
+  }
+ }
+}

@@ -23,8 +23,8 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/mh/dna/sam_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-01",
-  "seconds": 189.5,
+  "date": "2026-10-02",
+  "seconds": 266.2,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/maps",
   "maps": {
    "made": "2026-10-01 09:31:22",
@@ -55,7 +55,7 @@
   "textureMemoryMB": 128.7,
   "lod": "sam.lod.glb",
   "lodBytes": 315628,
-  "geometryBytes": 5197772,
+  "geometryBytes": 5130516,
   "refit_cm": {
    "hand_l": 10.23,
    "foot_l": 7.21,
@@ -243,7 +243,7 @@
        "verts": 27210,
        "held": 2253,
        "beneath": 2,
-       "seconds": 40.9
+       "seconds": 53.4
       }
      ],
      "relief_p5_p95_mm": [
@@ -262,7 +262,7 @@
        "verts": 27581,
        "held": 5625,
        "beneath": 12,
-       "seconds": 40.5
+       "seconds": 54.7
       }
      ],
      "relief_p5_p95_mm": [
@@ -362,7 +362,7 @@
       0.985
      ]
     },
-    "seconds": 5.0
+    "seconds": 8.6
    },
    "cloth_light": {
     "garments": {
@@ -391,7 +391,7 @@
        0.104,
        0.646
       ],
-      "seconds": 2.7,
+      "seconds": 10.1,
       "gather_edges": 0,
       "base_px": 512,
       "wear": {
@@ -405,7 +405,7 @@
         0.0,
         0.0
        ],
-       "seconds": 0.9
+       "seconds": 2.1
       },
       "rims": {
        "edges": 237,
@@ -436,7 +436,7 @@
        0.0,
        0.0
       ],
-      "seconds": 1.4,
+      "seconds": 5.1,
       "base_px": 512
      },
      "clothes:punkduck_male_classic_jeans": {
@@ -463,7 +463,7 @@
        0.091,
        0.336
       ],
-      "seconds": 2.5,
+      "seconds": 3.3,
       "gather_edges": 0,
       "base_px": 768,
       "wear": {
@@ -477,7 +477,7 @@
         0.0,
         0.141
        ],
-       "seconds": 2.1
+       "seconds": 2.5
       },
       "rims": {
        "edges": 528,
@@ -486,7 +486,7 @@
       }
      }
     },
-    "seconds": 25.1
+    "seconds": 43.4
    },
    "weave": {
     "clothes:namuhekam_male_polo_shirt": {
