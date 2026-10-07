@@ -1926,5 +1926,326 @@
    "textures/rough_linen/rough_linen_nor_gl_1k.jpg",
    "textures/rough_linen/rough_linen_arm_1k.jpg"
   ]
+ },
+ "ceramic_vase_01": {
+  "kind": "models",
+  "name": "Ceramic Vase 01",
+  "source": "https://polyhaven.com/a/ceramic_vase_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "pottery shelves",
+  "res": "1k",
+  "files": [
+   "models/ceramic_vase_01.glb"
+  ],
+  "dimensions_mm": [
+   204.87193763256073,
+   206.37669414281845,
+   401.379804010503
+  ],
+  "polycount": 2548
+ },
+ "cross_pein_hammer": {
+  "kind": "models",
+  "name": "Cross Pein Hammer",
+  "source": "https://polyhaven.com/a/cross_pein_hammer",
+  "licence": "CC0",
+  "authors": [
+   "Tics"
+  ],
+  "use": "smithy: the hammer on the anvil",
+  "res": "1k",
+  "files": [
+   "models/cross_pein_hammer.glb"
+  ],
+  "dimensions_mm": [
+   99.07165542244911,
+   24.275743402540684,
+   300.2498894929886
+  ],
+  "polycount": 2124
+ },
+ "sledgehammer_01": {
+  "kind": "models",
+  "name": "Sledgehammer 01",
+  "source": "https://polyhaven.com/a/sledgehammer_01",
+  "licence": "CC0",
+  "authors": [
+   "Dylan Guzman"
+  ],
+  "use": "smithy, builder's yard",
+  "res": "1k",
+  "files": [
+   "models/sledgehammer_01.glb"
+  ],
+  "dimensions_mm": [
+   208.48701149225235,
+   90.47714620828629,
+   1005.6212544441223
+  ],
+  "polycount": 2596
+ },
+ "ceramic_vase_03": {
+  "kind": "models",
+  "name": "Ceramic Vase 03",
+  "source": "https://polyhaven.com/a/ceramic_vase_03",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "pottery shelves",
+  "res": "1k",
+  "files": [
+   "models/ceramic_vase_03.glb"
+  ],
+  "dimensions_mm": [
+   112.45502531528473,
+   112.45502158999443,
+   414.438920259272
+  ],
+  "polycount": 2784
+ },
+ "SchoolDesk_01": {
+  "kind": "models",
+  "name": "School Desk 01",
+  "source": "https://polyhaven.com/a/SchoolDesk_01",
+  "licence": "CC0",
+  "authors": [
+   "Ethan Place"
+  ],
+  "use": "schoolhouse desks",
+  "res": "1k",
+  "files": [
+   "models/SchoolDesk_01.glb"
+  ],
+  "dimensions_mm": [
+   711.7760181427002,
+   545.9675788879395,
+   882.6298794883769
+  ],
+  "polycount": 4162
+ },
+ "ceramic_pot": {
+  "kind": "models",
+  "name": "Ceramic Pot",
+  "source": "https://polyhaven.com/a/ceramic_pot",
+  "licence": "CC0",
+  "authors": [
+   "Aron Łyczek"
+  ],
+  "use": "pottery shelves",
+  "res": "1k",
+  "files": [
+   "models/ceramic_pot.glb"
+  ],
+  "dimensions_mm": [
+   656.2502980232239,
+   501.7523765563965,
+   371.66545377112925
+  ],
+  "polycount": 3592
+ },
+ "WoodenTable_01": {
+  "kind": "models",
+  "name": "Wooden Table 01",
+  "source": "https://polyhaven.com/a/WoodenTable_01",
+  "licence": "CC0",
+  "authors": [
+   "Ethan Place"
+  ],
+  "use": "schoolhouse: the teacher's table",
+  "res": "1k",
+  "files": [
+   "models/WoodenTable_01.glb"
+  ],
+  "dimensions_mm": [
+   1799.6479272842407,
+   657.1746468544006,
+   548.8492709302584
+  ],
+  "polycount": 952
+ },
+ "stationery_supplies": {
+  "kind": "models",
+  "name": "Stationery Supplies",
+  "source": "https://polyhaven.com/a/stationery_supplies",
+  "licence": "CC0",
+  "authors": [
+   "Mateusz Sadek"
+  ],
+  "use": "schoolhouse, surgery desk",
+  "res": "1k",
+  "files": [
+   "models/stationery_supplies.glb"
+  ],
+  "dimensions_mm": [
+   301.8620014190674,
+   83.66207033395767,
+   164.34769332408905
+  ],
+  "polycount": 4412
+ },
+ "wooden_bookshelf_worn": {
+  "kind": "models",
+  "name": "Wooden Bookshelf Worn",
+  "source": "https://polyhaven.com/a/wooden_bookshelf_worn",
+  "licence": "CC0",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "use": "schoolhouse books",
+  "res": "1k",
+  "files": [
+   "models/wooden_bookshelf_worn.glb"
+  ],
+  "dimensions_mm": [
+   1373.95179271698,
+   581.3020169734955,
+   2063.442051410675
+  ],
+  "polycount": 10106
+ },
+ "painted_wooden_cabinet_02": {
+  "kind": "models",
+  "name": "Painted Wooden Cabinet 02",
+  "source": "https://polyhaven.com/a/painted_wooden_cabinet_02",
+  "licence": "CC0",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "use": "surgery dispensary",
+  "res": "1k",
+  "files": [
+   "models/painted_wooden_cabinet_02.glb"
+  ],
+  "dimensions_mm": [
+   996.9334602355957,
+   729.429692029953,
+   2568.572537857108
+  ],
+  "polycount": 966
+ },
+ "medical_box": {
+  "kind": "models",
+  "name": "Medical Box",
+  "source": "https://polyhaven.com/a/medical_box",
+  "licence": "CC0",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "use": "surgery",
+  "res": "1k",
+  "files": [
+   "models/medical_box.glb"
+  ],
+  "dimensions_mm": [
+   525.4814624786377,
+   350.16927123069763,
+   97.5121483206749
+  ],
+  "polycount": 3718
+ },
+ "lifebuoy": {
+  "kind": "models",
+  "name": "Lifebuoy",
+  "source": "https://polyhaven.com/a/lifebuoy",
+  "licence": "CC0",
+  "authors": [
+   "Hank Kaamura"
+  ],
+  "use": "net shed",
+  "res": "1k",
+  "files": [
+   "models/lifebuoy.glb"
+  ],
+  "dimensions_mm": [
+   783.1282019615173,
+   155.11851012706757,
+   841.1934077739716
+  ],
+  "polycount": 10728
+ },
+ "vintage_day_bed": {
+  "kind": "models",
+  "name": "Vintage Day Bed",
+  "source": "https://polyhaven.com/a/vintage_day_bed",
+  "licence": "CC0",
+  "authors": [
+   "Aron Łyczek"
+  ],
+  "use": "surgery day bed; couches in the larger houses",
+  "res": "1k",
+  "files": [
+   "models/vintage_day_bed.glb"
+  ],
+  "dimensions_mm": [
+   1972.5552201271057,
+   854.77614402771,
+   1127.3465404283343
+  ],
+  "polycount": 2715
+ },
+ "vintage_crutches_01": {
+  "kind": "models",
+  "name": "Vintage Crutches 01",
+  "source": "https://polyhaven.com/a/vintage_crutches_01",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "use": "surgery",
+  "res": "1k",
+  "files": [
+   "models/vintage_crutches_01.glb"
+  ],
+  "dimensions_mm": [
+   399.43429827690125,
+   216.63851663470268,
+   1614.9340318515897
+  ],
+  "polycount": 10628
+ },
+ "hatchet": {
+  "kind": "models",
+  "name": "Hatchet",
+  "source": "https://polyhaven.com/a/hatchet",
+  "licence": "CC0",
+  "authors": [
+   "James Ray Cock",
+   "Ulan Cabanilla"
+  ],
+  "use": "log yard",
+  "res": "1k",
+  "files": [
+   "models/hatchet.glb"
+  ],
+  "dimensions_mm": [
+   26.022234931588173,
+   104.27016951143742,
+   288.7292727828026
+  ],
+  "polycount": 5250
+ },
+ "wooden_ladder_02": {
+  "kind": "models",
+  "name": "Wooden Ladder 02",
+  "source": "https://polyhaven.com/a/wooden_ladder_02",
+  "licence": "CC0",
+  "authors": [
+   "JN_3DPRINTINGNERD"
+  ],
+  "use": "builder's yard",
+  "res": "1k",
+  "files": [
+   "models/wooden_ladder_02.glb"
+  ],
+  "dimensions_mm": [
+   989.5061254501343,
+   618.1379556655884,
+   1722.179728676565
+  ],
+  "polycount": 6126
  }
 }
