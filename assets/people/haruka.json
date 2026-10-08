@@ -19,24 +19,24 @@
  "lod": "haruka.lod.glb",
  "portrait": "haruka.portrait.jpg",
  "build": {
-  "hash": "ee44439700806dcf",
+  "hash": "2e056c6853540863",
   "spec": "people/haruka.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-02",
-  "seconds": 10.3
+  "date": "2026-10-07",
+  "seconds": 9.5
  },
  "stats": {
   "height_m": 1.649,
   "tris": 43032,
-  "lod_tris": 14936,
-  "geometry_bytes": 886884,
-  "lod_bytes": 248608,
-  "texture_bytes": 5456405,
+  "lod_tris": 14938,
+  "geometry_bytes": 887124,
+  "lod_bytes": 248664,
+  "texture_bytes": 5431569,
   "texture_mb_gpu": 71.8,
   "textures": [
    "20faf45f2b057a34cec6.png",
-   "5de2b758595c3cc6a2be.png",
+   "a16958369931c37148c6.png",
    "7579bf376d2dd818fae2.jpg",
    "d49eb3d18d2db2c1d9bb.jpg",
    "f4075712076fd4c72f57.png",
@@ -44,7 +44,7 @@
    "8832d0bec37ebf4e44ee.png",
    "786fc56cdb4d5fd8520f.png",
    "3bd4b0568cbd2d0f6b54.png",
-   "de804e06566ca6330fe1.jpg",
+   "684b785fe2312b65c7e8.jpg",
    "02a6c6e1cfdd67c0ba25.png",
    "4fc2f041608a1981e960.jpg"
   ],

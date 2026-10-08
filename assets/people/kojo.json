@@ -19,20 +19,20 @@
  "lod": "kojo.lod.glb",
  "portrait": "kojo.portrait.jpg",
  "build": {
-  "hash": "4ea070b6460965a7",
+  "hash": "4b4bb9643713818d",
   "spec": "people/kojo.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-02",
-  "seconds": 11.9
+  "date": "2026-10-07",
+  "seconds": 9.5
  },
  "stats": {
   "height_m": 1.758,
   "tris": 39924,
-  "lod_tris": 14007,
-  "geometry_bytes": 867848,
-  "lod_bytes": 229068,
-  "texture_bytes": 6396958,
+  "lod_tris": 14006,
+  "geometry_bytes": 871080,
+  "lod_bytes": 228916,
+  "texture_bytes": 6397023,
   "texture_mb_gpu": 71.8,
   "textures": [
    "61809b2eeb0b8a7efa30.png",
@@ -44,7 +44,7 @@
    "8832d0bec37ebf4e44ee.png",
    "786fc56cdb4d5fd8520f.png",
    "dfffefad22d0619c47ec.png",
-   "8e4f7a1e30759b2e160c.jpg",
+   "476c049af49d942a1c19.jpg",
    "02a6c6e1cfdd67c0ba25.png",
    "4fc2f041608a1981e960.jpg"
   ],

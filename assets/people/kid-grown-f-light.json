@@ -1,0 +1,164 @@
+{
+ "id": "kid-grown-f-light",
+ "name": "kid-grown-f-light",
+ "seed": 7752893,
+ "body": {
+  "sex": 0.05,
+  "age_years": 20,
+  "height_cm": 167
+ },
+ "movement": {
+  "walk_speed": 1.3,
+  "stride": 1.0,
+  "lean": 0.02,
+  "arm_swing": 1.0,
+  "idle_sway": 0.8,
+  "idle_clip": "idle_b"
+ },
+ "gltf": "kid-grown-f-light.gltf",
+ "lod": "kid-grown-f-light.lod.glb",
+ "portrait": null,
+ "build": {
+  "hash": "76fba87175068f4b",
+  "spec": "people/kid-grown-f-light.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-07",
+  "seconds": 9.4
+ },
+ "stats": {
+  "height_m": 1.675,
+  "tris": 41622,
+  "lod_tris": 14515,
+  "geometry_bytes": 866936,
+  "lod_bytes": 238016,
+  "texture_bytes": 5566665,
+  "texture_mb_gpu": 71.8,
+  "textures": [
+   "20faf45f2b057a34cec6.png",
+   "4172045efd7861a432fb.png",
+   "7579bf376d2dd818fae2.jpg",
+   "a1a6dbca2a7dfbdf3df5.jpg",
+   "df7e7692493c92efeb79.png",
+   "6e02cde546bf32c06939.png",
+   "8832d0bec37ebf4e44ee.png",
+   "1732a45dbc439924ec3f.png",
+   "b01230446957dad1fdc2.png",
+   "a5a9264c365e841bdb5a.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_caucasian_female",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow008",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "long01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_knitted_sweater_02",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "shirts02"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_ankle_boots_female",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "grown",
+ "pool": {
+  "stage": "grown",
+  "sex": "f",
+  "family": "light"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [
+   "eyebrows:eyebrow008",
+   "hair:long01"
+  ],
+  "clothes": [
+   "clothes:mindfront_knitted_sweater_02",
+   "clothes:toigo_wool_pants"
+  ]
+ },
+ "tint_base": {
+  "skin": "#E6C1A7",
+  "hair": "#C8C8C8",
+  "clothes": {
+   "clothes:mindfront_knitted_sweater_02": "#DCDCDC",
+   "clothes:toigo_wool_pants": "#DCDCDC"
+  },
+  "skin_L": 80.6
+ },
+ "tint_default": {
+  "skin": null,
+  "hair": "#3B2A1E",
+  "clothes": {
+   "clothes:mindfront_knitted_sweater_02": "#A34A3A",
+   "clothes:toigo_wool_pants": "#6B5E48"
+  }
+ },
+ "hip_m": 0.885,
+ "head_m": 1.519
+}

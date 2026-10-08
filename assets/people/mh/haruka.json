@@ -23,12 +23,12 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/haruka/mh/dna/haruka_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-02",
-  "seconds": 216.6,
+  "date": "2026-10-08",
+  "seconds": 189.4,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/haruka/maps",
   "maps": {
-   "made": "2026-10-02 09:37:10",
-   "exported": "2026-10-02 09:36:45",
+   "made": "2026-10-07 21:31:47",
+   "exported": "2026-10-07 21:27:35",
    "freshness": "fresh"
   },
   "grooms": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/haruka/mh",
@@ -37,9 +37,9 @@
   "wrinkles": "none: under 35 (the spec's mh.wrinkles overrides)"
  },
  "stats": {
-  "head_joint_m": 1.501,
-  "tris": 113224,
-  "lod_tris": 11949,
+  "head_joint_m": 1.5,
+  "tris": 113220,
+  "lod_tris": 11954,
   "gltf": "haruka.gltf",
   "textures": {
    "materials": [
@@ -52,50 +52,50 @@
    "skin_tone": "character (MetaHuman skin model)",
    "face_albedo": "synthesized"
   },
-  "textureBytes": 9540743,
+  "textureBytes": 9556453,
   "textureMemoryMB": 128.7,
   "lod": "haruka.lod.glb",
-  "lodBytes": 213040,
-  "geometryBytes": 4449908,
+  "lodBytes": 212968,
+  "geometryBytes": 5009208,
   "refit_cm": {
-   "hand_l": 5.55,
-   "foot_l": 4.7,
-   "ball_l": 2.53,
-   "index_01_l": 5.31,
-   "index_02_l": 6.18,
-   "index_03_l": 6.53,
-   "middle_01_l": 5.6,
-   "middle_02_l": 5.78,
-   "middle_03_l": 6.15,
+   "hand_l": 5.6,
+   "foot_l": 4.36,
+   "ball_l": 2.31,
+   "index_01_l": 5.36,
+   "index_02_l": 6.21,
+   "index_03_l": 6.54,
+   "middle_01_l": 5.66,
+   "middle_02_l": 5.83,
+   "middle_03_l": 6.18,
    "pinky_01_l": 6.16,
-   "pinky_02_l": 6.61,
-   "pinky_03_l": 6.75,
-   "ring_01_l": 5.92,
-   "ring_02_l": 6.41,
-   "ring_03_l": 6.81,
-   "thumb_01_l": 4.93,
-   "thumb_02_l": 4.86,
-   "thumb_03_l": 5.1,
-   "hand_r": 5.58,
-   "foot_r": 4.7,
-   "ball_r": 2.53,
-   "index_01_r": 5.3,
-   "index_02_r": 6.17,
-   "index_03_r": 6.54,
-   "middle_01_r": 5.59,
-   "middle_02_r": 5.78,
-   "middle_03_r": 6.16,
-   "pinky_01_r": 6.16,
-   "pinky_02_r": 6.64,
-   "pinky_03_r": 6.79,
-   "ring_01_r": 5.92,
+   "pinky_02_l": 6.59,
+   "pinky_03_l": 6.73,
+   "ring_01_l": 5.96,
+   "ring_02_l": 6.43,
+   "ring_03_l": 6.79,
+   "thumb_01_l": 4.99,
+   "thumb_02_l": 4.9,
+   "thumb_03_l": 5.13,
+   "hand_r": 5.61,
+   "foot_r": 4.36,
+   "ball_r": 2.31,
+   "index_01_r": 5.37,
+   "index_02_r": 6.21,
+   "index_03_r": 6.55,
+   "middle_01_r": 5.66,
+   "middle_02_r": 5.84,
+   "middle_03_r": 6.18,
+   "pinky_01_r": 6.15,
+   "pinky_02_r": 6.58,
+   "pinky_03_r": 6.72,
+   "ring_01_r": 5.95,
    "ring_02_r": 6.42,
-   "ring_03_r": 6.82,
-   "thumb_01_r": 4.95,
-   "thumb_02_r": 4.85,
-   "thumb_03_r": 5.08
+   "ring_03_r": 6.79,
+   "thumb_01_r": 4.99,
+   "thumb_02_r": 4.9,
+   "thumb_03_r": 5.12
   },
-  "reframe_deg_max": 41.1,
+  "reframe_deg_max": 40.8,
   "grooms": {
    "Hair_S_Updo": {
     "full": {
@@ -114,17 +114,17 @@
        1.602
       ],
       "rendered": [
-       -0.177,
+       -0.176,
        0.349,
-       1.602
+       1.603
       ]
      },
      "offset_change_mm": [
-      -0.03,
+      -0.08,
       0.02,
-      0.11
+      0.13
      ],
-     "pushed": 4
+     "pushed": 14
     },
     "distant": {
      "lod": 4,
@@ -142,17 +142,17 @@
        2.056
       ],
       "rendered": [
-       -0.001,
+       -0.002,
        0.468,
-       2.054
+       2.05
       ]
      },
      "offset_change_mm": [
-      -0.07,
+      -0.1,
       0.02,
-      0.15
+      0.16
      ],
-     "pushed": 0
+     "pushed": 2
     }
    },
    "Eyebrows_M_Thick": {
@@ -172,17 +172,17 @@
        0.184
       ],
       "rendered": [
-       0.024,
-       0.053,
-       0.186
+       0.025,
+       0.054,
+       0.188
       ]
      },
      "offset_change_mm": [
-      -0.01,
-      0.02,
-      0.12
+      -0.02,
+      0.03,
+      0.17
      ],
-     "pushed": 97
+     "pushed": 311
     }
    }
   },
@@ -208,7 +208,7 @@
       2524,
       10096
      ],
-     "median_edge_cm": 2.66,
+     "median_edge_cm": 2.65,
      "hard": 0,
      "capped": 51,
      "hem_edges": 86,
@@ -220,9 +220,9 @@
       2674,
       10696
      ],
-     "median_edge_cm": 2.78,
+     "median_edge_cm": 2.82,
      "hard": 0,
-     "capped": 96,
+     "capped": 103,
      "hem_edges": 75,
      "max_mm": 4.5,
      "hem_points_relaxed": 36
@@ -230,16 +230,16 @@
    },
    "bridged": {
     "clothes:mindfront_knitted_sweater_02": {
-     "moved_share": 0.529,
-     "p95_mm": 11.6,
+     "moved_share": 0.532,
+     "p95_mm": 12.0,
      "max_mm": 27.0,
-     "capped": 110
+     "capped": 99
     },
     "clothes:toigo_wool_pants": {
-     "moved_share": 0.467,
-     "p95_mm": 4.1,
-     "max_mm": 20.7,
-     "capped": 1197
+     "moved_share": 0.459,
+     "p95_mm": 4.0,
+     "max_mm": 20.0,
+     "capped": 1167
     }
    },
    "drape_sim": {
@@ -249,12 +249,12 @@
        "verts": 20362,
        "held": 1293,
        "beneath": 0,
-       "seconds": 35.6
+       "seconds": 33.0
       }
      ],
      "relief_p5_p95_mm": [
       -1.9,
-      2.1
+      2.0
      ],
      "outline_p5_p95_mm": null,
      "capped": 0
@@ -265,45 +265,45 @@
        "verts": 21509,
        "held": 6266,
        "beneath": 0,
-       "seconds": 37.9
+       "seconds": 33.2
       }
      ],
      "relief_p5_p95_mm": [
-      -4.7,
-      4.4
+      -4.5,
+      4.3
      ],
      "outline_p5_p95_mm": [
       -3.0,
-      3.2
+      3.0
      ],
      "capped": 12
     }
    },
    "draped": {
     "clothes:mindfront_knitted_sweater_02": {
-     "moved_share": 0.292,
-     "p95_mm": 2.15,
-     "max_mm": 5.13,
+     "moved_share": 0.294,
+     "p95_mm": 2.23,
+     "max_mm": 4.96,
      "capped": 0
     }
    },
-   "shod_mpfb_mask": 3246,
+   "shod_mpfb_mask": 3242,
    "hidden_full": {
-    "faces": 19955,
+    "faces": 19963,
     "of": 30408
    },
    "lod_reshaped": {
     "clothes:mindfront_knitted_sweater_02": {
-     "p95_mm": 9.3,
-     "max_mm": 26.7
+     "p95_mm": 10.8,
+     "max_mm": 25.9
     },
     "clothes:toigo_wool_pants": {
-     "p95_mm": 5.8,
-     "max_mm": 16.2
+     "p95_mm": 5.6,
+     "max_mm": 16.3
     }
    },
    "hidden_lod": {
-    "faces": 2160,
+    "faces": 2158,
     "of": 3364
    },
    "hidden_lod_head": {
@@ -312,9 +312,9 @@
    },
    "tucked": {
     "full": {
-     "verts": 183,
-     "max_mm": 7.8,
-     "median_mm": 1.9
+     "verts": 186,
+     "max_mm": 7.5,
+     "median_mm": 1.7
     },
     "lod": {
      "verts": 6,
@@ -331,12 +331,12 @@
     "clothes:toigo_ankle_boots_female": {
      "tris": 4120,
      "pushed": 0,
-     "moved_cm": 6.0
+     "moved_cm": 5.6
     },
     "clothes:toigo_wool_pants": {
      "tris": 2674,
      "pushed": 1,
-     "moved_cm": 6.0
+     "moved_cm": 5.7
     }
    }
   },
@@ -344,18 +344,18 @@
    "sky_p5_p50_p95": [
     0.0,
     0.55,
-    0.972
+    0.971
    ],
    "bent_tilt_deg_p50_p95": [
-    4.1,
-    65.1
+    4.6,
+    65.3
    ],
    "cone_deg_p5_p50": [
     0.0,
-    77.4
+    77.1
    ],
-   "thin_under_6mm": 0.0594,
-   "occluder_points": 6413248
+   "thin_under_6mm": 0.0582,
+   "occluder_points": 6393493
   },
   "detail": {
    "hair_light": {
@@ -363,24 +363,24 @@
      "mh_hair:Hair_S_Updo": [
       0.003,
       0.102,
-      0.453,
-      0.759,
-      0.969
+      0.452,
+      0.758,
+      0.97
      ]
     },
-    "seconds": 4.1
+    "seconds": 3.5
    },
    "cloth_light": {
     "garments": {
      "clothes:mindfront_knitted_sweater_02": {
       "visibility_p5_p25_p50_p75": [
-       0.469,
-       0.784,
-       0.894,
-       0.926
+       0.479,
+       0.785,
+       0.895,
+       0.927
       ],
       "contact_p5_p25_p50": [
-       0.816,
+       0.815,
        0.904,
        0.923
       ],
@@ -394,10 +394,10 @@
       },
       "seam_edges": 240,
       "slope_p50_p95": [
-       0.154,
-       0.525
+       0.153,
+       0.514
       ],
-      "seconds": 1.6,
+      "seconds": 1.5,
       "gather_edges": 72,
       "base_px": 768,
       "wear": {
@@ -406,7 +406,7 @@
        "use": 0.3,
        "lum_mean_change": 0.001,
        "variation_rms": 0.011,
-       "edge_p99": 0.05,
+       "edge_p99": 0.03,
        "dirt_p50_p99": [
         0.0,
         0.0
@@ -421,15 +421,15 @@
      },
      "clothes:toigo_ankle_boots_female": {
       "visibility_p5_p25_p50_p75": [
-       0.068,
-       0.677,
-       0.816,
+       0.064,
+       0.671,
+       0.819,
        0.913
       ],
       "contact_p5_p25_p50": [
-       0.544,
-       0.84,
-       0.907
+       0.541,
+       0.837,
+       0.906
       ],
       "px": 512,
       "fabric": "leather",
@@ -442,20 +442,20 @@
        0.091,
        0.235
       ],
-      "seconds": 2.4,
+      "seconds": 2.2,
       "base_px": 512
      },
      "clothes:toigo_wool_pants": {
       "visibility_p5_p25_p50_p75": [
-       0.049,
-       0.324,
-       0.771,
-       0.92
+       0.044,
+       0.331,
+       0.781,
+       0.923
       ],
       "contact_p5_p25_p50": [
-       0.157,
-       0.723,
-       0.908
+       0.15,
+       0.738,
+       0.909
       ],
       "px": 512,
       "fabric": "wool",
@@ -466,51 +466,95 @@
       },
       "seam_edges": 318,
       "slope_p50_p95": [
-       0.128,
-       0.579
+       0.126,
+       0.566
       ],
-      "seconds": 1.9,
+      "seconds": 1.8,
       "gather_edges": 154,
       "base_px": 512,
       "wear": {
        "px": 512,
        "plain": true,
        "use": 0.45,
-       "lum_mean_change": 0.007,
-       "variation_rms": 0.035,
-       "edge_p99": 0.09,
+       "lum_mean_change": 0.002,
+       "variation_rms": 0.025,
+       "edge_p99": 0.05,
        "dirt_p50_p99": [
         0.0,
-        0.071
+        0.02
        ],
        "seconds": 0.6
       },
       "rims": {
-       "edges": 10,
-       "tris": 60,
+       "edges": 12,
+       "tris": 72,
        "thickness_mm": 3.0
       }
      }
     },
-    "seconds": 17.8
+    "seconds": 28.2
    },
    "weave": {
     "clothes:mindfront_knitted_sweater_02": {
      "kind": "wool:mindfront_knitted_sweater_02:in",
      "scale": 1.0,
-     "metres_per_uv": 1.3351
+     "metres_per_uv": 1.3278
     },
     "clothes:toigo_ankle_boots_female": {
      "kind": "leather:toigo_ankle_boots_female",
      "scale": 1.0,
-     "metres_per_uv": 0.4842
+     "metres_per_uv": 0.4759
     },
     "clothes:toigo_wool_pants": {
      "kind": "wool:toigo_wool_pants:r:in",
      "scale": 1.0,
-     "metres_per_uv": 1.505
+     "metres_per_uv": 1.5005
     }
    }
+  }
+ },
+ "face": {
+  "k": 8,
+  "z": [
+   -2.559,
+   -0.187,
+   0.323,
+   -1.276,
+   1.017,
+   -0.115,
+   -0.23,
+   -0.021
+  ],
+  "blink": [
+   0.0042,
+   -0.0076,
+   -0.0064,
+   0.0073,
+   -0.0076,
+   -0.0102,
+   -0.0037,
+   0.0041
+  ]
+ },
+ "tint": {
+  "skin": [
+   "mh_skin_head",
+   "mh_skin_body"
+  ],
+  "hair": [],
+  "clothes": [
+   "clothes:mindfront_knitted_sweater_02",
+   "clothes:toigo_ankle_boots_female",
+   "clothes:toigo_wool_pants"
+  ]
+ },
+ "tint_base": {
+  "skin": "#CA8E68",
+  "hair": "#1A1512",
+  "clothes": {
+   "clothes:mindfront_knitted_sweater_02": "#DAD1BF",
+   "clothes:toigo_wool_pants": "#3D4A63",
+   "clothes:toigo_ankle_boots_female": "#2E2A26"
   }
  }
 }

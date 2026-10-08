@@ -85,6 +85,90 @@
    }
   },
   {
+   "id": "kid-grown-f-asian",
+   "stage": "grown",
+   "sex": "f",
+   "family": "asian",
+   "height_cm": 161,
+   "hip_m": 0.851,
+   "walk_speed": 1.3,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-grown-f-dark",
+   "stage": "grown",
+   "sex": "f",
+   "family": "dark",
+   "height_cm": 168,
+   "hip_m": 0.89,
+   "walk_speed": 1.3,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-grown-f-light",
+   "stage": "grown",
+   "sex": "f",
+   "family": "light",
+   "height_cm": 167,
+   "hip_m": 0.885,
+   "walk_speed": 1.3,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-grown-m-asian",
+   "stage": "grown",
+   "sex": "m",
+   "family": "asian",
+   "height_cm": 173,
+   "hip_m": 0.909,
+   "walk_speed": 1.3,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-grown-m-dark",
+   "stage": "grown",
+   "sex": "m",
+   "family": "dark",
+   "height_cm": 181,
+   "hip_m": 0.966,
+   "walk_speed": 1.3,
+   "tint": {
+    "skin": true,
+    "hair": false,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-grown-m-light",
+   "stage": "grown",
+   "sex": "m",
+   "family": "light",
+   "height_cm": 180,
+   "hip_m": 0.96,
+   "walk_speed": 1.3,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
    "id": "kid-lena",
    "stage": "child",
    "sex": "f",
@@ -177,6 +261,90 @@
    "height_cm": 96,
    "hip_m": 0.462,
    "walk_speed": 0.65,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-youth-f-asian",
+   "stage": "youth",
+   "sex": "f",
+   "family": "asian",
+   "height_cm": 158,
+   "hip_m": 0.843,
+   "walk_speed": 1.25,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-youth-f-dark",
+   "stage": "youth",
+   "sex": "f",
+   "family": "dark",
+   "height_cm": 163,
+   "hip_m": 0.871,
+   "walk_speed": 1.25,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-youth-f-light",
+   "stage": "youth",
+   "sex": "f",
+   "family": "light",
+   "height_cm": 162,
+   "hip_m": 0.867,
+   "walk_speed": 1.25,
+   "tint": {
+    "skin": true,
+    "hair": true,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-youth-m-asian",
+   "stage": "youth",
+   "sex": "m",
+   "family": "asian",
+   "height_cm": 165,
+   "hip_m": 0.862,
+   "walk_speed": 1.25,
+   "tint": {
+    "skin": true,
+    "hair": false,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-youth-m-dark",
+   "stage": "youth",
+   "sex": "m",
+   "family": "dark",
+   "height_cm": 170,
+   "hip_m": 0.896,
+   "walk_speed": 1.25,
+   "tint": {
+    "skin": true,
+    "hair": false,
+    "clothes": true
+   }
+  },
+  {
+   "id": "kid-youth-m-light",
+   "stage": "youth",
+   "sex": "m",
+   "family": "light",
+   "height_cm": 168,
+   "hip_m": 0.884,
+   "walk_speed": 1.25,
    "tint": {
     "skin": true,
     "hair": true,

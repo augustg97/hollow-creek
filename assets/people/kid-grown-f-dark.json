@@ -1,0 +1,163 @@
+{
+ "id": "kid-grown-f-dark",
+ "name": "kid-grown-f-dark",
+ "seed": 1042038,
+ "body": {
+  "sex": 0.05,
+  "age_years": 20,
+  "height_cm": 168
+ },
+ "movement": {
+  "walk_speed": 1.3,
+  "stride": 1.0,
+  "lean": 0.02,
+  "arm_swing": 1.0,
+  "idle_sway": 0.8,
+  "idle_clip": "idle_d"
+ },
+ "gltf": "kid-grown-f-dark.gltf",
+ "lod": "kid-grown-f-dark.lod.glb",
+ "portrait": null,
+ "build": {
+  "hash": "dfc8235e4e42c1a3",
+  "spec": "people/kid-grown-f-dark.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-07",
+  "seconds": 23.2
+ },
+ "stats": {
+  "height_m": 1.689,
+  "tris": 40814,
+  "lod_tris": 14272,
+  "geometry_bytes": 873568,
+  "lod_bytes": 233380,
+  "texture_bytes": 4035171,
+  "texture_mb_gpu": 66.5,
+  "textures": [
+   "f5bbe3fb6e16e54c3be1.jpg",
+   "7579bf376d2dd818fae2.jpg",
+   "76277a1c20c624bc2739.jpg",
+   "df7e7692493c92efeb79.png",
+   "07ba536049b81b4736a8.png",
+   "8832d0bec37ebf4e44ee.png",
+   "786fc56cdb4d5fd8520f.png",
+   "02731e24d65a86ecfb6f.png",
+   "6724b72a61108543c614.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_african_female",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow001",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "afro01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "joepal_crude_t-shirt_female",
+   "license": "CC0",
+   "author": "Joel Palmius",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_ankle_boots_female",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "grown",
+ "pool": {
+  "stage": "grown",
+  "sex": "f",
+  "family": "dark"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [
+   "eyebrows:eyebrow001",
+   "hair:afro01"
+  ],
+  "clothes": [
+   "clothes:joepal_crude_t-shirt_female",
+   "clothes:toigo_wool_pants"
+  ]
+ },
+ "tint_base": {
+  "skin": "#7E5747",
+  "hair": "#C8C8C8",
+  "clothes": {
+   "clothes:joepal_crude_t-shirt_female": "#DCDCDC",
+   "clothes:toigo_wool_pants": "#DCDCDC"
+  },
+  "skin_L": 40.7
+ },
+ "tint_default": {
+  "skin": "#6F4636",
+  "hair": "#171210",
+  "clothes": {
+   "clothes:joepal_crude_t-shirt_female": "#C9A24B",
+   "clothes:toigo_wool_pants": "#5B5446"
+  }
+ },
+ "hip_m": 0.89,
+ "head_m": 1.52
+}

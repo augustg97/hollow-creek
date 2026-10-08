@@ -19,24 +19,24 @@
  "lod": "yonas.lod.glb",
  "portrait": "yonas.portrait.jpg",
  "build": {
-  "hash": "18f29e5b4d57c449",
+  "hash": "b00e4f1baf996b4b",
   "spec": "people/yonas.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-02",
-  "seconds": 13.8
+  "date": "2026-10-07",
+  "seconds": 9.5
  },
  "stats": {
   "height_m": 1.877,
   "tris": 41720,
   "lod_tris": 14546,
-  "geometry_bytes": 858044,
-  "lod_bytes": 231452,
-  "texture_bytes": 3702856,
+  "geometry_bytes": 859032,
+  "lod_bytes": 231308,
+  "texture_bytes": 3705357,
   "texture_mb_gpu": 66.5,
   "textures": [
    "47dd7f487114b8e28972.jpg",
-   "fa2ce1c8f7cd67f9548a.jpg",
+   "35e24c300af7211fc8b8.jpg",
    "7579bf376d2dd818fae2.jpg",
    "5c54e7fb24b0cc8a70b1.jpg",
    "0e5b7e284e6aca2b6353.png",
@@ -45,7 +45,7 @@
    "150acd30cc32a6e85611.png",
    "02a6c6e1cfdd67c0ba25.png",
    "4fc2f041608a1981e960.jpg",
-   "7b0e8e6f0c9f52c74665.jpg"
+   "5749bce6a9ca369b101b.jpg"
   ],
   "morph_targets": 74
  },

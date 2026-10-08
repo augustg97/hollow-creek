@@ -19,23 +19,23 @@
  "lod": "sam.lod.glb",
  "portrait": "sam.portrait.jpg",
  "build": {
-  "hash": "db0c9da8f098dd45",
+  "hash": "8c86647825b8c2ce",
   "spec": "people/sam.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-09-27",
-  "seconds": 9.2
+  "date": "2026-10-07",
+  "seconds": 9.8
  },
  "stats": {
   "height_m": 1.808,
   "tris": 48056,
-  "lod_tris": 16442,
-  "geometry_bytes": 968168,
-  "lod_bytes": 253928,
-  "texture_bytes": 4724764,
+  "lod_tris": 16441,
+  "geometry_bytes": 968152,
+  "lod_bytes": 253944,
+  "texture_bytes": 4722311,
   "texture_mb_gpu": 66.5,
   "textures": [
-   "af1a0124f2eb3ce806d8.jpg",
+   "4c94b5b703990de1f443.jpg",
    "3f6b29ddc0c3cd8aee40.png",
    "240f9512b4aa23e591c5.jpg",
    "3f127016394067bf4edc.jpg",

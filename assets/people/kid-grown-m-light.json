@@ -1,0 +1,164 @@
+{
+ "id": "kid-grown-m-light",
+ "name": "kid-grown-m-light",
+ "seed": 739755,
+ "body": {
+  "sex": 0.95,
+  "age_years": 20,
+  "height_cm": 180
+ },
+ "movement": {
+  "walk_speed": 1.3,
+  "stride": 1.0,
+  "lean": 0.02,
+  "arm_swing": 1.0,
+  "idle_sway": 0.8,
+  "idle_clip": "idle_a"
+ },
+ "gltf": "kid-grown-m-light.gltf",
+ "lod": "kid-grown-m-light.lod.glb",
+ "portrait": null,
+ "build": {
+  "hash": "183ab0f92f4057f8",
+  "spec": "people/kid-grown-m-light.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-07",
+  "seconds": 10.7
+ },
+ "stats": {
+  "height_m": 1.802,
+  "tris": 63004,
+  "lod_tris": 20927,
+  "geometry_bytes": 1074004,
+  "lod_bytes": 302388,
+  "texture_bytes": 4857636,
+  "texture_mb_gpu": 71.8,
+  "textures": [
+   "6c416ae1bc7fcfdc42d3.jpg",
+   "ed0b2f49869bb2feb118.jpg",
+   "75873766019e1c652359.png",
+   "c900345dbcf336ddd72f.png",
+   "f2a07799bfbd52c5f43f.jpg",
+   "2debe542515e95b2a852.png",
+   "8832d0bec37ebf4e44ee.png",
+   "1732a45dbc439924ec3f.png",
+   "70e529627c27591d63a4.png",
+   "2ee8d1ae21fe6a7bb70b.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_caucasian_male",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow003",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "short04",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "namuhekam_male_polo_shirt",
+   "license": "CC0",
+   "author": "namuhekam",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_male_trousers_2",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "pants02"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_shoes_monk_strap_male",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "shoes02"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "grown",
+ "pool": {
+  "stage": "grown",
+  "sex": "m",
+  "family": "light"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [
+   "eyebrows:eyebrow003",
+   "hair:short04"
+  ],
+  "clothes": [
+   "clothes:mindfront_male_trousers_2",
+   "clothes:namuhekam_male_polo_shirt"
+  ]
+ },
+ "tint_base": {
+  "skin": "#ECB593",
+  "hair": "#C8C8C8",
+  "clothes": {
+   "clothes:mindfront_male_trousers_2": "#DCDCDC",
+   "clothes:namuhekam_male_polo_shirt": "#DCDCDC"
+  },
+  "skin_L": 77.9
+ },
+ "tint_default": {
+  "skin": null,
+  "hair": "#7A5A3A",
+  "clothes": {
+   "clothes:namuhekam_male_polo_shirt": "#6B2F2F",
+   "clothes:mindfront_male_trousers_2": "#4A4E57"
+  }
+ },
+ "hip_m": 0.96,
+ "head_m": 1.636
+}

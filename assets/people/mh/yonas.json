@@ -23,12 +23,12 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/yonas/mh/dna/yonas_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-02",
-  "seconds": 189.1,
+  "date": "2026-10-08",
+  "seconds": 184.5,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/yonas/maps",
   "maps": {
-   "made": "2026-10-02 09:04:30",
-   "exported": "2026-10-02 06:55:10",
+   "made": "2026-10-07 21:25:40",
+   "exported": "2026-10-07 21:22:22",
    "freshness": "fresh"
   },
   "grooms": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/yonas/mh",
@@ -38,8 +38,8 @@
  },
  "stats": {
   "head_joint_m": 1.701,
-  "tris": 112647,
-  "lod_tris": 17565,
+  "tris": 112625,
+  "lod_tris": 17570,
   "gltf": "yonas.gltf",
   "textures": {
    "materials": [
@@ -52,54 +52,54 @@
    "skin_tone": "character (MetaHuman skin model)",
    "face_albedo": "synthesized"
   },
-  "textureBytes": 9799778,
+  "textureBytes": 9801456,
   "textureMemoryMB": 126,
   "simplified": {
    "clothes:male_worksuit01": [
-    31046,
-    10624
+    31034,
+    10604
    ]
   },
   "lod": "yonas.lod.glb",
-  "lodBytes": 466352,
-  "geometryBytes": 4731700,
+  "lodBytes": 466256,
+  "geometryBytes": 5282164,
   "refit_cm": {
-   "hand_l": 10.48,
-   "foot_l": 8.22,
-   "ball_l": 4.61,
-   "index_01_l": 11.04,
-   "index_02_l": 12.52,
-   "index_03_l": 13.3,
-   "middle_01_l": 11.29,
-   "middle_02_l": 12.04,
-   "middle_03_l": 12.75,
-   "pinky_01_l": 12.13,
-   "pinky_02_l": 13.04,
-   "pinky_03_l": 13.27,
-   "ring_01_l": 11.79,
-   "ring_02_l": 12.79,
-   "ring_03_l": 13.45,
-   "thumb_01_l": 9.99,
-   "thumb_02_l": 10.61,
-   "thumb_03_l": 11.37,
-   "hand_r": 10.5,
-   "foot_r": 8.22,
-   "ball_r": 4.6,
-   "index_01_r": 11.04,
-   "index_02_r": 12.53,
-   "index_03_r": 13.31,
-   "middle_01_r": 11.29,
-   "middle_02_r": 12.04,
-   "middle_03_r": 12.75,
-   "pinky_01_r": 12.12,
-   "pinky_02_r": 13.02,
-   "pinky_03_r": 13.25,
-   "ring_01_r": 11.79,
-   "ring_02_r": 12.78,
-   "ring_03_r": 13.44,
-   "thumb_01_r": 10.0,
-   "thumb_02_r": 10.62,
-   "thumb_03_r": 11.38
+   "hand_l": 10.66,
+   "foot_l": 8.29,
+   "ball_l": 4.62,
+   "index_01_l": 11.22,
+   "index_02_l": 12.7,
+   "index_03_l": 13.48,
+   "middle_01_l": 11.47,
+   "middle_02_l": 12.22,
+   "middle_03_l": 12.93,
+   "pinky_01_l": 12.31,
+   "pinky_02_l": 13.21,
+   "pinky_03_l": 13.44,
+   "ring_01_l": 11.97,
+   "ring_02_l": 12.97,
+   "ring_03_l": 13.62,
+   "thumb_01_l": 10.16,
+   "thumb_02_l": 10.8,
+   "thumb_03_l": 11.56,
+   "hand_r": 10.69,
+   "foot_r": 8.29,
+   "ball_r": 4.63,
+   "index_01_r": 11.24,
+   "index_02_r": 12.72,
+   "index_03_r": 13.5,
+   "middle_01_r": 11.48,
+   "middle_02_r": 12.24,
+   "middle_03_r": 12.94,
+   "pinky_01_r": 12.31,
+   "pinky_02_r": 13.21,
+   "pinky_03_r": 13.42,
+   "ring_01_r": 11.98,
+   "ring_02_r": 12.97,
+   "ring_03_r": 13.62,
+   "thumb_01_r": 10.19,
+   "thumb_02_r": 10.83,
+   "thumb_03_r": 11.58
   },
   "reframe_deg_max": 40.1,
   "grooms": {
@@ -130,7 +130,7 @@
       0.07,
       0.54
      ],
-     "pushed": 550
+     "pushed": 551
     },
     "distant": {
      "lod": 4,
@@ -158,7 +158,7 @@
       0.08,
       0.58
      ],
-     "pushed": 37
+     "pushed": 38
     }
    },
    "Eyebrows_M_Thick": {
@@ -179,16 +179,16 @@
       ],
       "rendered": [
        0.027,
-       0.057,
-       0.19
+       0.058,
+       0.192
       ]
      },
      "offset_change_mm": [
       -0.01,
       0.06,
-      0.17
+      0.18
      ],
-     "pushed": 57
+     "pushed": 70
     }
    }
   },
@@ -217,9 +217,9 @@
       6986,
       27944
      ],
-     "median_edge_cm": 2.27,
+     "median_edge_cm": 2.28,
      "hard": 0,
-     "capped": 280,
+     "capped": 291,
      "hem_edges": 554,
      "max_mm": 4.5,
      "hem_points_relaxed": 424
@@ -228,9 +228,9 @@
    "bridged": {
     "clothes:male_worksuit01": {
      "moved_share": 0.494,
-     "p95_mm": 6.0,
+     "p95_mm": 6.1,
      "max_mm": 18.0,
-     "capped": 796
+     "capped": 788
     }
    },
    "drape_sim": {
@@ -240,13 +240,13 @@
        "verts": 37759,
        "held": 17934,
        "beneath": 4,
-       "seconds": 58.8
+       "seconds": 59.7
       },
       {
        "verts": 17042,
-       "held": 6396,
+       "held": 6372,
        "beneath": 0,
-       "seconds": 25.8
+       "seconds": 25.7
       }
      ],
      "relief_p5_p95_mm": [
@@ -260,28 +260,28 @@
    "draped": {
     "clothes:male_worksuit01": {
      "moved_share": 0.345,
-     "p95_mm": 3.69,
-     "max_mm": 13.03,
-     "capped": 39
+     "p95_mm": 3.67,
+     "max_mm": 12.85,
+     "capped": 36
     }
    },
-   "shod_mpfb_mask": 328,
+   "shod_mpfb_mask": 326,
    "hidden_full": {
-    "faces": 15288,
+    "faces": 15289,
     "of": 30408
    },
    "lod_reshaped": {
     "clothes:male_worksuit01": {
-     "p95_mm": 10.3,
-     "max_mm": 24.6
+     "p95_mm": 10.4,
+     "max_mm": 24.4
     }
    },
    "hidden_lod": {
-    "faces": 1785,
+    "faces": 1786,
     "of": 3364
    },
    "hidden_lod_head": {
-    "faces": 67,
+    "faces": 64,
     "of": 2572
    },
    "tucked": {
@@ -300,56 +300,56 @@
     "clothes:male_worksuit01": {
      "tris": 6986,
      "pushed": 1,
-     "moved_cm": 10.1
+     "moved_cm": 10.2
     },
     "clothes:toigo_ankle_boots_male": {
      "tris": 4120,
      "pushed": 0,
-     "moved_cm": 9.2
+     "moved_cm": 9.3
     }
    }
   },
   "skin_light": {
    "sky_p5_p50_p95": [
     0.0,
-    0.766,
-    0.988
+    0.764,
+    0.987
    ],
    "bent_tilt_deg_p50_p95": [
-    4.5,
-    64.4
+    4.6,
+    63.8
    ],
    "cone_deg_p5_p50": [
     0.0,
     76.1
    ],
-   "thin_under_6mm": 0.0268,
-   "occluder_points": 7194313
+   "thin_under_6mm": 0.0271,
+   "occluder_points": 7190041
   },
   "detail": {
    "hair_light": {
     "visibility_p5_p25_p50_p75_p95": {
      "mh_hair:Hair_S_CurlyFade": [
       0.008,
-      0.253,
-      0.68,
-      0.865,
-      0.991
+      0.254,
+      0.678,
+      0.864,
+      0.992
      ]
     },
-    "seconds": 4.5
+    "seconds": 4.2
    },
    "cloth_light": {
     "garments": {
      "clothes:male_worksuit01": {
       "visibility_p5_p25_p50_p75": [
-       0.495,
+       0.497,
        0.792,
-       0.892,
+       0.893,
        0.931
       ],
       "contact_p5_p25_p50": [
-       0.8,
+       0.804,
        0.894,
        0.924
       ],
@@ -358,49 +358,49 @@
       "own_normal": true,
       "hems": {
        "edge": 36,
-       "neck": 628,
-       "sleeve": 148,
+       "neck": 644,
+       "sleeve": 132,
        "waist": 224,
        "ankle": 72
       },
       "seam_edges": 332,
       "slope_p50_p95": [
-       0.13,
+       0.131,
        0.45
       ],
-      "seconds": 2.1,
+      "seconds": 1.9,
       "gather_edges": 0,
       "base_px": 768,
       "wear": {
        "px": 768,
        "plain": false,
        "use": 1.0,
-       "lum_mean_change": 0.02,
-       "variation_rms": 0.041,
-       "edge_p99": 0.28,
+       "lum_mean_change": 0.009,
+       "variation_rms": 0.024,
+       "edge_p99": 0.18,
        "dirt_p50_p99": [
         0.0,
-        0.157
+        0.046
        ],
-       "seconds": 1.5
+       "seconds": 1.4
       },
       "rims": {
-       "edges": 517,
-       "tris": 3102,
+       "edges": 515,
+       "tris": 3090,
        "thickness_mm": 3.4
       }
      },
      "clothes:toigo_ankle_boots_male": {
       "visibility_p5_p25_p50_p75": [
        0.008,
-       0.52,
-       0.77,
+       0.521,
+       0.767,
        0.91
       ],
       "contact_p5_p25_p50": [
        0.437,
-       0.819,
-       0.906
+       0.818,
+       0.905
       ],
       "px": 512,
       "fabric": "leather",
@@ -413,24 +413,66 @@
        0.091,
        0.235
       ],
-      "seconds": 2.5,
+      "seconds": 2.1,
       "base_px": 512
      }
     },
-    "seconds": 23.7
+    "seconds": 21.7
    },
    "weave": {
     "clothes:male_worksuit01": {
      "kind": "denim:male_worksuit01:in",
      "scale": 1.0,
-     "metres_per_uv": 2.1984
+     "metres_per_uv": 2.2061
     },
     "clothes:toigo_ankle_boots_male": {
      "kind": "leather:toigo_ankle_boots_male",
      "scale": 1.0,
-     "metres_per_uv": 0.7006
+     "metres_per_uv": 0.7009
     }
    }
+  }
+ },
+ "face": {
+  "k": 8,
+  "z": [
+   0.262,
+   -1.488,
+   0.661,
+   -1.202,
+   -1.308,
+   -0.092,
+   0.221,
+   -1.738
+  ],
+  "blink": [
+   0.0079,
+   -0.0089,
+   -0.0069,
+   0.0086,
+   -0.0089,
+   -0.0122,
+   -0.0045,
+   0.0045
+  ]
+ },
+ "tint": {
+  "skin": [
+   "mh_skin_head",
+   "mh_skin_body"
+  ],
+  "hair": [],
+  "clothes": [
+   "clothes:male_worksuit01",
+   "clothes:toigo_ankle_boots_male"
+  ]
+ },
+ "tint_base": {
+  "skin": "#745A4B",
+  "hair": "#1A1512",
+  "clothes": {
+   "clothes:male_worksuit01": "#75643F",
+   "clothes:toigo_ankle_boots_male": "#2A2622"
   }
  }
 }

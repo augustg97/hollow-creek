@@ -19,20 +19,20 @@
  "lod": "ines.lod.glb",
  "portrait": "ines.portrait.jpg",
  "build": {
-  "hash": "f3f5843ba9e78b53",
+  "hash": "de31d936fc8ead1a",
   "spec": "people/ines.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-02",
-  "seconds": 15.9
+  "date": "2026-10-07",
+  "seconds": 13.0
  },
  "stats": {
   "height_m": 1.677,
   "tris": 96894,
-  "lod_tris": 31095,
-  "geometry_bytes": 1384920,
-  "lod_bytes": 414888,
-  "texture_bytes": 4035398,
+  "lod_tris": 31096,
+  "geometry_bytes": 1385600,
+  "lod_bytes": 414704,
+  "texture_bytes": 4035957,
   "texture_mb_gpu": 71.8,
   "textures": [
    "da0e79b26b67768b4de3.jpg",
@@ -44,7 +44,7 @@
    "8832d0bec37ebf4e44ee.png",
    "1732a45dbc439924ec3f.png",
    "0963bb6a04b7ff2a99b9.png",
-   "e4ccfc2d07b49c50f6cf.jpg",
+   "08afca3aa1fc5dbf3879.jpg",
    "02a6c6e1cfdd67c0ba25.png",
    "4fc2f041608a1981e960.jpg"
   ],

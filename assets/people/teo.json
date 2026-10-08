@@ -19,24 +19,24 @@
  "lod": "teo.lod.glb",
  "portrait": "teo.portrait.jpg",
  "build": {
-  "hash": "f3258269eaba0eaa",
+  "hash": "e18b81b20c5226be",
   "spec": "people/teo.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-09-27",
-  "seconds": 8.7
+  "date": "2026-10-07",
+  "seconds": 9.1
  },
  "stats": {
   "height_m": 1.783,
   "tris": 39092,
-  "lod_tris": 13758,
-  "geometry_bytes": 834332,
-  "lod_bytes": 217612,
-  "texture_bytes": 3630945,
+  "lod_tris": 13756,
+  "geometry_bytes": 834432,
+  "lod_bytes": 217832,
+  "texture_bytes": 3632066,
   "texture_mb_gpu": 66.5,
   "textures": [
    "47dd7f487114b8e28972.jpg",
-   "c2087a34602fdbac9eb8.jpg",
+   "dfe174b69d5445ddce2b.jpg",
    "7579bf376d2dd818fae2.jpg",
    "4a13034e0ef83a872e74.jpg",
    "a86c08fb3d13b4f81e07.png",
@@ -44,7 +44,7 @@
    "786fc56cdb4d5fd8520f.png",
    "fed1306c490b5d2b997e.png",
    "02a6c6e1cfdd67c0ba25.png",
-   "17afb81bab7d2fa663a3.jpg",
+   "fe585beacbdd14b589d0.jpg",
    "4fc2f041608a1981e960.jpg"
   ],
   "morph_targets": 74

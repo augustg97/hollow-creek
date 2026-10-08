@@ -19,24 +19,24 @@
  "lod": "romy.lod.glb",
  "portrait": "romy.portrait.jpg",
  "build": {
-  "hash": "d0764308d48d023a",
+  "hash": "465cdbbe80832007",
   "spec": "people/romy.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-02",
-  "seconds": 15.1
+  "date": "2026-10-07",
+  "seconds": 14.9
  },
  "stats": {
   "height_m": 1.72,
   "tris": 99754,
-  "lod_tris": 31951,
-  "geometry_bytes": 1415164,
-  "lod_bytes": 395760,
-  "texture_bytes": 3384588,
+  "lod_tris": 31952,
+  "geometry_bytes": 1414000,
+  "lod_bytes": 395672,
+  "texture_bytes": 3384417,
   "texture_mb_gpu": 71.8,
   "textures": [
    "efb314c4acbb5a4861f3.jpg",
-   "4141d410dcb919e61bdc.jpg",
+   "9dd8e0ac422cb64db40c.jpg",
    "ff6cd62b75e37a721c8d.jpg",
    "d9f0aa4c7514ae01aed1.jpg",
    "f86fb037cd13b4ef54ce.jpg",

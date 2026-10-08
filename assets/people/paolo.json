@@ -19,20 +19,20 @@
  "lod": "paolo.lod.glb",
  "portrait": "paolo.portrait.jpg",
  "build": {
-  "hash": "795657d590192e52",
+  "hash": "a468116fc12db5db",
   "spec": "people/paolo.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-02",
-  "seconds": 14.6
+  "date": "2026-10-07",
+  "seconds": 10.7
  },
  "stats": {
   "height_m": 1.689,
   "tris": 65414,
-  "lod_tris": 21651,
-  "geometry_bytes": 1096080,
-  "lod_bytes": 312796,
-  "texture_bytes": 4777617,
+  "lod_tris": 21649,
+  "geometry_bytes": 1096112,
+  "lod_bytes": 311924,
+  "texture_bytes": 4777621,
   "texture_mb_gpu": 71.8,
   "textures": [
    "6c416ae1bc7fcfdc42d3.jpg",
@@ -44,7 +44,7 @@
    "8832d0bec37ebf4e44ee.png",
    "786fc56cdb4d5fd8520f.png",
    "934ec30d1afd1a1d983c.png",
-   "397f0020f44156b16381.jpg",
+   "183c55d3d7ee030f41c2.jpg",
    "02a6c6e1cfdd67c0ba25.png",
    "4fc2f041608a1981e960.jpg"
   ],
