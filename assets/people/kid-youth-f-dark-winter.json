@@ -1,0 +1,180 @@
+{
+ "id": "kid-youth-f-dark-winter",
+ "name": "kid-youth-f-dark",
+ "seed": 7921891,
+ "body": {
+  "sex": 0.1,
+  "age_years": 15,
+  "height_cm": 163
+ },
+ "movement": {
+  "walk_speed": 1.25,
+  "stride": 1.0,
+  "lean": 0.0,
+  "arm_swing": 1.1,
+  "idle_sway": 0.9,
+  "idle_clip": "idle_d"
+ },
+ "gltf": "kid-youth-f-dark-winter.gltf",
+ "lod": "kid-youth-f-dark-winter.lod.glb",
+ "portrait": null,
+ "build": {
+  "hash": "af5e3377ef04939b",
+  "spec": "people/kid-youth-f-dark-winter.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-09",
+  "seconds": 11.7
+ },
+ "stats": {
+  "height_m": 1.639,
+  "tris": 86798,
+  "lod_tris": 28067,
+  "geometry_bytes": 1290952,
+  "lod_bytes": 389956,
+  "texture_bytes": 5448399,
+  "texture_mb_gpu": 77.1,
+  "textures": [
+   "f5bbe3fb6e16e54c3be1.jpg",
+   "e8f2e7213e28ac458a84.png",
+   "7579bf376d2dd818fae2.jpg",
+   "a1a6dbca2a7dfbdf3df5.jpg",
+   "df7e7692493c92efeb79.png",
+   "a1fa55059ae18b2cc72e.png",
+   "8832d0bec37ebf4e44ee.png",
+   "786fc56cdb4d5fd8520f.png",
+   "b9a71ce4cffde6d8b571.png",
+   "83e2457ad7e2e88a0f22.png",
+   "7efbb549d46e7f39b710.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_african_female",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow002",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "elvs_braided_rows",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "hair02"
+  },
+  {
+   "kind": "clothes",
+   "name": "joepal_crude_t-shirt_female",
+   "license": "CC0",
+   "author": "Joel Palmius",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_ankle_boots_female",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_winter_coat",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "dress03"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "youth",
+ "pool": {
+  "stage": "youth",
+  "sex": "f",
+  "family": "dark",
+  "wear": "warm",
+  "body": "kid-youth-f-dark"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [
+   "eyebrows:eyebrow002",
+   "hair:elvs_braided_rows"
+  ],
+  "clothes": [
+   "clothes:joepal_crude_t-shirt_female",
+   "clothes:punkduck_winter_coat",
+   "clothes:toigo_wool_pants"
+  ]
+ },
+ "tint_base": {
+  "skin": "#7E5747",
+  "hair": "#C8C8C8",
+  "clothes": {
+   "clothes:joepal_crude_t-shirt_female": "#DCDCDC",
+   "clothes:punkduck_winter_coat": "#DCDCDC",
+   "clothes:toigo_wool_pants": "#DCDCDC"
+  },
+  "skin_L": 40.7
+ },
+ "tint_default": {
+  "skin": "#6F4636",
+  "hair": "#241B14",
+  "clothes": {
+   "clothes:joepal_crude_t-shirt_female": "#5E6B3F",
+   "clothes:toigo_wool_pants": "#5B5446",
+   "clothes:punkduck_winter_coat": "#4A706B"
+  }
+ },
+ "hip_m": 0.871,
+ "head_m": 1.468,
+ "over": [
+  "clothes:punkduck_winter_coat"
+ ]
+}

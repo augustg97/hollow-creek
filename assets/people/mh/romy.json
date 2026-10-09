@@ -24,7 +24,7 @@
   "head_lod": 1,
   "body_lod": 0,
   "date": "2026-10-08",
-  "seconds": 371.5,
+  "seconds": 938.4,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/romy/maps",
   "maps": {
    "made": "2026-10-07 21:29:11",
@@ -38,8 +38,8 @@
  },
  "stats": {
   "head_joint_m": 1.56,
-  "tris": 135411,
-  "lod_tris": 27216,
+  "tris": 134185,
+  "lod_tris": 26691,
   "gltf": "romy.gltf",
   "textures": {
    "materials": [
@@ -52,7 +52,7 @@
    "skin_tone": "character (MetaHuman skin model)",
    "face_albedo": "synthesized"
   },
-  "textureBytes": 9848221,
+  "textureBytes": 9845324,
   "textureMemoryMB": 133,
   "simplified": {
    "clothes:toigo_flats": [
@@ -61,8 +61,8 @@
    ]
   },
   "lod": "romy.lod.glb",
-  "lodBytes": 614640,
-  "geometryBytes": 5235160,
+  "lodBytes": 607148,
+  "geometryBytes": 5360424,
   "simplified_lod": {
    "clothes:toigo_flats": [
     16470,
@@ -220,9 +220,9 @@
       3112,
       12448
      ],
-     "median_edge_cm": 2.82,
+     "median_edge_cm": 2.74,
      "hard": 0,
-     "capped": 40,
+     "capped": 45,
      "hem_edges": 96,
      "max_mm": 4.5,
      "hem_points_relaxed": 60
@@ -232,9 +232,9 @@
       3392,
       13568
      ],
-     "median_edge_cm": 2.64,
+     "median_edge_cm": 2.61,
      "hard": 0,
-     "capped": 186,
+     "capped": 202,
      "hem_edges": 288,
      "max_mm": 4.5,
      "hem_points_relaxed": 40
@@ -242,16 +242,16 @@
    },
    "bridged": {
     "clothes:janexx_old_female_sweater": {
-     "moved_share": 0.569,
-     "p95_mm": 16.9,
+     "moved_share": 0.564,
+     "p95_mm": 20.1,
      "max_mm": 27.0,
-     "capped": 188
+     "capped": 178
     },
     "clothes:mindfront_female_trousers_1": {
-     "moved_share": 0.248,
-     "p95_mm": 4.6,
-     "max_mm": 15.6,
-     "capped": 540
+     "moved_share": 0.246,
+     "p95_mm": 4.8,
+     "max_mm": 19.9,
+     "capped": 550
     }
    },
    "drape_sim": {
@@ -259,14 +259,14 @@
      "parts": [
       {
        "verts": 25086,
-       "held": 1853,
+       "held": 2049,
        "beneath": 0,
-       "seconds": 39.6
+       "seconds": 41.9
       }
      ],
      "relief_p5_p95_mm": [
-      -2.5,
-      2.5
+      -2.1,
+      2.2
      ],
      "outline_p5_p95_mm": null,
      "capped": 0
@@ -275,20 +275,20 @@
      "parts": [
       {
        "verts": 18711,
-       "held": 3129,
+       "held": 3474,
        "beneath": 5,
-       "seconds": 28.8
+       "seconds": 30.6
       },
       {
        "verts": 5601,
        "held": 5601,
        "beneath": 5,
-       "seconds": 7.7
+       "seconds": 8.5
       }
      ],
      "relief_p5_p95_mm": [
-      -1.0,
-      1.0
+      -0.8,
+      0.8
      ],
      "outline_p5_p95_mm": null,
      "capped": 0
@@ -296,58 +296,58 @@
    },
    "draped": {
     "clothes:janexx_old_female_sweater": {
-     "moved_share": 0.534,
-     "p95_mm": 7.18,
-     "max_mm": 15.69,
+     "moved_share": 0.383,
+     "p95_mm": 6.33,
+     "max_mm": 15.51,
      "capped": 2
     },
     "clothes:mindfront_female_trousers_1": {
-     "moved_share": 0.152,
-     "p95_mm": 0.47,
-     "max_mm": 4.94,
-     "capped": 0
+     "moved_share": 0.074,
+     "p95_mm": 0.17,
+     "max_mm": 4.71,
+     "capped": 1
     }
    },
    "shod_mpfb_mask": 0,
    "hidden_full": {
-    "faces": 16320,
+    "faces": 16945,
     "of": 30408
    },
    "lod_reshaped": {
     "clothes:janexx_old_female_sweater": {
-     "p95_mm": 18.9,
-     "max_mm": 34.8
+     "p95_mm": 21.0,
+     "max_mm": 36.8
     },
     "clothes:mindfront_female_trousers_1": {
-     "p95_mm": 6.9,
-     "max_mm": 18.3
+     "p95_mm": 6.7,
+     "max_mm": 21.0
     }
    },
    "hidden_lod": {
-    "faces": 1831,
+    "faces": 2027,
     "of": 3364
    },
    "hidden_lod_head": {
-    "faces": 19,
+    "faces": 93,
     "of": 2572
    },
    "tucked": {
     "full": {
-     "verts": 114,
-     "max_mm": 7.3,
-     "median_mm": 0.9
+     "verts": 127,
+     "max_mm": 7.1,
+     "median_mm": 0.8
     },
     "lod": {
      "verts": 5,
-     "max_mm": 7.3,
-     "median_mm": 6.8
+     "max_mm": 7.7,
+     "median_mm": 7.1
     }
    },
    "garments": {
     "clothes:janexx_old_female_sweater": {
      "tris": 3112,
      "pushed": 0,
-     "moved_cm": 5.8
+     "moved_cm": 6.0
     },
     "clothes:mindfront_female_trousers_1": {
      "tris": 3392,
@@ -364,171 +364,125 @@
   "skin_light": {
    "sky_p5_p50_p95": [
     0.0,
-    0.635,
-    0.971
+    0.638,
+    0.973
    ],
    "bent_tilt_deg_p50_p95": [
-    5.3,
-    53.5
+    5.0,
+    53.6
    ],
    "cone_deg_p5_p50": [
     0.0,
-    75.8
+    75.9
    ],
-   "thin_under_6mm": 0.0139,
-   "occluder_points": 16400482
+   "thin_under_6mm": 0.014,
+   "occluder_points": 16262852
   },
   "detail": {
    "hair_light": {
     "visibility_p5_p25_p50_p75_p95": {
-     "mh_hair:Hair_L_AfroCurly": [
-      0.0,
-      0.007,
-      0.159,
-      0.629,
-      0.987
+     "mh_hair:Hair_M_Layered": [
+      0.008,
+      0.125,
+      0.442,
+      0.761,
+      0.962
      ]
     },
-    "seconds": 6.4
+    "seconds": 4.3
    },
    "cloth_light": {
-    "garments": {
-     "clothes:janexx_old_female_sweater": {
-      "visibility_p5_p25_p50_p75": [
-       0.39,
-       0.785,
-       0.894,
-       0.928
-      ],
-      "contact_p5_p25_p50": [
-       0.761,
-       0.895,
-       0.92
-      ],
-      "px": 768,
-      "fabric": "wool",
-      "own_normal": true,
-      "hems": {
-       "neck": 40,
-       "sleeve": 80,
-       "waist": 72
-      },
-      "seam_edges": 256,
-      "slope_p50_p95": [
-       0.13,
-       0.579
-      ],
-      "seconds": 1.1,
-      "gather_edges": 72,
-      "base_px": 768,
-      "wear": {
-       "px": 768,
-       "plain": false,
-       "use": 0.3,
-       "lum_mean_change": 0.001,
-       "variation_rms": 0.01,
-       "edge_p99": 0.03,
-       "dirt_p50_p99": [
-        0.0,
-        0.0
-       ],
-       "seconds": 0.7
-      },
-      "rims": {
-       "edges": 130,
-       "tris": 780,
-       "thickness_mm": 3.0
-      }
-     },
-     "clothes:mindfront_female_trousers_1": {
-      "visibility_p5_p25_p50_p75": [
-       0.002,
-       0.034,
-       0.478,
-       0.899
-      ],
-      "contact_p5_p25_p50": [
-       0.173,
-       0.498,
-       0.885
-      ],
-      "px": 768,
-      "fabric": "wool",
-      "own_normal": true,
-      "hems": {
-       "waist": 496,
-       "ankle": 80
-      },
-      "seam_edges": 322,
-      "slope_p50_p95": [
-       0.057,
-       0.392
-      ],
-      "seconds": 2.0,
-      "gather_edges": 576,
-      "base_px": 768,
-      "wear": {
-       "px": 768,
-       "plain": false,
-       "use": 0.45,
-       "lum_mean_change": 0.004,
-       "variation_rms": 0.02,
-       "edge_p99": 0.06,
-       "dirt_p50_p99": [
-        0.0,
-        0.023
-       ],
-       "seconds": 1.1
-      },
-      "rims": {
-       "edges": 166,
-       "tris": 996,
-       "thickness_mm": 3.0
-      }
-     },
-     "clothes:toigo_flats": {
-      "visibility_p5_p25_p50_p75": [
-       0.047,
-       0.328,
-       0.823,
-       0.921
-      ],
-      "contact_p5_p25_p50": [
-       0.376,
-       0.716,
-       0.885
-      ],
-      "px": 512,
-      "fabric": "leather",
-      "own_normal": false,
-      "hems": {},
-      "seam_edges": 1745,
-      "slope_p50_p95": [
-       0.0,
-       0.0
-      ],
-      "seconds": 3.6,
-      "base_px": 512
-     }
-    },
-    "seconds": 34.4
+    "skipped": "no textured garments"
    },
-   "weave": {
-    "clothes:janexx_old_female_sweater": {
-     "kind": "wool:janexx_old_female_sweater:in",
-     "scale": 1.0,
-     "metres_per_uv": 1.913
+   "weave": {}
+  }
+ },
+ "wardrobe": {
+  "own": {
+   "hair": "Hair_L_AfroCurly",
+   "dress": "own",
+   "length": "long",
+   "texture": "coiled"
+  },
+  "dress": {
+   "warm": {
+    "gltf": "romy.dress-warm.gltf",
+    "lod": "romy.dress-warm.lod.glb",
+    "tint_base": {
+     "clothes:punkduck_winter_coat": "#A9824E",
+     "clothes:toigo_wool_pants": "#3A3A3A",
+     "clothes:toigo_ankle_boots_female": "#3A2A1E"
     },
-    "clothes:mindfront_female_trousers_1": {
-     "kind": "wool:mindfront_female_trousers_1:in",
-     "scale": 1.0,
-     "metres_per_uv": 1.3693
+    "warm": true,
+    "garments": [
+     "punkduck_winter_coat",
+     "toigo_wool_pants",
+     "toigo_ankle_boots_female"
+    ],
+    "words": "a winter coat",
+    "tris": 64460
+   },
+   "best": {
+    "gltf": "romy.dress-best.gltf",
+    "lod": "romy.dress-best.lod.glb",
+    "tint_base": {
+     "clothes:punkduck_lace_up_blouse": "#D8D3C4",
+     "clothes:mindfront_female_trousers_1": "#4A4E57",
+     "clothes:toigo_flats": "#2E2A26"
     },
-    "clothes:toigo_flats": {
-     "kind": "leather:toigo_flats",
-     "scale": 1.0,
-     "metres_per_uv": 0.4995
-    }
+    "warm": false,
+    "garments": [
+     "punkduck_lace_up_blouse",
+     "mindfront_female_trousers_1",
+     "toigo_flats"
+    ],
+    "words": "a blouse and good trousers",
+    "tris": 114666
+   },
+   "light": {
+    "gltf": "romy.dress-light.gltf",
+    "lod": "romy.dress-light.lod.glb",
+    "tint_base": {
+     "clothes:toigo_shift_dress": "#C9A24B",
+     "clothes:dressupdoc_balletflat1": "#2E2A26"
+    },
+    "warm": false,
+    "garments": [
+     "toigo_shift_dress",
+     "dressupdoc_balletflat1"
+    ],
+    "words": "a dress",
+    "tris": 59522
+   }
+  },
+  "hair": {
+   "Hair_M_BobCurly": {
+    "gltf": "romy.hair-Hair_M_BobCurly.gltf",
+    "lod": "romy.hair-Hair_M_BobCurly.lod.glb",
+    "length": "long",
+    "texture": "coiled",
+    "tris": 29944
+   },
+   "Hair_S_AfroFade": {
+    "gltf": "romy.hair-Hair_S_AfroFade.gltf",
+    "lod": "romy.hair-Hair_S_AfroFade.lod.glb",
+    "length": "short",
+    "texture": "coiled",
+    "tris": 30617
+   },
+   "Hair_L_Straight": {
+    "gltf": "romy.hair-Hair_L_Straight.gltf",
+    "lod": "romy.hair-Hair_L_Straight.lod.glb",
+    "length": "long",
+    "texture": "straight",
+    "tris": 34790
+   },
+   "Hair_M_Layered": {
+    "gltf": "romy.hair-Hair_M_Layered.gltf",
+    "lod": "romy.hair-Hair_M_Layered.lod.glb",
+    "length": "long",
+    "texture": "straight",
+    "tris": 37758
    }
   }
  },

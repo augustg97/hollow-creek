@@ -1,0 +1,179 @@
+{
+ "id": "kid-child-m-light-winter",
+ "name": "kid-child-m-light",
+ "seed": 3724575,
+ "body": {
+  "sex": 0.85,
+  "age_years": 8,
+  "height_cm": 130
+ },
+ "movement": {
+  "walk_speed": 1.1,
+  "stride": 1.0,
+  "lean": 0.0,
+  "arm_swing": 1.1,
+  "idle_sway": 0.9,
+  "idle_clip": "idle_d"
+ },
+ "gltf": "kid-child-m-light-winter.gltf",
+ "lod": "kid-child-m-light-winter.lod.glb",
+ "portrait": null,
+ "build": {
+  "hash": "4a84c794cb482be0",
+  "spec": "people/kid-child-m-light-winter.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-09",
+  "seconds": 9.0
+ },
+ "stats": {
+  "height_m": 1.298,
+  "tris": 53456,
+  "lod_tris": 18063,
+  "geometry_bytes": 1049936,
+  "lod_bytes": 293912,
+  "texture_bytes": 4867254,
+  "texture_mb_gpu": 71.8,
+  "textures": [
+   "f2a07799bfbd52c5f43f.jpg",
+   "3a5140bf2ec03cba5925.jpg",
+   "12ab52ae2037f72e879e.png",
+   "e8f2e7213e28ac458a84.png",
+   "df7e7692493c92efeb79.png",
+   "a1fa55059ae18b2cc72e.png",
+   "8832d0bec37ebf4e44ee.png",
+   "1732a45dbc439924ec3f.png",
+   "e6701b1f2a17208bb40c.png",
+   "c20226aa1fb99526dd37.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_caucasian_male",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow002",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "culturalibre_hair_02",
+   "license": "CC0",
+   "author": "culturalibre",
+   "pack": "hair01"
+  },
+  {
+   "kind": "clothes",
+   "name": "namuhekam_male_polo_shirt",
+   "license": "CC0",
+   "author": "namuhekam",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_tennis_shoes",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "shoes02"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_winter_coat",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "dress03"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "child",
+ "pool": {
+  "stage": "child",
+  "sex": "m",
+  "family": "light",
+  "wear": "warm",
+  "body": "kid-child-m-light"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [
+   "eyebrows:eyebrow002",
+   "hair:culturalibre_hair_02"
+  ],
+  "clothes": [
+   "clothes:namuhekam_male_polo_shirt",
+   "clothes:punkduck_winter_coat",
+   "clothes:toigo_wool_pants"
+  ]
+ },
+ "tint_base": {
+  "skin": "#ECB593",
+  "hair": "#C8C8C8",
+  "clothes": {
+   "clothes:namuhekam_male_polo_shirt": "#DCDCDC",
+   "clothes:punkduck_winter_coat": "#DCDCDC",
+   "clothes:toigo_wool_pants": "#DCDCDC"
+  },
+  "skin_L": 77.9
+ },
+ "tint_default": {
+  "skin": null,
+  "hair": "#C2A36B",
+  "clothes": {
+   "clothes:namuhekam_male_polo_shirt": "#6E7B8B",
+   "clothes:toigo_wool_pants": "#3D4A63",
+   "clothes:punkduck_winter_coat": "#5C4660"
+  }
+ },
+ "hip_m": 0.671,
+ "head_m": 1.155,
+ "over": [
+  "clothes:punkduck_winter_coat"
+ ]
+}

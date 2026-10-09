@@ -1,0 +1,180 @@
+{
+ "id": "kid-youth-f-asian-winter",
+ "name": "kid-youth-f-asian",
+ "seed": 9761540,
+ "body": {
+  "sex": 0.1,
+  "age_years": 15,
+  "height_cm": 158
+ },
+ "movement": {
+  "walk_speed": 1.25,
+  "stride": 1.0,
+  "lean": 0.0,
+  "arm_swing": 1.1,
+  "idle_sway": 0.9,
+  "idle_clip": "idle_c"
+ },
+ "gltf": "kid-youth-f-asian-winter.gltf",
+ "lod": "kid-youth-f-asian-winter.lod.glb",
+ "portrait": null,
+ "build": {
+  "hash": "935d837715b1db96",
+  "spec": "people/kid-youth-f-asian-winter.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-09",
+  "seconds": 9.2
+ },
+ "stats": {
+  "height_m": 1.579,
+  "tris": 50266,
+  "lod_tris": 17107,
+  "geometry_bytes": 991076,
+  "lod_bytes": 283420,
+  "texture_bytes": 6189536,
+  "texture_mb_gpu": 77.1,
+  "textures": [
+   "20faf45f2b057a34cec6.png",
+   "4172045efd7861a432fb.png",
+   "e8f2e7213e28ac458a84.png",
+   "7579bf376d2dd818fae2.jpg",
+   "a1a6dbca2a7dfbdf3df5.jpg",
+   "df7e7692493c92efeb79.png",
+   "a1fa55059ae18b2cc72e.png",
+   "8832d0bec37ebf4e44ee.png",
+   "786fc56cdb4d5fd8520f.png",
+   "aa3d28f90af771cbd3d6.png",
+   "2f61e3fd041b5bce01c9.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_asian_female",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow002",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "ponytail01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_knitted_sweater_02",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "shirts02"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_wool_pants",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "pants01"
+  },
+  {
+   "kind": "clothes",
+   "name": "toigo_ankle_boots_female",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_winter_coat",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "dress03"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "youth",
+ "pool": {
+  "stage": "youth",
+  "sex": "f",
+  "family": "asian",
+  "wear": "warm",
+  "body": "kid-youth-f-asian"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [
+   "eyebrows:eyebrow002",
+   "hair:ponytail01"
+  ],
+  "clothes": [
+   "clothes:mindfront_knitted_sweater_02",
+   "clothes:punkduck_winter_coat",
+   "clothes:toigo_wool_pants"
+  ]
+ },
+ "tint_base": {
+  "skin": "#EBBEA0",
+  "hair": "#C8C8C8",
+  "clothes": {
+   "clothes:mindfront_knitted_sweater_02": "#DCDCDC",
+   "clothes:punkduck_winter_coat": "#DCDCDC",
+   "clothes:toigo_wool_pants": "#DCDCDC"
+  },
+  "skin_L": 80.2
+ },
+ "tint_default": {
+  "skin": null,
+  "hair": "#1A1512",
+  "clothes": {
+   "clothes:mindfront_knitted_sweater_02": "#4A706B",
+   "clothes:toigo_wool_pants": "#4A4E57",
+   "clothes:punkduck_winter_coat": "#4A706B"
+  }
+ },
+ "hip_m": 0.843,
+ "head_m": 1.427,
+ "over": [
+  "clothes:punkduck_winter_coat"
+ ]
+}

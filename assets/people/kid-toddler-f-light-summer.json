@@ -1,0 +1,165 @@
+{
+ "id": "kid-toddler-f-light-summer",
+ "name": "kid-toddler-f-light",
+ "seed": 9236085,
+ "body": {
+  "sex": 0.15,
+  "age_years": 3,
+  "height_cm": 96
+ },
+ "movement": {
+  "walk_speed": 0.65,
+  "stride": 0.9,
+  "lean": 0.0,
+  "arm_swing": 1.0,
+  "idle_sway": 1.0,
+  "idle_clip": "idle_b"
+ },
+ "gltf": "kid-toddler-f-light-summer.gltf",
+ "lod": "kid-toddler-f-light-summer.lod.glb",
+ "portrait": null,
+ "build": {
+  "hash": "73dbc206fe106ce1",
+  "spec": "people/kid-toddler-f-light-summer.json",
+  "mpfb": "2.0.17",
+  "blender": "5.2.2 LTS",
+  "date": "2026-10-09",
+  "seconds": 8.6
+ },
+ "stats": {
+  "height_m": 0.96,
+  "tris": 57644,
+  "lod_tris": 19319,
+  "geometry_bytes": 1202908,
+  "lod_bytes": 320016,
+  "texture_bytes": 4349576,
+  "texture_mb_gpu": 66.5,
+  "textures": [
+   "3c7045ae7afd2d9107de.png",
+   "e9412172f68644da0843.jpg",
+   "a8520823b1bb39b1278b.png",
+   "6e02cde546bf32c06939.png",
+   "8832d0bec37ebf4e44ee.png",
+   "1732a45dbc439924ec3f.png",
+   "c0e725483ca2b704bd38.jpg",
+   "8c6af6c1a868d186b856.png",
+   "c20b90832fa63ba9ce20.jpg",
+   "02a6c6e1cfdd67c0ba25.png",
+   "4fc2f041608a1981e960.jpg"
+  ],
+  "morph_targets": 74
+ },
+ "assets": [
+  {
+   "kind": "skin",
+   "name": "young_caucasian_female",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyes",
+   "name": "high-poly",
+   "license": "CC0",
+   "author": "",
+   "pack": "system"
+  },
+  {
+   "kind": "eyebrows",
+   "name": "eyebrow008",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "eyelashes",
+   "name": "eyelashes01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "teeth",
+   "name": "teeth_base",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "tongue",
+   "name": "tongue01",
+   "license": "CC0",
+   "author": "makehuman_system",
+   "pack": "makehuman_system_assets"
+  },
+  {
+   "kind": "hair",
+   "name": "toigo_blunt_bob_with_bangs",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "hair01"
+  },
+  {
+   "kind": "clothes",
+   "name": "elvs_crude_t-shirt_male",
+   "license": "CC0",
+   "author": "Elvaerwyn",
+   "pack": "shirts01"
+  },
+  {
+   "kind": "clothes",
+   "name": "elvs_male_trouser_short_1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "pants03"
+  },
+  {
+   "kind": "clothes",
+   "name": "punkduck_comfortable_sneakers",
+   "license": "CC-BY",
+   "author": "punkduck",
+   "pack": "shoes02"
+  }
+ ],
+ "license": "CC0 body (MPFB); asset licences listed per asset",
+ "stage": "toddler",
+ "pool": {
+  "stage": "toddler",
+  "sex": "f",
+  "family": "light",
+  "wear": "light",
+  "body": "kid-toddler-f-light"
+ },
+ "tint": {
+  "skin": [
+   "skin"
+  ],
+  "hair": [
+   "eyebrows:eyebrow008",
+   "hair:toigo_blunt_bob_with_bangs"
+  ],
+  "clothes": [
+   "clothes:elvs_crude_t-shirt_male",
+   "clothes:elvs_male_trouser_short_1"
+  ]
+ },
+ "tint_base": {
+  "skin": "#E6C1A7",
+  "hair": "#C8C8C8",
+  "clothes": {
+   "clothes:elvs_crude_t-shirt_male": "#DCDCDC",
+   "clothes:elvs_male_trouser_short_1": "#DCDCDC"
+  },
+  "skin_L": 80.6
+ },
+ "tint_default": {
+  "skin": null,
+  "hair": "#C2A36B",
+  "clothes": {
+   "clothes:elvs_crude_t-shirt_male": "#8B9DAD",
+   "clothes:elvs_male_trouser_short_1": "#6B5E48"
+  }
+ },
+ "hip_m": 0.467,
+ "head_m": 0.827
+}

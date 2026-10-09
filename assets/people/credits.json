@@ -21,6 +21,16 @@
    ]
   },
   {
+   "asset": "elvs_male_trouser_short_1",
+   "kind": "clothes",
+   "author": "Elvaerwyn",
+   "license": "CC-BY",
+   "people": [
+    "Lena",
+    "the children"
+   ]
+  },
+  {
    "asset": "janexx_old_female_sweater",
    "kind": "clothes",
    "author": "janexx",
@@ -64,7 +74,8 @@
    "author": "Mindfront",
    "license": "CC-BY",
    "people": [
-    "Haruka"
+    "Haruka",
+    "the children"
    ]
   },
   {
@@ -83,7 +94,8 @@
    "author": "Mindfront",
    "license": "CC-BY",
    "people": [
-    "Paolo"
+    "Paolo",
+    "the children"
    ]
   },
   {
@@ -95,6 +107,15 @@
     "Kojo",
     "Lena",
     "Sam",
+    "the children"
+   ]
+  },
+  {
+   "asset": "punkduck_female_short_jeans",
+   "kind": "clothes",
+   "author": "punkduck",
+   "license": "CC-BY",
+   "people": [
     "the children"
    ]
   },
@@ -126,6 +147,16 @@
    "author": "punkduck",
    "license": "CC-BY",
    "people": [
+    "the children"
+   ]
+  },
+  {
+   "asset": "punkduck_winter_coat",
+   "kind": "clothes",
+   "author": "punkduck",
+   "license": "CC-BY",
+   "people": [
+    "Lena",
     "the children"
    ]
   },
