@@ -1,11 +1,11 @@
 # Hollow Creek
 
-A hamlet on a river: four people to begin with, ten more who walk in over a week, and their lives through the turning year, in real-time 3D in your browser. Children grow up, people grow old and are buried, and a parish with its own money, meeting and troubles grows round them.
+A hamlet of thirty on a river, in its own century, and the parish of thousands that grows round it, in real-time 3D in your browser. People are born, grow up, work, pair, fall ill and are buried through the turning year; beyond the houses you see, a parish finds things out, makes its law a step at a time after what went wrong, banks its river and goes over the ridge for more land, with nothing laid out in advance. Its register is as plain as a real one, and as hard: a child buried, a child left without, a house that parted, each in a few words and never more.
 
 **Open it: https://augustg97.github.io/hollow-creek/**
 
 This repository holds the built web edition only. It needs a desktop browser with WebGPU (Chrome or Edge 113+,
-Safari 26+) and downloads about 145 MB on the first visit. The townspeople think by rules here; with
+Safari 26+) and downloads about 260 MB on the first visit. The townspeople think by rules here; with
 [LM Studio](https://lmstudio.ai) running on your own computer (CORS enabled in its server settings) you can connect
 it from the town's menu (⋯ → Connect LM Studio…) and a local model thinks for them.
 

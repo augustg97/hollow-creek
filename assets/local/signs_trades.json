@@ -6,7 +6,7 @@
  "sampler": "DDIM Trailing",
  "backend": "drawthings",
  "used_for": "the trades' signs (school, smithy, pottery, net shed, builder's yard, log yard, surgery, post), one atlas",
- "processing": "each board trimmed, resized to 128 px high, packed on a 1024x552 atlas, JPEG q90",
+ "processing": "each board trimmed, resized to 128 px high, packed on a 1024x688 atlas, JPEG q90",
  "signs": {
   "SCHOOL": {
    "source": ".cache/phase18/signs/sign_school_203.png",
@@ -109,6 +109,32 @@
     425,
     416,
     434,
+    128
+   ]
+  },
+  "PARISH ROOM": {
+   "source": ".cache/phase23/signs/sign_parishroom_2311.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: cream-white painted board with dark green hand lettering \"PARISH ROOM\", a small painted oak leaf after the words. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 2311,
+   "width": 1536,
+   "height": 448,
+   "cell": [
+    8,
+    552,
+    500,
+    128
+   ]
+  },
+  "CONSTABLE": {
+   "source": ".cache/phase23/signs/sign_constable_2322.png",
+   "prompt": "A rustic hand-painted sign on one rough plank seen straight on, the plank filling the whole frame edge to edge: dark blue painted board with cream-white hand lettering \"CONSTABLE\", a small painted lantern after the word. Weathered paint, wood grain, flat, evenly lit, no background, no perspective.",
+   "seed": 2322,
+   "width": 1536,
+   "height": 448,
+   "cell": [
+    516,
+    552,
+    480,
     128
    ]
   }
