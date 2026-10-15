@@ -23,8 +23,8 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/anjali/mh/dna/anjali_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-08",
-  "seconds": 583.2,
+  "date": "2026-10-12",
+  "seconds": 782.1,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/anjali/maps",
   "maps": {
    "made": "2026-10-07 21:27:04",
@@ -38,8 +38,8 @@
  },
  "stats": {
   "head_joint_m": 1.432,
-  "tris": 141200,
-  "lod_tris": 15404,
+  "tris": 141146,
+  "lod_tris": 15989,
   "gltf": "anjali.gltf",
   "textures": {
    "materials": [
@@ -52,11 +52,17 @@
    "skin_tone": "character (MetaHuman skin model)",
    "face_albedo": "synthesized"
   },
-  "textureBytes": 9601182,
-  "textureMemoryMB": 131.3,
+  "textureBytes": 9799845,
+  "textureMemoryMB": 132.7,
   "lod": "anjali.lod.glb",
-  "lodBytes": 318504,
-  "geometryBytes": 5561856,
+  "lodBytes": 326460,
+  "geometryBytes": 5563168,
+  "simplified_lod": {
+   "clothes:mindfront_f_dress_09": [
+    4776,
+    1002
+   ]
+  },
   "refit_cm": {
    "hand_l": 5.0,
    "foot_l": 4.66,
@@ -202,18 +208,26 @@
     ]
    },
    "clothes_bind": "all",
-   "smoothed": {
-    "clothes:joepal_crude_t-shirt_female": {
+   "sleeveless": {
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
      "tris": [
-      2068,
-      8272
+      2588,
+      1772
+     ]
+    }
+   },
+   "smoothed": {
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
+     "tris": [
+      1772,
+      7088
      ],
-     "median_edge_cm": 2.38,
+     "median_edge_cm": 2.34,
      "hard": 0,
-     "capped": 216,
-     "hem_edges": 126,
-     "max_mm": 3.02,
-     "hem_points_relaxed": 126
+     "capped": 130,
+     "hem_edges": 130,
+     "max_mm": 3.2,
+     "hem_points_relaxed": 130
     },
     "clothes:punkduck_lace_up_blouse": {
      "tris": [
@@ -222,71 +236,75 @@
      ],
      "median_edge_cm": 1.82,
      "hard": 0,
-     "capped": 223,
+     "capped": 218,
      "hem_edges": 170,
      "max_mm": 4.5,
      "hem_points_relaxed": 170
-    },
-    "clothes:toigo_wool_pants": {
-     "tris": [
-      2674,
-      10696
-     ],
-     "median_edge_cm": 2.64,
-     "hard": 0,
-     "capped": 128,
-     "hem_edges": 75,
-     "max_mm": 4.5,
-     "hem_points_relaxed": 36
     }
    },
    "bridged": {
-    "clothes:joepal_crude_t-shirt_female": {
-     "moved_share": 0.658,
-     "p95_mm": 4.7,
-     "max_mm": 8.7,
-     "capped": 4057
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
+     "moved_share": 0.667,
+     "p95_mm": 7.3,
+     "max_mm": 9.2,
+     "capped": 3530
+    },
+    "clothes:mindfront_f_dress_09": {
+     "moved_share": 0.561,
+     "p95_mm": 7.9,
+     "max_mm": 27.0,
+     "capped": 5423
     },
     "clothes:punkduck_lace_up_blouse": {
-     "moved_share": 0.491,
-     "p95_mm": 12.8,
-     "max_mm": 33.9,
-     "capped": 1656
-    },
-    "clothes:toigo_wool_pants": {
-     "moved_share": 0.429,
-     "p95_mm": 3.7,
-     "max_mm": 16.2,
-     "capped": 1466
+     "moved_share": 0.486,
+     "p95_mm": 12.6,
+     "max_mm": 27.0,
+     "capped": 1627
     }
    },
    "drape_sim": {
-    "clothes:joepal_crude_t-shirt_female": {
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
      "parts": [
       {
-       "verts": 16794,
-       "held": 15446,
+       "verts": 14434,
+       "held": 14010,
        "beneath": 0,
-       "seconds": 26.1
+       "seconds": 23.9
       }
      ],
      "relief_p5_p95_mm": [
-      -0.2,
-      0.2
+      -0.0,
+      0.0
      ],
      "outline_p5_p95_mm": [
-      -0.0,
-      0.1
+      0.0,
+      0.0
      ],
+     "capped": 0
+    },
+    "clothes:mindfront_f_dress_09": {
+     "parts": [
+      {
+       "verts": 32080,
+       "held": 20227,
+       "beneath": 0,
+       "seconds": 56.9
+      }
+     ],
+     "relief_p5_p95_mm": [
+      -1.6,
+      1.6
+     ],
+     "outline_p5_p95_mm": null,
      "capped": 0
     },
     "clothes:punkduck_lace_up_blouse": {
      "parts": [
       {
        "verts": 36994,
-       "held": 3513,
+       "held": 3564,
        "beneath": 1,
-       "seconds": 62.4
+       "seconds": 64.4
       }
      ],
      "relief_p5_p95_mm": [
@@ -295,72 +313,103 @@
      ],
      "outline_p5_p95_mm": null,
      "capped": 0
-    },
-    "clothes:toigo_wool_pants": {
-     "parts": [
-      {
-       "verts": 21509,
-       "held": 7402,
-       "beneath": 0,
-       "seconds": 35.5
-      }
-     ],
-     "relief_p5_p95_mm": [
-      -2.8,
-      2.7
-     ],
-     "outline_p5_p95_mm": [
-      -3.0,
-      3.4
-     ],
-     "capped": 5
     }
    },
    "draped": {
+    "clothes:mindfront_f_dress_09": {
+     "moved_share": 0.292,
+     "p95_mm": 5.9,
+     "max_mm": 15.07,
+     "capped": 31
+    },
     "clothes:punkduck_lace_up_blouse": {
-     "moved_share": 0.258,
-     "p95_mm": 1.66,
-     "max_mm": 6.39,
-     "capped": 57
+     "moved_share": 0.312,
+     "p95_mm": 3.44,
+     "max_mm": 12.4,
+     "capped": 102
+    }
+   },
+   "beneath": {
+    "clothes:mindfront_f_dress_09": {
+     "tris": [
+      15920,
+      10894
+     ],
+     "drawn_in": 28,
+     "drawn_mm_max": 16.3
+    },
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
+     "tris": [
+      7088,
+      3508
+     ],
+     "drawn_in": 57,
+     "drawn_mm_max": 4.3
     }
    },
    "shod_mpfb_mask": 0,
    "hidden_full": {
-    "faces": 16739,
+    "faces": 14420,
     "of": 30408
    },
+   "sleeveless_lod": {
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
+     "tris": [
+      775,
+      446
+     ]
+    }
+   },
    "lod_reshaped": {
-    "clothes:joepal_crude_t-shirt_female": {
-     "p95_mm": 4.9,
-     "max_mm": 10.6
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
+     "p95_mm": 7.3,
+     "max_mm": 12.3
+    },
+    "clothes:mindfront_f_dress_09": {
+     "p95_mm": 8.8,
+     "max_mm": 33.9
     },
     "clothes:punkduck_lace_up_blouse": {
-     "p95_mm": 14.1,
-     "max_mm": 36.3
+     "p95_mm": 14.4,
+     "max_mm": 34.0
+    }
+   },
+   "beneath_lod": {
+    "clothes:mindfront_f_dress_09": {
+     "tris": [
+      4776,
+      4776
+     ],
+     "drawn_in": 51,
+     "drawn_mm_max": 17.8
     },
-    "clothes:toigo_wool_pants": {
-     "p95_mm": 5.7,
-     "max_mm": 9.7
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
+     "tris": [
+      446,
+      446
+     ],
+     "drawn_in": 46,
+     "drawn_mm_max": 6.0
     }
    },
    "hidden_lod": {
-    "faces": 1852,
+    "faces": 1588,
     "of": 3364
    },
    "hidden_lod_head": {
-    "faces": 84,
+    "faces": 68,
     "of": 2572
    },
    "tucked": {
     "full": {
-     "verts": 303,
-     "max_mm": 10.7,
-     "median_mm": 4.3
+     "verts": 226,
+     "max_mm": 16.0,
+     "median_mm": 3.7
     },
     "lod": {
-     "verts": 20,
-     "max_mm": 8.3,
-     "median_mm": 1.0
+     "verts": 27,
+     "max_mm": 11.4,
+     "median_mm": 2.3
     }
    },
    "garments": {
@@ -369,20 +418,20 @@
      "pushed": 0,
      "moved_cm": 6.0
     },
-    "clothes:joepal_crude_t-shirt_female": {
-     "tris": 2068,
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": {
+     "tris": 2588,
      "pushed": 0,
-     "moved_cm": 3.8
+     "moved_cm": 4.3
+    },
+    "clothes:mindfront_f_dress_09": {
+     "tris": 15920,
+     "pushed": 0,
+     "moved_cm": 7.5
     },
     "clothes:punkduck_lace_up_blouse": {
      "tris": 4954,
      "pushed": 0,
      "moved_cm": 5.8
-    },
-    "clothes:toigo_wool_pants": {
-     "tris": 2674,
-     "pushed": 0,
-     "moved_cm": 6.0
     }
    }
   },
@@ -393,15 +442,15 @@
     0.964
    ],
    "bent_tilt_deg_p50_p95": [
-    5.2,
-    56.2
+    5.3,
+    57.2
    ],
    "cone_deg_p5_p50": [
     0.0,
     76.5
    ],
    "thin_under_6mm": 0.0214,
-   "occluder_points": 14046542
+   "occluder_points": 14629870
   },
   "detail": {
    "hair_light": {
@@ -434,33 +483,37 @@
     "gltf": "anjali.dress-warm.gltf",
     "lod": "anjali.dress-warm.lod.glb",
     "tint_base": {
-     "clothes:punkduck_winter_coat": "#2F3A4F",
-     "clothes:toigo_wool_pants": "#3A3A3A",
-     "clothes:toigo_ankle_boots_female": "#3A2A1E"
+     "clothes:punkduck_winter_coat": "#77705F",
+     "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+     "clothes:mindfront_f_dress_09": "#6F695C",
+     "clothes:dressupdoc_balletflat1": "#2E2A26"
     },
     "warm": true,
     "garments": [
      "punkduck_winter_coat",
-     "toigo_wool_pants",
-     "toigo_ankle_boots_female"
+     "elvs_ruffle_sleeve_peasant_blouse_1",
+     "mindfront_f_dress_09",
+     "dressupdoc_balletflat1"
     ],
-    "words": "a winter coat",
-    "tris": 63974
+    "words": "a long woollen coat",
+    "tris": 80530
    },
    "best": {
     "gltf": "anjali.dress-best.gltf",
     "lod": "anjali.dress-best.lod.glb",
     "tint_base": {
-     "clothes:mindfront_f_dress_01": "#7C2F3C",
+     "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+     "clothes:mindfront_f_dress_09": "#2F3D5C",
      "clothes:dressupdoc_balletflat1": "#2E2A26"
     },
     "warm": false,
     "garments": [
-     "mindfront_f_dress_01",
+     "elvs_ruffle_sleeve_peasant_blouse_1",
+     "mindfront_f_dress_09",
      "dressupdoc_balletflat1"
     ],
-    "words": "a dress",
-    "tris": 60758
+    "words": "a dark gown over a clean shift",
+    "tris": 59699
    }
   },
   "hair": {
@@ -484,13 +537,6 @@
     "length": "long",
     "texture": "straight",
     "tris": 30100
-   },
-   "Hair_S_PulledBack": {
-    "gltf": "anjali.hair-Hair_S_PulledBack.gltf",
-    "lod": "anjali.hair-Hair_S_PulledBack.lod.glb",
-    "length": "long",
-    "texture": "straight",
-    "tris": 15490
    },
    "Hair_S_Updo": {
     "gltf": "anjali.hair-Hair_S_Updo.gltf",
@@ -532,18 +578,18 @@
   "hair": [],
   "clothes": [
    "clothes:dressupdoc_balletflat1",
-   "clothes:joepal_crude_t-shirt_female",
-   "clothes:punkduck_lace_up_blouse",
-   "clothes:toigo_wool_pants"
+   "clothes:elvs_ruffle_sleeve_peasant_blouse_1",
+   "clothes:mindfront_f_dress_09",
+   "clothes:punkduck_lace_up_blouse"
   ]
  },
  "tint_base": {
   "skin": "#8E6C5D",
   "hair": "#1A1512",
   "clothes": {
-   "clothes:punkduck_lace_up_blouse": "#D8D3C4",
-   "clothes:joepal_crude_t-shirt_female": "#D8D3C4",
-   "clothes:toigo_wool_pants": "#3F4A5E",
+   "clothes:punkduck_lace_up_blouse": "#E2DCCB",
+   "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+   "clothes:mindfront_f_dress_09": "#6F695C",
    "clothes:dressupdoc_balletflat1": "#2E2A26"
   }
  }

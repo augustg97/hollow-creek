@@ -19,25 +19,24 @@
  "lod": "joost.lod.glb",
  "portrait": "joost.portrait.jpg",
  "build": {
-  "hash": "119a8c89368913f3",
+  "hash": "0eef0818c927b6a1",
   "spec": "people/joost.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
+  "date": "2026-10-12",
   "seconds": 9.3
  },
  "stats": {
   "height_m": 1.732,
-  "tris": 42610,
-  "lod_tris": 14812,
-  "geometry_bytes": 887148,
-  "lod_bytes": 234456,
-  "texture_bytes": 3966528,
-  "texture_mb_gpu": 71.8,
+  "tris": 46902,
+  "lod_tris": 16101,
+  "geometry_bytes": 953120,
+  "lod_bytes": 247932,
+  "texture_bytes": 3668084,
+  "texture_mb_gpu": 66.5,
   "textures": [
-   "dedb6f484ac4dba9f596.png",
-   "240f9512b4aa23e591c5.jpg",
-   "99378e179ed5f2cde841.jpg",
+   "87e968999bc17b415005.jpg",
+   "7dfc5f2d14baba8de8ff.jpg",
    "7579bf376d2dd818fae2.jpg",
    "455d3de06f8de2daaa93.jpg",
    "2eb8fa0e8062635b9ece.png",
@@ -102,16 +101,16 @@
   },
   {
    "kind": "clothes",
-   "name": "elvs_crude_t-shirt_male",
-   "license": "CC0",
+   "name": "elvs_male_boho_top1",
+   "license": "CC-BY",
    "author": "Elvaerwyn",
-   "pack": "shirts01"
+   "pack": "shirts02"
   },
   {
    "kind": "clothes",
-   "name": "punkduck_male_classic_jeans",
+   "name": "elvs_male_trouser",
    "license": "CC-BY",
-   "author": "punkduck",
+   "author": "Elvaerwyn",
    "pack": "pants02"
   },
   {

@@ -19,26 +19,27 @@
  "lod": "mara.lod.glb",
  "portrait": "mara.portrait.jpg",
  "build": {
-  "hash": "98652389a372d929",
+  "hash": "f4ebb2168fa6a2ee",
   "spec": "people/mara.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 12.6
+  "date": "2026-10-12",
+  "seconds": 19.5
  },
  "stats": {
   "height_m": 1.638,
-  "tris": 99280,
-  "lod_tris": 31810,
-  "geometry_bytes": 1410252,
-  "lod_bytes": 412948,
-  "texture_bytes": 4293576,
-  "texture_mb_gpu": 66.5,
+  "tris": 99042,
+  "lod_tris": 31740,
+  "geometry_bytes": 1402176,
+  "lod_bytes": 417912,
+  "texture_bytes": 5018655,
+  "texture_mb_gpu": 71.8,
   "textures": [
    "5b46c1645877796197fa.png",
    "d0a8dd8fc4596a8488b9.jpg",
-   "6c047eb68b2fa0cd1d62.jpg",
-   "4e28efa3cf1f39323947.png",
+   "1d1eab63fce1e9ebc567.jpg",
+   "311c1354330098aacf39.jpg",
+   "df85d5006d2cbe15d7fd.png",
    "a1e4b639f40f6f70cb67.png",
    "8832d0bec37ebf4e44ee.png",
    "76e0236405ae4ad1846d.png",
@@ -101,17 +102,17 @@
   },
   {
    "kind": "clothes",
-   "name": "joepal_crude_t-shirt_female",
-   "license": "CC0",
-   "author": "Joel Palmius",
-   "pack": "shirts01"
+   "name": "elvs_ruffle_sleeve_peasant_blouse_1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "shirts03"
   },
   {
    "kind": "clothes",
-   "name": "toigo_wool_pants",
-   "license": "CC0",
-   "author": "MargaretToigo",
-   "pack": "pants01"
+   "name": "mindfront_f_dress_09",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "dress03"
   },
   {
    "kind": "clothes",

@@ -19,27 +19,26 @@
  "lod": "paolo.lod.glb",
  "portrait": "paolo.portrait.jpg",
  "build": {
-  "hash": "a468116fc12db5db",
+  "hash": "5e2d35f245fe02d4",
   "spec": "people/paolo.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 10.7
+  "date": "2026-10-12",
+  "seconds": 12.5
  },
  "stats": {
   "height_m": 1.689,
-  "tris": 65414,
-  "lod_tris": 21649,
-  "geometry_bytes": 1096112,
-  "lod_bytes": 311924,
-  "texture_bytes": 4777621,
-  "texture_mb_gpu": 71.8,
+  "tris": 56570,
+  "lod_tris": 19000,
+  "geometry_bytes": 1033508,
+  "lod_bytes": 295240,
+  "texture_bytes": 4651717,
+  "texture_mb_gpu": 66.5,
   "textures": [
-   "6c416ae1bc7fcfdc42d3.jpg",
-   "10d6f67ec3ab9025e054.jpg",
+   "def6d7306c57d08fbb55.jpg",
+   "f7bb0b3b82cc05e27868.jpg",
    "75873766019e1c652359.png",
    "90226d457a4b0207a697.png",
-   "cd2512d46744bf5a099d.jpg",
    "78f7bd80cda8227cef6a.png",
    "8832d0bec37ebf4e44ee.png",
    "786fc56cdb4d5fd8520f.png",
@@ -102,16 +101,16 @@
   },
   {
    "kind": "clothes",
-   "name": "namuhekam_male_polo_shirt",
-   "license": "CC0",
-   "author": "namuhekam",
-   "pack": "shirts01"
+   "name": "elvs_male_shirt_untucked_bd1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "shirts02"
   },
   {
    "kind": "clothes",
-   "name": "mindfront_male_trousers_2",
+   "name": "elvs_male_trouser",
    "license": "CC-BY",
-   "author": "Mindfront",
+   "author": "Elvaerwyn",
    "pack": "pants02"
   },
   {

@@ -23,8 +23,8 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/yonas/mh/dna/yonas_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-08",
-  "seconds": 538.4,
+  "date": "2026-10-12",
+  "seconds": 537.1,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/yonas/maps",
   "maps": {
    "made": "2026-10-07 21:25:40",
@@ -38,8 +38,8 @@
  },
  "stats": {
   "head_joint_m": 1.701,
-  "tris": 111043,
-  "lod_tris": 17442,
+  "tris": 119219,
+  "lod_tris": 16625,
   "gltf": "yonas.gltf",
   "textures": {
    "materials": [
@@ -52,17 +52,11 @@
    "skin_tone": "character (MetaHuman skin model)",
    "face_albedo": "synthesized"
   },
-  "textureBytes": 9791743,
-  "textureMemoryMB": 126,
-  "simplified": {
-   "clothes:male_worksuit01": [
-    30932,
-    9478
-   ]
-  },
+  "textureBytes": 9799887,
+  "textureMemoryMB": 128.7,
   "lod": "yonas.lod.glb",
-  "lodBytes": 464204,
-  "geometryBytes": 5394800,
+  "lodBytes": 463280,
+  "geometryBytes": 5496300,
   "refit_cm": {
    "hand_l": 10.66,
    "foot_l": 8.29,
@@ -212,95 +206,150 @@
    },
    "clothes_bind": "all",
    "smoothed": {
-    "clothes:male_worksuit01": {
+    "clothes:elvs_male_boho_top1": {
      "tris": [
-      6986,
-      27944
+      3422,
+      13688
      ],
-     "median_edge_cm": 2.19,
+     "median_edge_cm": 2.87,
      "hard": 0,
-     "capped": 308,
-     "hem_edges": 554,
+     "capped": 93,
+     "hem_edges": 122,
      "max_mm": 4.5,
-     "hem_points_relaxed": 424
+     "hem_points_relaxed": 116
+    },
+    "clothes:elvs_male_trouser": {
+     "tris": [
+      3540,
+      14160
+     ],
+     "median_edge_cm": 2.8,
+     "hard": 0,
+     "capped": 102,
+     "hem_edges": 112,
+     "max_mm": 4.5,
+     "hem_points_relaxed": 42
     }
    },
    "bridged": {
-    "clothes:male_worksuit01": {
-     "moved_share": 0.485,
-     "p95_mm": 5.7,
-     "max_mm": 18.0,
-     "capped": 732
+    "clothes:elvs_male_boho_top1": {
+     "moved_share": 0.519,
+     "p95_mm": 11.3,
+     "max_mm": 24.8,
+     "capped": 310
+    },
+    "clothes:elvs_male_trouser": {
+     "moved_share": 0.542,
+     "p95_mm": 12.9,
+     "max_mm": 27.0,
+     "capped": 2245
     }
    },
    "drape_sim": {
-    "clothes:male_worksuit01": {
+    "clothes:elvs_male_boho_top1": {
      "parts": [
       {
-       "verts": 37759,
-       "held": 18136,
-       "beneath": 4,
-       "seconds": 63.3
-      },
-      {
-       "verts": 17042,
-       "held": 6452,
-       "beneath": 0,
-       "seconds": 27.5
+       "verts": 26086,
+       "held": 1479,
+       "beneath": 1,
+       "seconds": 47.7
       }
      ],
      "relief_p5_p95_mm": [
-      -1.8,
-      1.8
+      -2.7,
+      2.4
      ],
-     "outline_p5_p95_mm": null,
-     "capped": 0
+     "outline_p5_p95_mm": [
+      -3.0,
+      4.8
+     ],
+     "capped": 4
+    },
+    "clothes:elvs_male_trouser": {
+     "parts": [
+      {
+       "verts": 28542,
+       "held": 11765,
+       "beneath": 0,
+       "seconds": 49.7
+      }
+     ],
+     "relief_p5_p95_mm": [
+      -3.7,
+      3.5
+     ],
+     "outline_p5_p95_mm": [
+      -3.0,
+      2.6
+     ],
+     "capped": 6
     }
    },
-   "draped": {
-    "clothes:male_worksuit01": {
-     "moved_share": 0.25,
-     "p95_mm": 2.24,
-     "max_mm": 10.68,
-     "capped": 9
+   "beneath": {
+    "clothes:elvs_male_trouser": {
+     "tris": [
+      14160,
+      11616
+     ],
+     "drawn_in": 61,
+     "drawn_mm_max": 2.0
     }
    },
    "shod_mpfb_mask": 324,
    "hidden_full": {
-    "faces": 15517,
+    "faces": 19978,
     "of": 30408
    },
    "lod_reshaped": {
-    "clothes:male_worksuit01": {
-     "p95_mm": 9.2,
-     "max_mm": 24.3
+    "clothes:elvs_male_boho_top1": {
+     "p95_mm": 10.0,
+     "max_mm": 31.6
+    },
+    "clothes:elvs_male_trouser": {
+     "p95_mm": 12.9,
+     "max_mm": 25.3
+    }
+   },
+   "beneath_lod": {
+    "clothes:elvs_male_trouser": {
+     "tris": [
+      1061,
+      1061
+     ],
+     "drawn_in": 8,
+     "drawn_mm_max": 1.9
     }
    },
    "hidden_lod": {
-    "faces": 1809,
+    "faces": 2198,
     "of": 3364
    },
    "hidden_lod_head": {
-    "faces": 108,
+    "faces": 123,
     "of": 2572
    },
    "tucked": {
     "full": {
-     "verts": 1,
-     "max_mm": 0.8,
-     "median_mm": 0.8
+     "verts": 23,
+     "max_mm": 1.2,
+     "median_mm": 0.2
     },
     "lod": {
-     "verts": 1,
-     "max_mm": 1.2,
-     "median_mm": 1.2
+     "verts": 3,
+     "max_mm": 1.7,
+     "median_mm": 0.2
     }
    },
    "garments": {
-    "clothes:male_worksuit01": {
-     "tris": 6986,
-     "pushed": 1,
-     "moved_cm": 10.7
+    "clothes:elvs_male_boho_top1": {
+     "tris": 3422,
+     "pushed": 0,
+     "moved_cm": 11.5
+    },
+    "clothes:elvs_male_trouser": {
+     "tris": 3540,
+     "pushed": 0,
+     "moved_cm": 9.8
     },
     "clothes:toigo_ankle_boots_male": {
      "tris": 4120,
@@ -312,19 +361,19 @@
   "skin_light": {
    "sky_p5_p50_p95": [
     0.0,
-    0.766,
+    0.762,
     0.988
    ],
    "bent_tilt_deg_p50_p95": [
-    4.3,
-    62.7
+    4.4,
+    62.0
    ],
    "cone_deg_p5_p50": [
     0.0,
-    76.2
+    75.9
    ],
    "thin_under_6mm": 0.0271,
-   "occluder_points": 7105462
+   "occluder_points": 6571743
   },
   "detail": {
    "hair_light": {
@@ -337,7 +386,7 @@
       0.975
      ]
     },
-    "seconds": 3.8
+    "seconds": 4.1
    },
    "cloth_light": {
     "skipped": "no textured garments"
@@ -357,35 +406,35 @@
     "gltf": "yonas.dress-warm.gltf",
     "lod": "yonas.dress-warm.lod.glb",
     "tint_base": {
-     "clothes:elvs_hooded_sweat_jacket1": "#6B2F2F",
-     "clothes:punkduck_male_classic_jeans": "#2F3A4F",
+     "clothes:toigo_fisherman_sweater": "#6B3A30",
+     "clothes:elvs_male_trouser": "#6B5A46",
      "clothes:toigo_ankle_boots_male": "#2A2622"
     },
     "warm": true,
     "garments": [
-     "elvs_hooded_sweat_jacket1",
-     "punkduck_male_classic_jeans",
+     "toigo_fisherman_sweater",
+     "elvs_male_trouser",
      "toigo_ankle_boots_male"
     ],
-    "words": "a hooded jacket",
-    "tris": 67686
+    "words": "a knitted jersey",
+    "tris": 54561
    },
    "best": {
     "gltf": "yonas.dress-best.gltf",
     "lod": "yonas.dress-best.lod.glb",
     "tint_base": {
-     "clothes:elvs_male_shirt_tie_tucked1": "#C9CFD6",
-     "clothes:mindfront_male_trousers_1": "#4A4E57",
+     "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+     "clothes:elvs_male_trouser": "#2B2826",
      "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
     },
     "warm": false,
     "garments": [
-     "elvs_male_shirt_tie_tucked1",
-     "mindfront_male_trousers_1",
+     "elvs_male_shirt_untucked_bd1",
+     "elvs_male_trouser",
      "mindfront_shoes_monk_strap_male"
     ],
-    "words": "a shirt and neckcloth",
-    "tris": 67942
+    "words": "a clean shirt and black trousers",
+    "tris": 56679
    }
   },
   "hair": {
@@ -449,7 +498,8 @@
   ],
   "hair": [],
   "clothes": [
-   "clothes:male_worksuit01",
+   "clothes:elvs_male_boho_top1",
+   "clothes:elvs_male_trouser",
    "clothes:toigo_ankle_boots_male"
   ]
  },
@@ -457,7 +507,8 @@
   "skin": "#745A4B",
   "hair": "#1A1512",
   "clothes": {
-   "clothes:male_worksuit01": "#75643F",
+   "clothes:elvs_male_boho_top1": "#D8D0BC",
+   "clothes:elvs_male_trouser": "#6B5A46",
    "clothes:toigo_ankle_boots_male": "#2A2622"
   }
  }

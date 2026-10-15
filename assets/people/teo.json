@@ -19,24 +19,24 @@
  "lod": "teo.lod.glb",
  "portrait": "teo.portrait.jpg",
  "build": {
-  "hash": "e18b81b20c5226be",
+  "hash": "81ed7cffc0cf0d9d",
   "spec": "people/teo.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 9.1
+  "date": "2026-10-12",
+  "seconds": 10.6
  },
  "stats": {
   "height_m": 1.783,
-  "tris": 39092,
-  "lod_tris": 13756,
-  "geometry_bytes": 834432,
-  "lod_bytes": 217832,
-  "texture_bytes": 3632066,
+  "tris": 44608,
+  "lod_tris": 15410,
+  "geometry_bytes": 932048,
+  "lod_bytes": 245348,
+  "texture_bytes": 3531942,
   "texture_mb_gpu": 66.5,
   "textures": [
-   "47dd7f487114b8e28972.jpg",
-   "dfe174b69d5445ddce2b.jpg",
+   "98c013168e4080362e06.jpg",
+   "22c6ec79ffead318c479.jpg",
    "7579bf376d2dd818fae2.jpg",
    "4a13034e0ef83a872e74.jpg",
    "a86c08fb3d13b4f81e07.png",
@@ -101,10 +101,17 @@
   },
   {
    "kind": "clothes",
-   "name": "male_worksuit01",
-   "license": "CC0",
-   "author": "makehuman_system",
-   "pack": "makehuman_system_assets"
+   "name": "elvs_male_boho_top1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "shirts02"
+  },
+  {
+   "kind": "clothes",
+   "name": "elvs_male_trouser",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "pants02"
   },
   {
    "kind": "clothes",

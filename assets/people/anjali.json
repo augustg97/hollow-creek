@@ -19,28 +19,29 @@
  "lod": "anjali.lod.glb",
  "portrait": "anjali.portrait.jpg",
  "build": {
-  "hash": "c0c49652f1799167",
+  "hash": "009e34b2b9b62bbb",
   "spec": "people/anjali.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 9.2
+  "date": "2026-10-12",
+  "seconds": 16.4
  },
  "stats": {
   "height_m": 1.578,
-  "tris": 49316,
-  "lod_tris": 16821,
-  "geometry_bytes": 985768,
-  "lod_bytes": 271056,
-  "texture_bytes": 3660677,
-  "texture_mb_gpu": 71.8,
+  "tris": 59616,
+  "lod_tris": 19911,
+  "geometry_bytes": 1066492,
+  "lod_bytes": 304680,
+  "texture_bytes": 4314714,
+  "texture_mb_gpu": 77.1,
   "textures": [
    "913e3ba179ffd7734e98.jpg",
    "2c5dbcaf174916514528.png",
-   "f8af7b208a74ca9e4f37.jpg",
+   "1d1eab63fce1e9ebc567.jpg",
+   "311c1354330098aacf39.jpg",
+   "7fba60db8572a9352395.png",
    "65d72585f24a600d9366.jpg",
-   "f248de5b7faf78c8b06a.png",
-   "1a876d768a0fc34bce29.png",
+   "db2be96b446d14681434.png",
    "3912547cdc432a8f80ae.png",
    "8832d0bec37ebf4e44ee.png",
    "786fc56cdb4d5fd8520f.png",
@@ -109,17 +110,17 @@
   },
   {
    "kind": "clothes",
-   "name": "joepal_crude_t-shirt_female",
-   "license": "CC0",
-   "author": "Joel Palmius",
-   "pack": "shirts01"
+   "name": "elvs_ruffle_sleeve_peasant_blouse_1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "shirts03"
   },
   {
    "kind": "clothes",
-   "name": "toigo_wool_pants",
-   "license": "CC0",
-   "author": "MargaretToigo",
-   "pack": "pants01"
+   "name": "mindfront_f_dress_09",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "dress03"
   },
   {
    "kind": "clothes",

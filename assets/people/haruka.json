@@ -19,27 +19,29 @@
  "lod": "haruka.lod.glb",
  "portrait": "haruka.portrait.jpg",
  "build": {
-  "hash": "2e056c6853540863",
+  "hash": "d62b09f954f83228",
   "spec": "people/haruka.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 9.5
+  "date": "2026-10-12",
+  "seconds": 17.4
  },
  "stats": {
   "height_m": 1.649,
-  "tris": 43032,
-  "lod_tris": 14938,
-  "geometry_bytes": 887124,
-  "lod_bytes": 248664,
-  "texture_bytes": 5431569,
-  "texture_mb_gpu": 71.8,
+  "tris": 59394,
+  "lod_tris": 19846,
+  "geometry_bytes": 1045668,
+  "lod_bytes": 311388,
+  "texture_bytes": 3950018,
+  "texture_mb_gpu": 82.5,
   "textures": [
-   "20faf45f2b057a34cec6.png",
-   "a16958369931c37148c6.png",
+   "1d1eab63fce1e9ebc567.jpg",
+   "311c1354330098aacf39.jpg",
+   "8ba58f0faebb1ceff032.png",
+   "65d72585f24a600d9366.jpg",
+   "21bb6a2aee79a9c280d4.png",
    "7579bf376d2dd818fae2.jpg",
    "d49eb3d18d2db2c1d9bb.jpg",
-   "f4075712076fd4c72f57.png",
    "08c5c6fc1bfea8041d63.png",
    "8832d0bec37ebf4e44ee.png",
    "786fc56cdb4d5fd8520f.png",
@@ -102,17 +104,24 @@
   },
   {
    "kind": "clothes",
-   "name": "mindfront_knitted_sweater_02",
+   "name": "punkduck_lace_up_blouse",
    "license": "CC-BY",
-   "author": "Mindfront",
+   "author": "punkduck",
    "pack": "shirts02"
   },
   {
    "kind": "clothes",
-   "name": "toigo_wool_pants",
-   "license": "CC0",
-   "author": "MargaretToigo",
-   "pack": "pants01"
+   "name": "elvs_ruffle_sleeve_peasant_blouse_1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "shirts03"
+  },
+  {
+   "kind": "clothes",
+   "name": "mindfront_f_dress_09",
+   "license": "CC-BY",
+   "author": "Mindfront",
+   "pack": "dress03"
   },
   {
    "kind": "clothes",

@@ -21,6 +21,46 @@
    ]
   },
   {
+   "asset": "elvs_male_boho_top1",
+   "kind": "clothes",
+   "author": "Elvaerwyn",
+   "license": "CC-BY",
+   "people": [
+    "Joost",
+    "Kojo",
+    "Teo",
+    "Yonas"
+   ]
+  },
+  {
+   "asset": "elvs_male_shirt_untucked_bd1",
+   "kind": "clothes",
+   "author": "Elvaerwyn",
+   "license": "CC-BY",
+   "people": [
+    "Joost",
+    "Kojo",
+    "Paolo",
+    "Sam",
+    "Teo",
+    "Yonas"
+   ]
+  },
+  {
+   "asset": "elvs_male_trouser",
+   "kind": "clothes",
+   "author": "Elvaerwyn",
+   "license": "CC-BY",
+   "people": [
+    "Joost",
+    "Kojo",
+    "Paolo",
+    "Sam",
+    "Teo",
+    "Yonas"
+   ]
+  },
+  {
    "asset": "elvs_male_trouser_short_1",
    "kind": "clothes",
    "author": "Elvaerwyn",
@@ -31,30 +71,32 @@
    ]
   },
   {
-   "asset": "janexx_old_female_sweater",
+   "asset": "elvs_ruffle_sleeve_peasant_blouse_1",
    "kind": "clothes",
-   "author": "janexx",
+   "author": "Elvaerwyn",
    "license": "CC-BY",
    "people": [
+    "Anjali",
+    "Defne",
+    "Haruka",
+    "Ines",
+    "Mara",
+    "Nadia",
     "Romy"
    ]
   },
   {
-   "asset": "mindfront_cardigan_long_open_front",
+   "asset": "mindfront_f_dress_09",
    "kind": "clothes",
    "author": "Mindfront",
    "license": "CC-BY",
    "people": [
-    "Defne"
-   ]
-  },
-  {
-   "asset": "mindfront_female_trousers_1",
-   "kind": "clothes",
-   "author": "Mindfront",
-   "license": "CC-BY",
-   "people": [
+    "Anjali",
     "Defne",
+    "Haruka",
+    "Ines",
+    "Mara",
+    "Nadia",
     "Romy"
    ]
   },
@@ -64,7 +106,6 @@
    "author": "Mindfront",
    "license": "CC-BY",
    "people": [
-    "Kojo",
     "the children"
    ]
   },
@@ -75,6 +116,7 @@
    "license": "CC-BY",
    "people": [
     "Haruka",
+    "Mara",
     "the children"
    ]
   },
@@ -84,7 +126,6 @@
    "author": "Mindfront",
    "license": "CC-BY",
    "people": [
-    "Paolo",
     "the children"
    ]
   },
@@ -94,7 +135,12 @@
    "author": "Mindfront",
    "license": "CC-BY",
    "people": [
+    "Joost",
+    "Kojo",
     "Paolo",
+    "Sam",
+    "Teo",
+    "Yonas",
     "the children"
    ]
   },
@@ -104,9 +150,7 @@
    "author": "punkduck",
    "license": "CC-BY",
    "people": [
-    "Kojo",
     "Lena",
-    "Sam",
     "the children"
    ]
   },
@@ -125,7 +169,11 @@
    "author": "punkduck",
    "license": "CC-BY",
    "people": [
-    "Anjali"
+    "Anjali",
+    "Haruka",
+    "Ines",
+    "Nadia",
+    "Romy"
    ]
   },
   {
@@ -134,10 +182,7 @@
    "author": "punkduck",
    "license": "CC-BY",
    "people": [
-    "Joost",
-    "Kojo",
     "Lena",
-    "Sam",
     "the children"
    ]
   },
@@ -156,7 +201,14 @@
    "author": "punkduck",
    "license": "CC-BY",
    "people": [
+    "Anjali",
+    "Defne",
+    "Ines",
     "Lena",
+    "Nadia",
+    "Paolo",
+    "Romy",
+    "Teo",
     "the children"
    ]
   },

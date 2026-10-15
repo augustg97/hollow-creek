@@ -19,26 +19,26 @@
  "lod": "sam.lod.glb",
  "portrait": "sam.portrait.jpg",
  "build": {
-  "hash": "8c86647825b8c2ce",
+  "hash": "2220aa14eef89d67",
   "spec": "people/sam.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 9.8
+  "date": "2026-10-12",
+  "seconds": 12.0
  },
  "stats": {
   "height_m": 1.808,
-  "tris": 48056,
-  "lod_tris": 16441,
-  "geometry_bytes": 968152,
-  "lod_bytes": 253944,
-  "texture_bytes": 4722311,
+  "tris": 56454,
+  "lod_tris": 18965,
+  "geometry_bytes": 1028424,
+  "lod_bytes": 285468,
+  "texture_bytes": 4857848,
   "texture_mb_gpu": 66.5,
   "textures": [
-   "4c94b5b703990de1f443.jpg",
-   "3f6b29ddc0c3cd8aee40.png",
-   "240f9512b4aa23e591c5.jpg",
-   "3f127016394067bf4edc.jpg",
+   "df0d82694df9dd7d169a.jpg",
+   "c5c69cf162ca4d14001e.jpg",
+   "75873766019e1c652359.png",
+   "ff6476b33c200dcf2da5.png",
    "381462f00833bd02879c.png",
    "8832d0bec37ebf4e44ee.png",
    "1c34de4ca09d6a3c5141.png",
@@ -101,23 +101,23 @@
   },
   {
    "kind": "clothes",
-   "name": "namuhekam_male_polo_shirt",
-   "license": "CC0",
-   "author": "namuhekam",
-   "pack": "shirts01"
+   "name": "elvs_male_shirt_untucked_bd1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "shirts02"
   },
   {
    "kind": "clothes",
-   "name": "punkduck_male_classic_jeans",
+   "name": "elvs_male_trouser",
    "license": "CC-BY",
-   "author": "punkduck",
+   "author": "Elvaerwyn",
    "pack": "pants02"
   },
   {
    "kind": "clothes",
-   "name": "punkduck_comfortable_sneakers",
+   "name": "mindfront_shoes_monk_strap_male",
    "license": "CC-BY",
-   "author": "punkduck",
+   "author": "Mindfront",
    "pack": "shoes02"
   }
  ],

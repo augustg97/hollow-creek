@@ -23,8 +23,8 @@
   "body": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/mh/dna/sam_Body.dna",
   "head_lod": 1,
   "body_lod": 0,
-  "date": "2026-10-08",
-  "seconds": 505.0,
+  "date": "2026-10-12",
+  "seconds": 534.7,
   "textures": "/Users/augustgweon/Sims/hollow-creek/.cache/mh/sam/maps",
   "maps": {
    "made": "2026-10-07 21:23:17",
@@ -37,8 +37,8 @@
  },
  "stats": {
   "head_joint_m": 1.64,
-  "tris": 141640,
-  "lod_tris": 14599,
+  "tris": 128945,
+  "lod_tris": 18288,
   "gltf": "sam.gltf",
   "textures": {
    "materials": [
@@ -51,11 +51,11 @@
    "skin_tone": "character (MetaHuman skin model)",
    "face_albedo": "synthesized"
   },
-  "textureBytes": 9718123,
+  "textureBytes": 9573623,
   "textureMemoryMB": 128.7,
   "lod": "sam.lod.glb",
-  "lodBytes": 313188,
-  "geometryBytes": 5798672,
+  "lodBytes": 357644,
+  "geometryBytes": 5693900,
   "refit_cm": {
    "hand_l": 10.14,
    "foot_l": 7.08,
@@ -197,159 +197,162 @@
    },
    "clothes_bind": "all",
    "smoothed": {
-    "clothes:namuhekam_male_polo_shirt": {
+    "clothes:elvs_male_trouser": {
      "tris": [
-      4106,
-      16424
+      3540,
+      14160
      ],
-     "median_edge_cm": 2.36,
+     "median_edge_cm": 2.71,
      "hard": 0,
-     "capped": 300,
-     "hem_edges": 268,
+     "capped": 88,
+     "hem_edges": 112,
      "max_mm": 4.5,
-     "hem_points_relaxed": 268
-    },
-    "clothes:punkduck_male_classic_jeans": {
-     "tris": [
-      4590,
-      18360
-     ],
-     "median_edge_cm": 2.39,
-     "hard": 0,
-     "capped": 274,
-     "hem_edges": 608,
-     "max_mm": 4.5,
-     "hem_points_relaxed": 0
+     "hem_points_relaxed": 42
     }
    },
    "bridged": {
-    "clothes:namuhekam_male_polo_shirt": {
-     "moved_share": 0.671,
-     "p95_mm": 13.4,
-     "max_mm": 32.1,
-     "capped": 1589
+    "clothes:elvs_male_shirt_untucked_bd1": {
+     "moved_share": 0.285,
+     "p95_mm": 5.9,
+     "max_mm": 27.0,
+     "capped": 1071
     },
-    "clothes:punkduck_male_classic_jeans": {
-     "moved_share": 0.326,
-     "p95_mm": 4.0,
-     "max_mm": 18.0,
-     "capped": 994
+    "clothes:elvs_male_trouser": {
+     "moved_share": 0.535,
+     "p95_mm": 12.1,
+     "max_mm": 27.0,
+     "capped": 1868
     }
    },
    "drape_sim": {
-    "clothes:namuhekam_male_polo_shirt": {
+    "clothes:elvs_male_shirt_untucked_bd1": {
      "parts": [
       {
-       "verts": 27210,
-       "held": 2224,
-       "beneath": 2,
-       "seconds": 45.3
+       "verts": 6868,
+       "held": 354,
+       "beneath": 20,
+       "seconds": 12.5
       }
      ],
      "relief_p5_p95_mm": [
-      -5.2,
-      5.2
+      -4.1,
+      4.3
      ],
      "outline_p5_p95_mm": [
       -3.0,
-      3.5
+      1.7
      ],
-     "capped": 9
+     "capped": 28
     },
-    "clothes:punkduck_male_classic_jeans": {
+    "clothes:elvs_male_trouser": {
      "parts": [
       {
-       "verts": 27581,
-       "held": 5653,
-       "beneath": 12,
-       "seconds": 44.9
+       "verts": 28542,
+       "held": 10116,
+       "beneath": 0,
+       "seconds": 49.9
       }
      ],
      "relief_p5_p95_mm": [
-      -1.8,
-      1.8
+      -3.2,
+      2.8
      ],
-     "outline_p5_p95_mm": null,
-     "capped": 0
+     "outline_p5_p95_mm": [
+      -3.0,
+      3.1
+     ],
+     "capped": 5
     }
    },
-   "draped": {
-    "clothes:punkduck_male_classic_jeans": {
-     "moved_share": 0.24,
-     "p95_mm": 1.66,
-     "max_mm": 7.33,
-     "capped": 13
+   "beneath": {
+    "clothes:elvs_male_trouser": {
+     "tris": [
+      14160,
+      11953
+     ],
+     "drawn_in": 36,
+     "drawn_mm_max": 1.5
     }
    },
-   "shod_mpfb_mask": 0,
+   "shod_mpfb_mask": 204,
    "hidden_full": {
-    "faces": 16062,
+    "faces": 20346,
     "of": 30408
    },
    "lod_reshaped": {
-    "clothes:namuhekam_male_polo_shirt": {
-     "p95_mm": 12.6,
-     "max_mm": 35.0
+    "clothes:elvs_male_shirt_untucked_bd1": {
+     "p95_mm": 6.1,
+     "max_mm": 29.2
     },
-    "clothes:punkduck_male_classic_jeans": {
-     "p95_mm": 4.1,
-     "max_mm": 22.4
+    "clothes:elvs_male_trouser": {
+     "p95_mm": 12.7,
+     "max_mm": 32.1
+    }
+   },
+   "beneath_lod": {
+    "clothes:elvs_male_trouser": {
+     "tris": [
+      1061,
+      1061
+     ],
+     "drawn_in": 4,
+     "drawn_mm_max": 0.4
     }
    },
    "hidden_lod": {
-    "faces": 1926,
+    "faces": 2226,
     "of": 3364
    },
    "hidden_lod_head": {
-    "faces": 105,
+    "faces": 164,
     "of": 2572
    },
    "tucked": {
     "full": {
-     "verts": 71,
-     "max_mm": 12.9,
-     "median_mm": 4.7
+     "verts": 319,
+     "max_mm": 4.3,
+     "median_mm": 0.9
     },
     "lod": {
-     "verts": 4,
-     "max_mm": 7.6,
-     "median_mm": 5.5
+     "verts": 13,
+     "max_mm": 4.1,
+     "median_mm": 0.2
     }
    },
    "garments": {
-    "clothes:namuhekam_male_polo_shirt": {
-     "tris": 4106,
+    "clothes:elvs_male_shirt_untucked_bd1": {
+     "tris": 8056,
      "pushed": 0,
-     "moved_cm": 7.3
+     "moved_cm": 10.4
     },
-    "clothes:punkduck_comfortable_sneakers": {
-     "tris": 1556,
-     "pushed": 0,
-     "moved_cm": 7.7
-    },
-    "clothes:punkduck_male_classic_jeans": {
-     "tris": 4590,
+    "clothes:elvs_male_trouser": {
+     "tris": 3540,
      "pushed": 0,
      "moved_cm": 8.6
+    },
+    "clothes:mindfront_shoes_monk_strap_male": {
+     "tris": 13332,
+     "pushed": 0,
+     "moved_cm": 7.9
     }
    }
   },
   "skin_light": {
    "sky_p5_p50_p95": [
     0.0,
-    0.725,
-    0.977
+    0.691,
+    0.978
    ],
    "bent_tilt_deg_p50_p95": [
     4.9,
-    59.4
+    61.2
    ],
    "cone_deg_p5_p50": [
     0.0,
-    75.7
+    75.1
    ],
-   "thin_under_6mm": 0.0556,
-   "occluder_points": 8794845
+   "thin_under_6mm": 0.0558,
+   "occluder_points": 8209374
   },
   "detail": {
    "hair_light": {
@@ -362,7 +365,7 @@
       0.984
      ]
     },
-    "seconds": 5.0
+    "seconds": 4.9
    },
    "cloth_light": {
     "skipped": "no textured garments"
@@ -382,33 +385,35 @@
     "gltf": "sam.dress-warm.gltf",
     "lod": "sam.dress-warm.lod.glb",
     "tint_base": {
-     "clothes:toigo_fisherman_sweater": "#8C8577",
-     "clothes:mindfront_male_trousers_2": "#5B5446",
-     "clothes:toigo_ankle_boots_male": "#3A2A1E"
+     "clothes:toigo_fisherman_sweater": "#857660",
+     "clothes:elvs_male_trouser": "#6F695C",
+     "clothes:mindfront_shoes_monk_strap_male": "#2A2420"
     },
     "warm": true,
     "garments": [
      "toigo_fisherman_sweater",
-     "mindfront_male_trousers_2",
-     "toigo_ankle_boots_male"
+     "elvs_male_trouser",
+     "mindfront_shoes_monk_strap_male"
     ],
-    "words": "a fisherman's sweater",
-    "tris": 58684
+    "words": "a knitted jersey",
+    "tris": 64127
    },
    "best": {
     "gltf": "sam.dress-best.gltf",
     "lod": "sam.dress-best.lod.glb",
     "tint_base": {
-     "clothes:male_casualsuit03": "#5B5446",
+     "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+     "clothes:elvs_male_trouser": "#2B2826",
      "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
     },
     "warm": false,
     "garments": [
-     "male_casualsuit03",
+     "elvs_male_shirt_untucked_bd1",
+     "elvs_male_trouser",
      "mindfront_shoes_monk_strap_male"
     ],
-    "words": "a good shirt",
-    "tris": 56608
+    "words": "a clean shirt and black trousers",
+    "tris": 56645
    }
   },
   "hair": {
@@ -479,18 +484,18 @@
   ],
   "hair": [],
   "clothes": [
-   "clothes:namuhekam_male_polo_shirt",
-   "clothes:punkduck_comfortable_sneakers",
-   "clothes:punkduck_male_classic_jeans"
+   "clothes:elvs_male_shirt_untucked_bd1",
+   "clothes:elvs_male_trouser",
+   "clothes:mindfront_shoes_monk_strap_male"
   ]
  },
  "tint_base": {
   "skin": "#EBB599",
   "hair": "#9C8155",
   "clothes": {
-   "clothes:namuhekam_male_polo_shirt": "#35586B",
-   "clothes:punkduck_male_classic_jeans": "#3D4A63",
-   "clothes:punkduck_comfortable_sneakers": "#D8D6D2"
+   "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+   "clothes:elvs_male_trouser": "#6F695C",
+   "clothes:mindfront_shoes_monk_strap_male": "#2A2420"
   }
  },
  "wrinkles": {
@@ -553,8 +558,8 @@
     "wm1.jawOpen": 1.0
    },
    "mouthClose": {
-    "wm1.chinRaise_L": 0.5,
-    "wm1.chinRaise_R": 0.5
+    "wm1.chinRaise_R": 0.5,
+    "wm1.chinRaise_L": 0.5
    },
    "mouthDimpleLeft": {
     "wm3.smile_L": 0.4,

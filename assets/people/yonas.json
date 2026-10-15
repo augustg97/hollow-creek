@@ -19,24 +19,24 @@
  "lod": "yonas.lod.glb",
  "portrait": "yonas.portrait.jpg",
  "build": {
-  "hash": "b00e4f1baf996b4b",
+  "hash": "7b74d0162cdf1021",
   "spec": "people/yonas.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 9.5
+  "date": "2026-10-12",
+  "seconds": 11.4
  },
  "stats": {
   "height_m": 1.877,
-  "tris": 41720,
-  "lod_tris": 14546,
-  "geometry_bytes": 859032,
-  "lod_bytes": 231308,
-  "texture_bytes": 3705357,
+  "tris": 47236,
+  "lod_tris": 16200,
+  "geometry_bytes": 956528,
+  "lod_bytes": 258460,
+  "texture_bytes": 3601012,
   "texture_mb_gpu": 66.5,
   "textures": [
-   "47dd7f487114b8e28972.jpg",
-   "35e24c300af7211fc8b8.jpg",
+   "be6c2bb2b278ba116b5c.jpg",
+   "1f418da6b44a3c48f15b.jpg",
    "7579bf376d2dd818fae2.jpg",
    "5c54e7fb24b0cc8a70b1.jpg",
    "0e5b7e284e6aca2b6353.png",
@@ -101,10 +101,17 @@
   },
   {
    "kind": "clothes",
-   "name": "male_worksuit01",
-   "license": "CC0",
-   "author": "makehuman_system",
-   "pack": "makehuman_system_assets"
+   "name": "elvs_male_boho_top1",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "shirts02"
+  },
+  {
+   "kind": "clothes",
+   "name": "elvs_male_trouser",
+   "license": "CC-BY",
+   "author": "Elvaerwyn",
+   "pack": "pants02"
   },
   {
    "kind": "clothes",

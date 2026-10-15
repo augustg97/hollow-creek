@@ -7,7 +7,8 @@ A hamlet of thirty on a river, in its own century, and the parish of thousands t
 This repository holds the built web edition only. It needs a desktop browser with WebGPU (Chrome or Edge 113+,
 Safari 26+) and downloads about 260 MB on the first visit. The townspeople think by rules here; with
 [LM Studio](https://lmstudio.ai) running on your own computer (CORS enabled in its server settings) you can connect
-it from the town's menu (⋯ → Connect LM Studio…) and a local model thinks for them.
+it from the town's menu (⋯ → Connect LM Studio…) and a local model thinks for the grown people (the children, and
+every talk a child is in, stay on the rules).
 
 Made with three.js (WebGPU). Environment assets from Poly Haven (CC0); people built with MakeHuman / MPFB (CC0 and
 CC-BY, credited in the town); motion from the CMU Graphics Lab Motion Capture Database; signs and pictures made with

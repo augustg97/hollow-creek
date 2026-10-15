@@ -29,9 +29,9 @@
     0.688
    ],
    "clothes": {
-    "clothes:punkduck_lace_up_blouse": "#D8D3C4",
-    "clothes:joepal_crude_t-shirt_female": "#D8D3C4",
-    "clothes:toigo_wool_pants": "#3F4A5E",
+    "clothes:punkduck_lace_up_blouse": "#E2DCCB",
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+    "clothes:mindfront_f_dress_09": "#6F695C",
     "clothes:dressupdoc_balletflat1": "#2E2A26"
    },
    "height": 158,
@@ -53,10 +53,6 @@
      "length": "long",
      "texture": "straight"
     },
-    "Hair_S_PulledBack": {
-     "length": "long",
-     "texture": "straight"
-    },
     "Hair_S_Updo": {
      "length": "long",
      "texture": "straight"
@@ -66,19 +62,21 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:punkduck_winter_coat": "#2F3A4F",
-      "clothes:toigo_wool_pants": "#3A3A3A",
-      "clothes:toigo_ankle_boots_female": "#3A2A1E"
+      "clothes:punkduck_winter_coat": "#77705F",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#6F695C",
+      "clothes:dressupdoc_balletflat1": "#2E2A26"
      },
-     "words": "a winter coat"
+     "words": "a long woollen coat"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:mindfront_f_dress_01": "#7C2F3C",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#2F3D5C",
       "clothes:dressupdoc_balletflat1": "#2E2A26"
      },
-     "words": "a dress"
+     "words": "a dark gown over a clean shift"
     }
    }
   },
@@ -110,9 +108,8 @@
     0.168
    ],
    "clothes": {
-    "clothes:mindfront_cardigan_long_open_front": "#A4573B",
-    "clothes:joepal_crude_t-shirt_female": "#E6DFCF",
-    "clothes:mindfront_female_trousers_1": "#4A4E57",
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+    "clothes:mindfront_f_dress_09": "#8C5140",
     "clothes:toigo_flats": "#6B4F3A"
    },
    "height": 163,
@@ -134,10 +131,6 @@
      "length": "long",
      "texture": "straight"
     },
-    "Hair_S_PulledBack": {
-     "length": "long",
-     "texture": "straight"
-    },
     "Hair_S_Updo": {
      "length": "long",
      "texture": "straight"
@@ -147,28 +140,21 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:punkduck_winter_coat": "#5C4660",
-      "clothes:toigo_wool_pants": "#3A3A3A",
-      "clothes:toigo_ankle_boots_female": "#3A2A1E"
+      "clothes:punkduck_winter_coat": "#3B4560",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#8C5140",
+      "clothes:toigo_flats": "#6B4F3A"
      },
-     "words": "a winter coat"
+     "words": "a long woollen coat"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:toigo_shift_dress": "#7C2F3C",
-      "clothes:dressupdoc_balletflat1": "#2E2A26"
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#2B2826",
+      "clothes:toigo_flats": "#2E2A26"
      },
-     "words": "a dress"
-    },
-    "light": {
-     "warm": false,
-     "tint_base": {
-      "clothes:joepal_crude_t-shirt_female": "#D8D3C4",
-      "clothes:toigo_wool_pants": "#4A4E57",
-      "clothes:toigo_ankle_boots_female": "#3A2A1E"
-     },
-     "words": "a light shirt"
+     "words": "a dark gown over a clean shift"
     }
    }
   },
@@ -200,8 +186,9 @@
     -0.021
    ],
    "clothes": {
-    "clothes:mindfront_knitted_sweater_02": "#DAD1BF",
-    "clothes:toigo_wool_pants": "#3D4A63",
+    "clothes:punkduck_lace_up_blouse": "#CFC6AE",
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+    "clothes:mindfront_f_dress_09": "#4E5540",
     "clothes:toigo_ankle_boots_female": "#2E2A26"
    },
    "height": 165,
@@ -226,39 +213,26 @@
     "Hair_S_LowPonytail": {
      "length": "long",
      "texture": "straight"
-    },
-    "Hair_S_PulledBack": {
-     "length": "long",
-     "texture": "straight"
     }
    },
    "dresses": {
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:mindfront_cardigan_long_open_front": "#A4573B",
-      "clothes:mindfront_knitted_sweater_02": "#DAD1BF",
-      "clothes:toigo_wool_pants": "#3D4A63",
+      "clothes:mindfront_knitted_sweater_02": "#6B3A30",
+      "clothes:mindfront_f_dress_09": "#4E5540",
       "clothes:toigo_ankle_boots_female": "#2E2A26"
      },
-     "words": "a long cardigan over a jumper"
+     "words": "a knitted jersey over a skirt"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:mindfront_f_dress_01": "#3F5273",
-      "clothes:dressupdoc_balletflat1": "#2E2A26"
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#2B2826",
+      "clothes:toigo_ankle_boots_female": "#2A2420"
      },
-     "words": "a dress"
-    },
-    "light": {
-     "warm": false,
-     "tint_base": {
-      "clothes:joepal_crude_t-shirt_female": "#6C83A6",
-      "clothes:toigo_wool_pants": "#3D4A63",
-      "clothes:toigo_ankle_boots_female": "#3A2A1E"
-     },
-     "words": "a light shirt"
+     "words": "a dark gown over a clean shift"
     }
    }
   },
@@ -290,9 +264,10 @@
     0.125
    ],
    "clothes": {
-    "clothes:joepal_crude_t-shirt_female": "#D8D3C4",
+    "clothes:punkduck_lace_up_blouse": "#D8D0BC",
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+    "clothes:mindfront_f_dress_09": "#3B4560",
     "clothes:elvs_ladies_apron": "#4A3628",
-    "clothes:toigo_wool_pants": "#2F3A4F",
     "clothes:toigo_ankle_boots_female": "#3A2A1E"
    },
    "height": 168,
@@ -318,10 +293,6 @@
      "length": "long",
      "texture": "straight"
     },
-    "Hair_S_PulledBack": {
-     "length": "long",
-     "texture": "straight"
-    },
     "Hair_S_Updo": {
      "length": "long",
      "texture": "straight"
@@ -331,8 +302,9 @@
     "plain": {
      "warm": false,
      "tint_base": {
-      "clothes:joepal_crude_t-shirt_female": "#D8D3C4",
-      "clothes:toigo_wool_pants": "#2F3A4F",
+      "clothes:punkduck_lace_up_blouse": "#D8D0BC",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#3B4560",
       "clothes:toigo_ankle_boots_female": "#3A2A1E"
      },
      "words": "everyday clothes"
@@ -340,19 +312,21 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:punkduck_winter_coat": "#3E5A4C",
-      "clothes:toigo_wool_pants": "#2F3A4F",
+      "clothes:punkduck_winter_coat": "#4E5540",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#3B4560",
       "clothes:toigo_ankle_boots_female": "#3A2A1E"
      },
-     "words": "a winter coat"
+     "words": "a long woollen coat"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:toigo_shift_dress": "#3F5273",
-      "clothes:dressupdoc_balletflat1": "#2E2A26"
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#5E2F28",
+      "clothes:toigo_ankle_boots_female": "#2A2420"
      },
-     "words": "a dress"
+     "words": "a dark gown over a clean shift"
     }
    }
   },
@@ -384,8 +358,8 @@
     -0.92
    ],
    "clothes": {
-    "clothes:elvs_crude_t-shirt_male": "#3B6570",
-    "clothes:punkduck_male_classic_jeans": "#34425C",
+    "clothes:elvs_male_boho_top1": "#7D8760",
+    "clothes:elvs_male_trouser": "#5E4B3A",
     "clothes:toigo_ankle_boots_male": "#3A2A1E"
    },
    "height": 173,
@@ -420,20 +394,20 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:toigo_fisherman_sweater": "#D8D3C4",
-      "clothes:mindfront_male_trousers_2": "#3A3A3A",
+      "clothes:toigo_fisherman_sweater": "#CFC6AE",
+      "clothes:elvs_male_trouser": "#5E4B3A",
       "clothes:toigo_ankle_boots_male": "#3A2A1E"
      },
-     "words": "a fisherman's sweater"
+     "words": "a knitted jersey"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:elvs_male_shirt_tie_tucked1": "#D8D3C4",
-      "clothes:mindfront_male_trousers_1": "#3A3A3A",
+      "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+      "clothes:elvs_male_trouser": "#3A3632",
       "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
      },
-     "words": "a shirt and neckcloth"
+     "words": "a clean shirt and black trousers"
     }
    }
   },
@@ -465,9 +439,9 @@
     0.561
    ],
    "clothes": {
-    "clothes:mindfront_knitted_sweater_01": "#2F4A6B",
-    "clothes:punkduck_male_classic_jeans": "#2F3A4F",
-    "clothes:punkduck_comfortable_sneakers": "#3A3A3A"
+    "clothes:elvs_male_boho_top1": "#CFC6AE",
+    "clothes:elvs_male_trouser": "#3F3A33",
+    "clothes:toigo_ankle_boots_male": "#3A2A1E"
    },
    "height": 176,
    "own": {
@@ -497,28 +471,20 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:elvs_hooded_sweat_jacket1": "#4E5A48",
-      "clothes:punkduck_male_classic_jeans": "#2F3A4F",
-      "clothes:toigo_ankle_boots_male": "#2A2622"
+      "clothes:toigo_fisherman_sweater": "#3B4560",
+      "clothes:elvs_male_trouser": "#3F3A33",
+      "clothes:toigo_ankle_boots_male": "#3A2A1E"
      },
-     "words": "a hooded jacket"
+     "words": "a knitted jersey"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:male_casualsuit03": "#6A5240",
+      "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+      "clothes:elvs_male_trouser": "#2B2826",
       "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
      },
-     "words": "a good shirt"
-    },
-    "light": {
-     "warm": false,
-     "tint_base": {
-      "clothes:elvs_crude_t-shirt_male": "#D8D3C4",
-      "clothes:punkduck_male_classic_jeans": "#3D4A63",
-      "clothes:punkduck_comfortable_sneakers": "#3A3A3A"
-     },
-     "words": "shirtsleeves"
+     "words": "a clean shirt and black trousers"
     }
    }
   },
@@ -550,9 +516,9 @@
     -1.378
    ],
    "clothes": {
-    "clothes:joepal_crude_t-shirt_female": "#6C83A6",
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+    "clothes:mindfront_f_dress_09": "#4F6480",
     "clothes:elvs_ladies_apron": "#E2DACA",
-    "clothes:toigo_wool_pants": "#4A4E57",
     "clothes:dressupdoc_balletflat1": "#6B4F3A"
    },
    "height": 164,
@@ -578,10 +544,6 @@
      "length": "long",
      "texture": "straight"
     },
-    "Hair_S_PulledBack": {
-     "length": "long",
-     "texture": "straight"
-    },
     "Hair_S_Updo": {
      "length": "long",
      "texture": "straight"
@@ -591,8 +553,8 @@
     "plain": {
      "warm": false,
      "tint_base": {
-      "clothes:joepal_crude_t-shirt_female": "#6C83A6",
-      "clothes:toigo_wool_pants": "#4A4E57",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#4F6480",
       "clothes:dressupdoc_balletflat1": "#6B4F3A"
      },
      "words": "everyday clothes"
@@ -600,20 +562,20 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:mindfront_cardigan_long_open_front": "#56687A",
-      "clothes:mindfront_knitted_sweater_02": "#D8D3C4",
-      "clothes:toigo_wool_pants": "#4A4E57",
-      "clothes:toigo_ankle_boots_female": "#2E2A26"
+      "clothes:mindfront_knitted_sweater_02": "#857660",
+      "clothes:mindfront_f_dress_09": "#4F6480",
+      "clothes:dressupdoc_balletflat1": "#6B4F3A"
      },
-     "words": "a long cardigan over a jumper"
+     "words": "a knitted jersey over a skirt"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:mindfront_f_dress_01": "#4A5F7A",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#2B2826",
       "clothes:dressupdoc_balletflat1": "#2E2A26"
      },
-     "words": "a dress"
+     "words": "a dark gown over a clean shift"
     }
    }
   },
@@ -645,8 +607,9 @@
     0.122
    ],
    "clothes": {
-    "clothes:joepal_crude_t-shirt_female": "#C79A3E",
-    "clothes:toigo_wool_pants": "#3D4A63",
+    "clothes:punkduck_lace_up_blouse": "#B9A25E",
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+    "clothes:mindfront_f_dress_09": "#4A3D31",
     "clothes:toigo_ankle_boots_female": "#3A2A1E"
    },
    "height": 170,
@@ -677,19 +640,21 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:punkduck_winter_coat": "#6B2F2F",
-      "clothes:toigo_wool_pants": "#3A3A3A",
+      "clothes:punkduck_winter_coat": "#5E4B3A",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#4A3D31",
       "clothes:toigo_ankle_boots_female": "#3A2A1E"
      },
-     "words": "a winter coat"
+     "words": "a long woollen coat"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:mindfront_f_dress_01": "#3E5A4C",
-      "clothes:dressupdoc_balletflat1": "#2E2A26"
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#3E4636",
+      "clothes:toigo_ankle_boots_female": "#2A2420"
      },
-     "words": "a dress"
+     "words": "a dark gown over a clean shift"
     }
    }
   },
@@ -721,8 +686,8 @@
     -0.646
    ],
    "clothes": {
-    "clothes:namuhekam_male_polo_shirt": "#D8D3C4",
-    "clothes:mindfront_male_trousers_2": "#3A3A3A",
+    "clothes:elvs_male_shirt_untucked_bd1": "#DAD3C3",
+    "clothes:elvs_male_trouser": "#3A3632",
     "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
    },
    "height": 169,
@@ -757,19 +722,21 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:punkduck_winter_coat": "#2F3A4F",
-      "clothes:punkduck_male_classic_jeans": "#3A3A3A",
-      "clothes:toigo_ankle_boots_male": "#3A2A1E"
+      "clothes:punkduck_winter_coat": "#4A3D31",
+      "clothes:elvs_male_shirt_untucked_bd1": "#DAD3C3",
+      "clothes:elvs_male_trouser": "#3A3632",
+      "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
      },
-     "words": "a winter coat"
+     "words": "a long woollen coat"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:male_casualsuit03": "#3A3A3A",
+      "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+      "clothes:elvs_male_trouser": "#2B2826",
       "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
      },
-     "words": "a good shirt"
+     "words": "a clean shirt and black trousers"
     }
    }
   },
@@ -801,8 +768,8 @@
     0.296
    ],
    "clothes": {
-    "clothes:janexx_old_female_sweater": "#7C2F3C",
-    "clothes:mindfront_female_trousers_1": "#3A3A3A",
+    "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#D8D0BC",
+    "clothes:mindfront_f_dress_09": "#5E2F28",
     "clothes:toigo_flats": "#2E2A26"
    },
    "height": 172,
@@ -833,28 +800,22 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:punkduck_winter_coat": "#A9824E",
-      "clothes:toigo_wool_pants": "#3A3A3A",
-      "clothes:toigo_ankle_boots_female": "#3A2A1E"
+      "clothes:punkduck_winter_coat": "#857660",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#D8D0BC",
+      "clothes:mindfront_f_dress_09": "#5E2F28",
+      "clothes:toigo_flats": "#2E2A26"
      },
-     "words": "a winter coat"
+     "words": "a long woollen coat"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:punkduck_lace_up_blouse": "#D8D3C4",
-      "clothes:mindfront_female_trousers_1": "#4A4E57",
+      "clothes:punkduck_lace_up_blouse": "#E2DCCB",
+      "clothes:elvs_ruffle_sleeve_peasant_blouse_1": "#E2DCCB",
+      "clothes:mindfront_f_dress_09": "#2B2826",
       "clothes:toigo_flats": "#2E2A26"
      },
-     "words": "a blouse and good trousers"
-    },
-    "light": {
-     "warm": false,
-     "tint_base": {
-      "clothes:toigo_shift_dress": "#C9A24B",
-      "clothes:dressupdoc_balletflat1": "#2E2A26"
-     },
-     "words": "a dress"
+     "words": "a clean blouse and a good skirt"
     }
    }
   },
@@ -886,9 +847,9 @@
     1.122
    ],
    "clothes": {
-    "clothes:namuhekam_male_polo_shirt": "#35586B",
-    "clothes:punkduck_male_classic_jeans": "#3D4A63",
-    "clothes:punkduck_comfortable_sneakers": "#D8D6D2"
+    "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+    "clothes:elvs_male_trouser": "#6F695C",
+    "clothes:mindfront_shoes_monk_strap_male": "#2A2420"
    },
    "height": 181,
    "own": {
@@ -922,19 +883,20 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:toigo_fisherman_sweater": "#8C8577",
-      "clothes:mindfront_male_trousers_2": "#5B5446",
-      "clothes:toigo_ankle_boots_male": "#3A2A1E"
+      "clothes:toigo_fisherman_sweater": "#857660",
+      "clothes:elvs_male_trouser": "#6F695C",
+      "clothes:mindfront_shoes_monk_strap_male": "#2A2420"
      },
-     "words": "a fisherman's sweater"
+     "words": "a knitted jersey"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:male_casualsuit03": "#5B5446",
+      "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+      "clothes:elvs_male_trouser": "#2B2826",
       "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
      },
-     "words": "a good shirt"
+     "words": "a clean shirt and black trousers"
     }
    }
   },
@@ -966,7 +928,8 @@
     1.62
    ],
    "clothes": {
-    "clothes:male_worksuit01": "#3F5273",
+    "clothes:elvs_male_boho_top1": "#6F8098",
+    "clothes:elvs_male_trouser": "#4A3D31",
     "clothes:toigo_ankle_boots_male": "#4A3627"
    },
    "height": 178,
@@ -1001,19 +964,21 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:punkduck_winter_coat": "#4A3627",
-      "clothes:punkduck_male_classic_jeans": "#2F3A4F",
-      "clothes:toigo_ankle_boots_male": "#3A2A1E"
+      "clothes:punkduck_winter_coat": "#3B4560",
+      "clothes:elvs_male_shirt_untucked_bd1": "#6F8098",
+      "clothes:elvs_male_trouser": "#4A3D31",
+      "clothes:toigo_ankle_boots_male": "#4A3627"
      },
-     "words": "a winter coat"
+     "words": "a long woollen coat"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:male_casualsuit01": "#46546A",
+      "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+      "clothes:elvs_male_trouser": "#2B2826",
       "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
      },
-     "words": "a good shirt"
+     "words": "a clean shirt and black trousers"
     }
    }
   },
@@ -1045,7 +1010,8 @@
     -1.738
    ],
    "clothes": {
-    "clothes:male_worksuit01": "#75643F",
+    "clothes:elvs_male_boho_top1": "#D8D0BC",
+    "clothes:elvs_male_trouser": "#6B5A46",
     "clothes:toigo_ankle_boots_male": "#2A2622"
    },
    "height": 188,
@@ -1076,20 +1042,20 @@
     "warm": {
      "warm": true,
      "tint_base": {
-      "clothes:elvs_hooded_sweat_jacket1": "#6B2F2F",
-      "clothes:punkduck_male_classic_jeans": "#2F3A4F",
+      "clothes:toigo_fisherman_sweater": "#6B3A30",
+      "clothes:elvs_male_trouser": "#6B5A46",
       "clothes:toigo_ankle_boots_male": "#2A2622"
      },
-     "words": "a hooded jacket"
+     "words": "a knitted jersey"
     },
     "best": {
      "warm": false,
      "tint_base": {
-      "clothes:elvs_male_shirt_tie_tucked1": "#C9CFD6",
-      "clothes:mindfront_male_trousers_1": "#4A4E57",
+      "clothes:elvs_male_shirt_untucked_bd1": "#E2DCCB",
+      "clothes:elvs_male_trouser": "#2B2826",
       "clothes:mindfront_shoes_monk_strap_male": "#1E1A16"
      },
-     "words": "a shirt and neckcloth"
+     "words": "a clean shirt and black trousers"
     }
    }
   }

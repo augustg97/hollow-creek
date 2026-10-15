@@ -19,26 +19,25 @@
  "lod": "romy.lod.glb",
  "portrait": "romy.portrait.jpg",
  "build": {
-  "hash": "465cdbbe80832007",
+  "hash": "9334b523b453ca6d",
   "spec": "people/romy.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 14.9
+  "date": "2026-10-12",
+  "seconds": 20.4
  },
  "stats": {
   "height_m": 1.72,
-  "tris": 99754,
-  "lod_tris": 31952,
-  "geometry_bytes": 1414000,
-  "lod_bytes": 395672,
-  "texture_bytes": 3384417,
-  "texture_mb_gpu": 71.8,
+  "tris": 98912,
+  "lod_tris": 31703,
+  "geometry_bytes": 1404764,
+  "lod_bytes": 399788,
+  "texture_bytes": 4100420,
+  "texture_mb_gpu": 66.5,
   "textures": [
-   "efb314c4acbb5a4861f3.jpg",
-   "9dd8e0ac422cb64db40c.jpg",
-   "ff6cd62b75e37a721c8d.jpg",
-   "d9f0aa4c7514ae01aed1.jpg",
+   "48520ebcd74644fdece6.jpg",
+   "311c1354330098aacf39.jpg",
+   "0febcda55dcc77d8ee1a.png",
    "f86fb037cd13b4ef54ce.jpg",
    "e7b0c941fe3240890dc9.png",
    "8832d0bec37ebf4e44ee.png",
@@ -102,17 +101,17 @@
   },
   {
    "kind": "clothes",
-   "name": "janexx_old_female_sweater",
+   "name": "elvs_ruffle_sleeve_peasant_blouse_1",
    "license": "CC-BY",
-   "author": "janexx",
-   "pack": "shirts02"
+   "author": "Elvaerwyn",
+   "pack": "shirts03"
   },
   {
    "kind": "clothes",
-   "name": "mindfront_female_trousers_1",
+   "name": "mindfront_f_dress_09",
    "license": "CC-BY",
    "author": "Mindfront",
-   "pack": "pants02"
+   "pack": "dress03"
   },
   {
    "kind": "clothes",

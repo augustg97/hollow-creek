@@ -19,27 +19,25 @@
  "lod": "defne.lod.glb",
  "portrait": "defne.portrait.jpg",
  "build": {
-  "hash": "cccf13843a4d19be",
+  "hash": "b454f2690bdf01b1",
   "spec": "people/defne.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
-  "seconds": 16.9
+  "date": "2026-10-12",
+  "seconds": 22.6
  },
  "stats": {
   "height_m": 1.626,
-  "tris": 99112,
-  "lod_tris": 31760,
-  "geometry_bytes": 1438144,
-  "lod_bytes": 426876,
-  "texture_bytes": 5618159,
-  "texture_mb_gpu": 77.1,
+  "tris": 98786,
+  "lod_tris": 31663,
+  "geometry_bytes": 1427256,
+  "lod_bytes": 419696,
+  "texture_bytes": 4651327,
+  "texture_mb_gpu": 66.5,
   "textures": [
-   "030c5f4127246c997673.jpg",
-   "367972a2bd5d174670de.jpg",
-   "188f4264872f7fedfc3d.png",
-   "ff6cd62b75e37a721c8d.jpg",
-   "df58b548ceaba3291405.jpg",
+   "1d1eab63fce1e9ebc567.jpg",
+   "311c1354330098aacf39.jpg",
+   "5054487143fa45f8b581.png",
    "e7b020f7fde5f349a887.jpg",
    "86d3163884332c31b126.jpg",
    "c8dfe96062c1f09b3e0b.png",
@@ -103,24 +101,17 @@
   },
   {
    "kind": "clothes",
-   "name": "mindfront_cardigan_long_open_front",
+   "name": "elvs_ruffle_sleeve_peasant_blouse_1",
    "license": "CC-BY",
-   "author": "Mindfront",
-   "pack": "shirts02"
+   "author": "Elvaerwyn",
+   "pack": "shirts03"
   },
   {
    "kind": "clothes",
-   "name": "joepal_crude_t-shirt_female",
-   "license": "CC0",
-   "author": "Joel Palmius",
-   "pack": "shirts01"
-  },
-  {
-   "kind": "clothes",
-   "name": "mindfront_female_trousers_1",
+   "name": "mindfront_f_dress_09",
    "license": "CC-BY",
    "author": "Mindfront",
-   "pack": "pants02"
+   "pack": "dress03"
   },
   {
    "kind": "clothes",

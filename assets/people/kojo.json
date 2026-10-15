@@ -19,27 +19,26 @@
  "lod": "kojo.lod.glb",
  "portrait": "kojo.portrait.jpg",
  "build": {
-  "hash": "4b4bb9643713818d",
+  "hash": "b14104267f88b594",
   "spec": "people/kojo.json",
   "mpfb": "2.0.17",
   "blender": "5.2.2 LTS",
-  "date": "2026-10-07",
+  "date": "2026-10-12",
   "seconds": 9.5
  },
  "stats": {
   "height_m": 1.758,
-  "tris": 39924,
-  "lod_tris": 14006,
-  "geometry_bytes": 871080,
-  "lod_bytes": 228916,
-  "texture_bytes": 6397023,
-  "texture_mb_gpu": 71.8,
+  "tris": 44608,
+  "lod_tris": 15415,
+  "geometry_bytes": 934684,
+  "lod_bytes": 245528,
+  "texture_bytes": 3435935,
+  "texture_mb_gpu": 66.5,
   "textures": [
-   "61809b2eeb0b8a7efa30.png",
-   "2461f96d38c5fbeab744.png",
-   "a8520823b1bb39b1278b.png",
-   "240f9512b4aa23e591c5.jpg",
-   "271f789e0c8c6dad2893.jpg",
+   "2229c6e7e223944c5b07.jpg",
+   "b8da0d1643e218e16798.jpg",
+   "7579bf376d2dd818fae2.jpg",
+   "455d3de06f8de2daaa93.jpg",
    "28cb2ddbec1fb56eebfe.png",
    "8832d0bec37ebf4e44ee.png",
    "786fc56cdb4d5fd8520f.png",
@@ -102,24 +101,24 @@
   },
   {
    "kind": "clothes",
-   "name": "mindfront_knitted_sweater_01",
+   "name": "elvs_male_boho_top1",
    "license": "CC-BY",
-   "author": "Mindfront",
+   "author": "Elvaerwyn",
    "pack": "shirts02"
   },
   {
    "kind": "clothes",
-   "name": "punkduck_male_classic_jeans",
+   "name": "elvs_male_trouser",
    "license": "CC-BY",
-   "author": "punkduck",
+   "author": "Elvaerwyn",
    "pack": "pants02"
   },
   {
    "kind": "clothes",
-   "name": "punkduck_comfortable_sneakers",
-   "license": "CC-BY",
-   "author": "punkduck",
-   "pack": "shoes02"
+   "name": "toigo_ankle_boots_male",
+   "license": "CC0",
+   "author": "MargaretToigo",
+   "pack": "shoes01"
   }
  ],
  "license": "CC0 body (MPFB); asset licences listed per asset"
